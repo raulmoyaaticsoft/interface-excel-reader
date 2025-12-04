@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Plugin Name: Interface Excel Reader
  * Plugin URI: https://github.com/raulmoyaaticsoft/interface-excel-reader
  * Description: Interfaz externa para subir archivos Excel y lanzar sincronización.
