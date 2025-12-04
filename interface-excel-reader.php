@@ -7,10 +7,10 @@
  * Author: Atic Soft
  * Author URI: https://aticsoft.com
  * License: GPL2
- *
  * GitHub Plugin URI: raulmoyaaticsoft/interface-excel-reader
  * GitHub Branch: main
  */
+
 
 
 
