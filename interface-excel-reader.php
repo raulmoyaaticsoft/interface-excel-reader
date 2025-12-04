@@ -8,7 +8,7 @@
  * Author URI: https://aticsoft.com
  * License: GPL2
  * GitHub Plugin URI: raulmoyaaticsoft/interface-excel-reader
- * GitHub Branch: main
+ * Primary Branch: main
  */
 defined('ABSPATH') or die('No script kiddies please!');
 require_once plugin_dir_path(__FILE__) . 'sync-interface.php';
