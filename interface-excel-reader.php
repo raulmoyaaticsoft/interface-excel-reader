@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Interface Excel Reader
- * Plugin URI: https://github.com/raulmoyaaticsoft/plugin-copele-interface-excel-reader
+ * Plugin URI: https://github.com/raulmoyaaticsoft/interface-excel-reader
  * Description: Interfaz externa para subir archivos Excel y lanzar sincronización.
  * Version: 1.0.6
  * Author: Atic Soft
  * Author URI: https://aticsoft.com
  * License: GPL2
  *
- * GitHub Plugin URI: raulmoyaaticsoft/plugin-copele-interface-excel-reader
+ * GitHub Plugin URI: raulmoyaaticsoft/interface-excel-reader
  * GitHub Branch: main
  */
 
