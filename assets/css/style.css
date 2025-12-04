@@ -1,0 +1,110 @@
+.page-template-sync-excel-template{
+    font-family: Arial, sans-serif;
+    background: #f6f6f6;
+    margin: 0;
+}
+
+.page-template-sync-excel-template .container {
+    background: white;
+    padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.page-template-sync-excel-template .alert {
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.page-template-sync-excel-template .alert.success {
+    background-color: #d4edda;
+    color: #155724;
+    border-left: 4px solid #28a745;
+}
+
+.page-template-sync-excel-template .alert.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-left: 4px solid #dc3545;
+}
+
+.page-template-sync-excel-template .alert.info {
+    background-color: #cce5ff;
+    color: #004085;
+    border-left: 4px solid #007bff;
+}
+
+.page-template-sync-excel-template form input[type="file"] {
+    margin: 10px 0;
+}
+
+.page-template-sync-excel-template form button.btn-info {
+    background-color: #0073aa;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+} 
+
+.page-template-sync-excel-template form button.btn-info:hover {
+    background-color: #005d8f;
+}    
+
+.page-template-sync-excel-template  .alert.alert-success{
+    border: 2px solid #008000 !important;
+    background-color: #00800042 !important;
+
+}
+
+.page-template-sync-excel-template  .alert.alert-danger{
+    border: 2px solid red; !important;
+    background-color: #80000042 !important;
+
+}
+
+.page-template-sync-excel-template  .mini-preloader {
+  display: inline-block;
+  padding: 10px;
+}
+
+.page-template-sync-excel-template  .loader-dots span {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 0 4px;
+  background-color: #00833E;
+  border-radius: 50%;
+  animation: bounce 1.4s infinite ease-in-out both;
+}
+
+.page-template-sync-excel-template  .loader-dots span:nth-child(1) {
+  animation-delay: -0.32s;
+}
+.page-template-sync-excel-template  .loader-dots span:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: scale(0);
+  } 40% {
+    transform: scale(1);
+  }
+}
+.page-template-sync-excel-template .texto-cabecera{
+
+    font-size: 2rem;
+    clear: both;
+    padding-top: 15px;
+    text-align: center;
+}
+.page-template-sync-excel-template  .contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px; 
+}

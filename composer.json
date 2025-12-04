@@ -1,0 +1,6 @@
+{
+    "name": "a/a",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}

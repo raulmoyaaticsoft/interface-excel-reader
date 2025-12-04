@@ -1,0 +1,8564 @@
+[ ARRANCA EL PASO 2 2025-12-02 13:35:46] 🔍 ENTRADA REF 10114 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:48] 🔍 ENTRADA REF 10141 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:50] 🔍 ENTRADA REF 10281 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:52] 🔍 ENTRADA REF 10464 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:54] 🔍 ENTRADA REF 10469 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:56] 🔍 ENTRADA REF 10472 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:35:58] 🔍 ENTRADA REF 10782 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:00] 🔍 ENTRADA REF 30127 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:03] 🔍 ENTRADA REF 30207 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:05] 🔍 ENTRADA REF 30313 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:07] 🔍 ENTRADA REF 30468 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:09] 🔍 ENTRADA REF 30609 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:11] 🔍 ENTRADA REF 30646 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:13] 🔍 ENTRADA REF 30705 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:15] 🔍 ENTRADA REF 30947 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:17] 🔍 ENTRADA REF 40400 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:19] 🔍 ENTRADA REF 40419 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:21] 🔍 ENTRADA REF 50510 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:24] 🔍 ENTRADA REF 50514 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:26] 🔍 ENTRADA REF 50525 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:28] 🔍 ENTRADA REF 50532 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:30] 🔍 ENTRADA REF 50604 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:32] 🔍 ENTRADA REF 94124 → productos_complementarios (RAW): Array
+(
+    [0] => 50616
+    [1] => 50512
+    [2] => 50506
+    [3] => 50505
+    [4] => 50609
+    [5] => 50610
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:34] 🔍 ENTRADA REF 70012 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:36] 🔍 ENTRADA REF 70160 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:39] 🔍 ENTRADA REF 70329 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:41] 🔍 ENTRADA REF 70389 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:43] 🔍 ENTRADA REF 70432 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:44] 🔍 ENTRADA REF 70433 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:46] 🔍 ENTRADA REF 70446 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:48] 🔍 ENTRADA REF 70512 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:50] 🔍 ENTRADA REF 70514 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:52] 🔍 ENTRADA REF 70521 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:54] 🔍 ENTRADA REF 70544 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:56] 🔍 ENTRADA REF 70562 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:36:58] 🔍 ENTRADA REF 70603 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:00] 🔍 ENTRADA REF 70605 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:02] 🔍 ENTRADA REF 70611 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:04] 🔍 ENTRADA REF 70612 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:06] 🔍 ENTRADA REF 70666 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:08] 🔍 ENTRADA REF 70723 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:10] 🔍 ENTRADA REF 70873 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:12] 🔍 ENTRADA REF 70916 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:14] 🔍 ENTRADA REF 70990 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:16] 🔍 ENTRADA REF 71033 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:17] 🔍 ENTRADA REF 80798 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:19] 🔍 ENTRADA REF 80801 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:21] 🔍 ENTRADA REF 80822 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:23] 🔍 ENTRADA REF 90245 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:25] 🔍 ENTRADA REF 90252 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:27] 🔍 ENTRADA REF 90254 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:29] 🔍 ENTRADA REF 90565 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:30] 🔍 ENTRADA REF 90598 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:32] 🔍 ENTRADA REF 90600 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:34] 🔍 ENTRADA REF 90642 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:36] 🔍 ENTRADA REF 90727 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:38] 🔍 ENTRADA REF 90733 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:40] 🔍 ENTRADA REF 90737 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:43] 🔍 ENTRADA REF 90785 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:45] 🔍 ENTRADA REF 90791 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:47] 🔍 ENTRADA REF 90821 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:49] 🔍 ENTRADA REF 90825 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:51] 🔍 ENTRADA REF 90849 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:53] 🔍 ENTRADA REF 90854 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:54] 🔍 ENTRADA REF 90882 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:56] 🔍 ENTRADA REF 91576 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:37:58] 🔍 ENTRADA REF 91579 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:00] 🔍 ENTRADA REF 91568 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:02] 🔍 ENTRADA REF 94131 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:04] 🔍 ENTRADA REF 94001 → productos_complementarios (RAW): Array
+(
+    [0] => 30778
+    [1] => 30779
+    [2] => 30782
+    [3] => 30785
+    [4] => 30781
+    [5] => 30784
+    [6] => 30850
+    [7] => 30851
+    [8] => 30852
+    [9] => 30855
+    [10] => 30342
+    [11] => 35020
+    [12] => 35023
+    [13] => 30523
+    [14] => 70451
+    [15] => 70450
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:06] 🔍 ENTRADA REF 94002 → productos_complementarios (RAW): Array
+(
+    [0] => 30667
+    [1] => 30230
+    [2] => 30876
+    [3] => 30875
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:08] 🔍 ENTRADA REF 94003 → productos_complementarios (RAW): Array
+(
+    [0] => 30167
+    [1] => 30169
+    [2] => 30165
+    [3] => 30171
+    [4] => 30173
+    [5] => 30174
+    [6] => 30175
+    [7] => 30177
+    [8] => 30012
+    [9] => 30013
+    [10] => 30016
+    [11] => 30017
+    [12] => 30020
+    [13] => 30021
+    [14] => 30030
+    [15] => 30031
+    [16] => 30271
+    [17] => 30272
+    [18] => 30273
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:10] 🔍 ENTRADA REF 94004 → productos_complementarios (RAW): Array
+(
+    [0] => 30668
+    [1] => 30669
+    [2] => 30671
+    [3] => 30717
+    [4] => 30718
+    [5] => 30719
+    [6] => 30727
+    [7] => 30736
+    [8] => 30642
+    [9] => 30234
+    [10] => 30321
+    [11] => 30579
+    [12] => 70529
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:12] 🔍 ENTRADA REF 94005 → productos_complementarios (RAW): Array
+(
+    [0] => 30197
+    [1] => 30195
+    [2] => 30196
+    [3] => 30200
+    [4] => 30198
+    [5] => 30199
+    [6] => 30185
+    [7] => 30183
+    [8] => 30184
+    [9] => 30188
+    [10] => 30186
+    [11] => 30187
+    [12] => 31197
+    [13] => 31198
+    [14] => 31199
+    [15] => 31200
+    [16] => 31201
+    [17] => 31202
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:14] 🔍 ENTRADA REF 94006 → productos_complementarios (RAW): Array
+(
+    [0] => 30286
+    [1] => 30982
+    [2] => 30861
+    [3] => 30862
+    [4] => 30863
+    [5] => 30856
+    [6] => 30857
+    [7] => 30858
+    [8] => 30859
+    [9] => 30860
+    [10] => 30980
+    [11] => 30981
+    [12] => 30983
+    [13] => 30977
+    [14] => 30978
+    [15] => 30284
+    [16] => 30285
+    [17] => 30287
+    [18] => 30288
+    [19] => 30660
+    [20] => 30218
+    [21] => 30661
+    [22] => 30219
+    [23] => 30662
+    [24] => 30220
+    [25] => 30663
+    [26] => 30221
+    [27] => 30252
+    [28] => 30251
+    [29] => 30664
+    [30] => 30222
+    [31] => 30254
+    [32] => 30253
+    [33] => 30097
+    [34] => 30098
+    [35] => 30283
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:16] 🔍 ENTRADA REF 94007 → productos_complementarios (RAW): Array
+(
+    [0] => 30690
+    [1] => 30691
+    [2] => 30692
+    [3] => 30693
+    [4] => 71155
+    [5] => 71156
+    [6] => 30737
+    [7] => 30963
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:18] 🔍 ENTRADA REF 94008 → productos_complementarios (RAW): Array
+(
+    [0] => 70845
+    [1] => 70211
+    [2] => 70152
+    [3] => 70153
+    [4] => 30232
+    [5] => 30277
+    [6] => 30278
+    [7] => 30279
+    [8] => 30280
+    [9] => 30281
+    [10] => 30282
+    [11] => 30571
+    [12] => 30572
+    [13] => 30327
+    [14] => 30575
+    [15] => 30573
+    [16] => 30576
+    [17] => 30574
+    [18] => 30578
+    [19] => 30577
+    [20] => 30255
+    [21] => 30256
+    [22] => 30308
+    [23] => 30309
+    [24] => 30306
+    [25] => 30307
+    [26] => 30791
+    [27] => 30792
+    [28] => 30793
+    [29] => 30794
+    [30] => 30451
+    [31] => 30450
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:20] 🔍 ENTRADA REF 94009 → productos_complementarios (RAW): Array
+(
+    [0] => 30760
+    [1] => 30761
+    [2] => 30769
+    [3] => 30762
+    [4] => 30763
+    [5] => 30798
+    [6] => 30066
+    [7] => 30067
+    [8] => 30068
+    [9] => 30069
+    [10] => 30070
+    [11] => 30071
+    [12] => 30155
+    [13] => 30156
+    [14] => 30157
+    [15] => 30095
+    [16] => 30062
+    [17] => 30063
+    [18] => 30064
+    [19] => 30065
+    [20] => 30058
+    [21] => 30084
+    [22] => 30266
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:22] 🔍 ENTRADA REF 94010 → productos_complementarios (RAW): Array
+(
+    [0] => 30274
+    [1] => 30275
+    [2] => 30276
+    [3] => 30170
+    [4] => 30166
+    [5] => 30173
+    [6] => 30172
+    [7] => 30168
+    [8] => 30174
+    [9] => 30176
+    [10] => 30178
+    [11] => 30014
+    [12] => 30032
+    [13] => 30020
+    [14] => 30018
+    [15] => 30015
+    [16] => 30033
+    [17] => 30021
+    [18] => 30019
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:24] 🔍 ENTRADA REF 94011 → productos_complementarios (RAW): Array
+(
+    [0] => 30189
+    [1] => 30190
+    [2] => 30191
+    [3] => 30192
+    [4] => 30193
+    [5] => 30194
+    [6] => 30993
+    [7] => 30994
+    [8] => 30995
+    [9] => 30996
+    [10] => 30997
+    [11] => 30998
+    [12] => 31203
+    [13] => 31204
+    [14] => 31205
+    [15] => 31206
+    [16] => 31207
+    [17] => 31208
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:26] 🔍 ENTRADA REF 94012 → productos_complementarios (RAW): Array
+(
+    [0] => 30257
+    [1] => 30258
+    [2] => 30260
+    [3] => 30261
+    [4] => 30130
+    [5] => 30131
+    [6] => 30132
+    [7] => 30622
+    [8] => 30302
+    [9] => 30314
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:28] 🔍 ENTRADA REF 94013 → productos_complementarios (RAW): Array
+(
+    [0] => 30212
+    [1] => 30213
+    [2] => 30214
+    [3] => 30216
+    [4] => 30217
+    [5] => 30289
+    [6] => 30290
+    [7] => 30291
+    [8] => 30292
+    [9] => 30585
+    [10] => 30597
+    [11] => 30598
+    [12] => 30647
+    [13] => 30653
+    [14] => 30864
+    [15] => 30865
+    [16] => 30866
+    [17] => 30867
+    [18] => 30868
+    [19] => 30869
+    [20] => 30870
+    [21] => 30984
+    [22] => 30985
+    [23] => 30986
+    [24] => 30987
+    [25] => 30988
+    [26] => 30989
+    [27] => 30990
+    [28] => 30991
+    [29] => 30992
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:30] 🔍 ENTRADA REF 94014 → productos_complementarios (RAW): Array
+(
+    [0] => 30964
+    [1] => 30083
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:32] 🔍 ENTRADA REF 94015 → productos_complementarios (RAW): Array
+(
+    [0] => 30957
+    [1] => 30956
+    [2] => 30912
+    [3] => 30911
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:34] 🔍 ENTRADA REF 94016 → productos_complementarios (RAW): Array
+(
+    [0] => 30901
+    [1] => 30902
+    [2] => 30903
+    [3] => 30938
+    [4] => 30907
+    [5] => 30908
+    [6] => 30909
+    [7] => 30937
+    [8] => 30904
+    [9] => 30905
+    [10] => 30906
+    [11] => 30936
+    [12] => 30923
+    [13] => 30922
+    [14] => 30950
+    [15] => 30944
+    [16] => 30939
+    [17] => 30945
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:36] 🔍 ENTRADA REF 94017 → productos_complementarios (RAW): Array
+(
+    [0] => 30955
+    [1] => 30953
+    [2] => 30954
+    [3] => 30952
+    [4] => 30897
+    [5] => 30894
+    [6] => 30896
+    [7] => 30893
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:38] 🔍 ENTRADA REF 94018 → productos_complementarios (RAW): Array
+(
+    [0] => 30890
+    [1] => 30891
+    [2] => 30892
+    [3] => 30933
+    [4] => 30887
+    [5] => 30888
+    [6] => 30889
+    [7] => 30932
+    [8] => 30921
+    [9] => 30920
+    [10] => 30943
+    [11] => 30941
+    [12] => 30935
+    [13] => 30942
+    [14] => 30886
+    [15] => 30885
+    [16] => 30884
+    [17] => 30934
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:40] 🔍 ENTRADA REF 94019 → productos_complementarios (RAW): Array
+(
+    [0] => 30965
+    [1] => 30846
+    [2] => 30847
+    [3] => 30009
+    [4] => 30008
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:42] 🔍 ENTRADA REF 94020 → productos_complementarios (RAW): Array
+(
+    [0] => 30840
+    [1] => 30841
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:44] 🔍 ENTRADA REF 94021 → productos_complementarios (RAW): Array
+(
+    [0] => 30621
+    [1] => 30830
+    [2] => 30319
+    [3] => 30676
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:46] 🔍 ENTRADA REF 94022 → productos_complementarios (RAW): Array
+(
+    [0] => 30738
+    [1] => 30701
+    [2] => 30702
+    [3] => 30703
+    [4] => 30707
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:47] 🔍 ENTRADA REF 94023 → productos_complementarios (RAW): Array
+(
+    [0] => 30620
+    [1] => 30530
+    [2] => 30336
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:49] 🔍 ENTRADA REF 94024 → productos_complementarios (RAW): Array
+(
+    [0] => 90504
+    [1] => 90514
+    [2] => 90505
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:51] 🔍 ENTRADA REF 94025 → productos_complementarios (RAW): Array
+(
+    [0] => 30657
+    [1] => 30658
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:52] 🔍 ENTRADA REF 94026 → productos_complementarios (RAW): Array
+(
+    [0] => 30771
+    [1] => 30799
+    [2] => 30776
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:52] 🔍 ENTRADA REF 94027 → productos_complementarios (RAW): Array
+(
+    [0] => 30806
+    [1] => 30807
+    [2] => 30969
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:53] 🔍 ENTRADA REF 94028 → productos_complementarios (RAW): Array
+(
+    [0] => 30746
+    [1] => 30787
+    [2] => 30748
+    [3] => 30145
+    [4] => 30143
+    [5] => 30144
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:54] 🔍 ENTRADA REF 94029 → productos_complementarios (RAW): Array
+(
+    [0] => 30235
+    [1] => 30146
+    [2] => 30788
+    [3] => 30789
+    [4] => 30758
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:57] 🔍 ENTRADA REF 94030 → productos_complementarios (RAW): Array
+(
+    [0] => 30635
+    [1] => 30632
+    [2] => 30633
+    [3] => 30625
+    [4] => 30634
+    [5] => 30626
+    [6] => 30630
+    [7] => 30631
+    [8] => 30627
+    [9] => 30654
+    [10] => 30655
+    [11] => 30695
+    [12] => 30694
+    [13] => 30696
+    [14] => 30797
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:38:59] 🔍 ENTRADA REF 94032 → productos_complementarios (RAW): Array
+(
+    [0] => 30040
+    [1] => 30041
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:01] 🔍 ENTRADA REF 94033 → productos_complementarios (RAW): Array
+(
+    [0] => 30971
+    [1] => 30972
+    [2] => 30966
+    [3] => 30970
+    [4] => 30079
+    [5] => 30080
+    [6] => 30081
+    [7] => 30082
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:03] 🔍 ENTRADA REF 94034 → productos_complementarios (RAW): Array
+(
+    [0] => 31213
+    [1] => 31214
+    [2] => 31215
+    [3] => 31216
+    [4] => 31217
+    [5] => 31218
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:05] 🔍 ENTRADA REF 94035 → productos_complementarios (RAW): Array
+(
+    [0] => 30164
+    [1] => 30161
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:07] 🔍 ENTRADA REF 94036 → productos_complementarios (RAW): Array
+(
+    [0] => 30240
+    [1] => 30241
+    [2] => 30242
+    [3] => 30296
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:09] 🔍 ENTRADA REF 94037 → productos_complementarios (RAW): Array
+(
+    [0] => 30899
+    [1] => 30878
+    [2] => 30879
+    [3] => 30759
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:11] 🔍 ENTRADA REF 94038 → productos_complementarios (RAW): Array
+(
+    [0] => 30873
+    [1] => 30874
+    [2] => 30808
+    [3] => 30809
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:13] 🔍 ENTRADA REF 94039 → productos_complementarios (RAW): Array
+(
+    [0] => 30951
+    [1] => 30962
+    [2] => 30961
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:14] 🔍 ENTRADA REF 94040 → productos_complementarios (RAW): Array
+(
+    [0] => 30162
+    [1] => 30112
+    [2] => 30116
+    [3] => 30118
+    [4] => 31078
+    [5] => 30153
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:16] 🔍 ENTRADA REF 94041 → productos_complementarios (RAW): Array
+(
+    [0] => 90246
+    [1] => 90271
+    [2] => 90250
+    [3] => 90248
+    [4] => 90489
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:18] 🔍 ENTRADA REF 94042 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:19] 🔍 ENTRADA REF 94043 → productos_complementarios (RAW): Array
+(
+    [0] => 30046
+    [1] => 30047
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:19] 🔍 ENTRADA REF 94044 → productos_complementarios (RAW): Array
+(
+    [0] => 30051
+    [1] => 30050
+    [2] => 30049
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:21] 🔍 ENTRADA REF 94045 → productos_complementarios (RAW): Array
+(
+    [0] => 30043
+    [1] => 30043
+    [2] => 30072
+    [3] => 30073
+    [4] => 30074
+    [5] => 30075
+    [6] => 30034
+    [7] => 30035
+    [8] => 30036
+    [9] => 30037
+    [10] => 30038
+    [11] => 30039
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:22] 🔍 ENTRADA REF 94046 → productos_complementarios (RAW): Array
+(
+    [0] => 71028
+    [1] => 71026
+    [2] => 71112
+    [3] => 71080
+    [4] => 71113
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:24] 🔍 ENTRADA REF 94047 → productos_complementarios (RAW): Array
+(
+    [0] => 70630
+    [1] => 71115
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:26] 🔍 ENTRADA REF 94048 → productos_complementarios (RAW): Array
+(
+    [0] => 70713
+    [1] => 70627
+    [2] => 70802
+    [3] => 70919
+    [4] => 70566
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:28] 🔍 ENTRADA REF 94049 → productos_complementarios (RAW): Array
+(
+    [0] => 70705
+    [1] => 70565
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:29] 🔍 ENTRADA REF 94050 → productos_complementarios (RAW): Array
+(
+    [0] => 70166
+    [1] => 70167
+    [2] => 70168
+    [3] => 70163
+    [4] => 70164
+    [5] => 70165
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:31] 🔍 ENTRADA REF 94031 → productos_complementarios (RAW): Array
+(
+    [0] => 30243
+    [1] => 30335
+    [2] => 30223
+    [3] => 30244
+    [4] => 30233
+    [5] => 30078
+    [6] => 30301
+    [7] => 30224
+    [8] => 30300
+    [9] => 30225
+    [10] => 30429
+    [11] => 30226
+    [12] => 30022
+    [13] => 30023
+    [14] => 30024
+    [15] => 30025
+    [16] => 30227
+    [17] => 30228
+    [18] => 30229
+    [19] => 30616
+    [20] => 30617
+    [21] => 30618
+    [22] => 30026
+    [23] => 30027
+    [24] => 30028
+    [25] => 30029
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:33] 🔍 ENTRADA REF 94051 → productos_complementarios (RAW): Array
+(
+    [0] => 70212
+    [1] => 70678
+    [2] => 70415
+    [3] => 70414
+    [4] => 70413
+    [5] => 70412
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:35] 🔍 ENTRADA REF 94052 → productos_complementarios (RAW): Array
+(
+    [0] => 70411
+    [1] => 70679
+    [2] => 70680
+    [3] => 70567
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:36] 🔍 ENTRADA REF 94053 → productos_complementarios (RAW): Array
+(
+    [0] => 92105
+    [1] => 70564
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:38] 🔍 ENTRADA REF 94054 → productos_complementarios (RAW): Array
+(
+    [0] => 70243
+    [1] => 70244
+    [2] => 70241
+    [3] => 70228
+    [4] => 70226
+    [5] => 70171
+    [6] => 70242
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:40] 🔍 ENTRADA REF 94055 → productos_complementarios (RAW): Array
+(
+    [0] => 70731
+    [1] => 70343
+    [2] => 71152
+    [3] => 71153
+    [4] => 70883
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:42] 🔍 ENTRADA REF 94056 → productos_complementarios (RAW): Array
+(
+    [0] => 70158
+    [1] => 70157
+    [2] => 70854
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:43] 🔍 ENTRADA REF 94057 → productos_complementarios (RAW): Array
+(
+    [0] => 70448
+    [1] => 70809
+    [2] => 70709
+    [3] => 70429
+    [4] => 70316
+    [5] => 70317
+    [6] => 70478
+    [7] => 71124
+    [8] => 71125
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:45] 🔍 ENTRADA REF 94058 → productos_complementarios (RAW): Array
+(
+    [0] => 70961
+    [1] => 70962
+    [2] => 70963
+    [3] => 70964
+    [4] => 70134
+    [5] => 70946
+    [6] => 70945
+    [7] => 70941
+    [8] => 70942
+    [9] => 70943
+    [10] => 70944
+    [11] => 70207
+    [12] => 70208
+    [13] => 70133
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:47] 🔍 ENTRADA REF 94059 → productos_complementarios (RAW): Array
+(
+    [0] => 70931
+    [1] => 70932
+    [2] => 70933
+    [3] => 70934
+    [4] => 70935
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:47] 🔍 ENTRADA REF 94060 → productos_complementarios (RAW): Array
+(
+    [0] => 70103
+    [1] => 70102
+    [2] => 70101
+    [3] => 70100
+    [4] => 70099
+    [5] => 70108
+    [6] => 70107
+    [7] => 70106
+    [8] => 70105
+    [9] => 70104
+    [10] => 70098
+    [11] => 70097
+    [12] => 70096
+    [13] => 70118
+    [14] => 70117
+    [15] => 70116
+    [16] => 70115
+    [17] => 70114
+    [18] => 70123
+    [19] => 70122
+    [20] => 70121
+    [21] => 70120
+    [22] => 70119
+    [23] => 70128
+    [24] => 70127
+    [25] => 70126
+    [26] => 70125
+    [27] => 70124
+    [28] => 70940
+    [29] => 70939
+    [30] => 70938
+    [31] => 70937
+    [32] => 70936
+    [33] => 70093
+    [34] => 70092
+    [35] => 70091
+    [36] => 70090
+    [37] => 70089
+    [38] => 70113
+    [39] => 70112
+    [40] => 70111
+    [41] => 70110
+    [42] => 70109
+    [43] => 70206
+    [44] => 70205
+    [45] => 70204
+    [46] => 70203
+    [47] => 70202
+    [48] => 70083
+    [49] => 70082
+    [50] => 70081
+    [51] => 70080
+    [52] => 70079
+    [53] => 70088
+    [54] => 70087
+    [55] => 70086
+    [56] => 70085
+    [57] => 70084
+    [58] => 70132
+    [59] => 70131
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:49] 🔍 ENTRADA REF 94062 → productos_complementarios (RAW): Array
+(
+    [0] => 40561
+    [1] => 40563
+    [2] => 30581
+    [3] => 30582
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:51] 🔍 ENTRADA REF 94063 → productos_complementarios (RAW): Array
+(
+    [0] => 40577
+    [1] => 40564
+    [2] => 40595
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:53] 🔍 ENTRADA REF 94064 → productos_complementarios (RAW): Array
+(
+    [0] => 70025
+    [1] => 70026
+    [2] => 70027
+    [3] => 70028
+    [4] => 70029
+    [5] => 70030
+    [6] => 70032
+    [7] => 70033
+    [8] => 70034
+    [9] => 70005
+    [10] => 70006
+    [11] => 70007
+    [12] => 70008
+    [13] => 70024
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:54] 🔍 ENTRADA REF 94065 → productos_complementarios (RAW): Array
+(
+    [0] => 70057
+    [1] => 70060
+    [2] => 70061
+    [3] => 70062
+    [4] => 70049
+    [5] => 70050
+    [6] => 70051
+    [7] => 70052
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:56] 🔍 ENTRADA REF 94066 → productos_complementarios (RAW): Array
+(
+    [0] => 70282
+    [1] => 70283
+    [2] => 70284
+    [3] => 70298
+    [4] => 70299
+    [5] => 70300
+    [6] => 71131
+    [7] => 71132
+    [8] => 71133
+    [9] => 71134
+    [10] => 71135
+    [11] => 71136
+    [12] => 70270
+    [13] => 70271
+    [14] => 70272
+    [15] => 70286
+    [16] => 70287
+    [17] => 70288
+    [18] => 70274
+    [19] => 70275
+    [20] => 70276
+    [21] => 70290
+    [22] => 70291
+    [23] => 70292
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:39:58] 🔍 ENTRADA REF 94067 → productos_complementarios (RAW): Array
+(
+    [0] => 70404
+    [1] => 70405
+    [2] => 70402
+    [3] => 70403
+    [4] => 71211
+    [5] => 71212
+    [6] => 71209
+    [7] => 71210
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:00] 🔍 ENTRADA REF 94068 → productos_complementarios (RAW): Array
+(
+    [0] => 70622
+    [1] => 70623
+    [2] => 70624
+    [3] => 70533
+    [4] => 70534
+    [5] => 70535
+    [6] => 70626
+    [7] => 70625
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:01] 🔍 ENTRADA REF 94069 → productos_complementarios (RAW): Array
+(
+    [0] => 70618
+    [1] => 70619
+    [2] => 70554
+    [3] => 70553
+    [4] => 70620
+    [5] => 70621
+    [6] => 70851
+    [7] => 70972
+    [8] => 70994
+    [9] => 70995
+    [10] => 70850
+    [11] => 70971
+    [12] => 71205
+    [13] => 71206
+    [14] => 71207
+    [15] => 71208
+    [16] => 71203
+    [17] => 71204
+    [18] => 71201
+    [19] => 71202
+    [20] => 70998
+    [21] => 70999
+    [22] => 70552
+    [23] => 70551
+    [24] => 70695
+    [25] => 70696
+    [26] => 70978
+    [27] => 70979
+    [28] => 70853
+    [29] => 70930
+    [30] => 70599
+    [31] => 70598
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:04] 🔍 ENTRADA REF 94070 → productos_complementarios (RAW): Array
+(
+    [0] => 70921
+    [1] => 70922
+    [2] => 70923
+    [3] => 70638
+    [4] => 70555
+    [5] => 70499
+    [6] => 70498
+    [7] => 70497
+    [8] => 70496
+    [9] => 70495
+    [10] => 70494
+    [11] => 70905
+    [12] => 71130
+    [13] => 71129
+    [14] => 71128
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:06] 🔍 ENTRADA REF 94071 → productos_complementarios (RAW): Array
+(
+    [0] => 70947
+    [1] => 90656
+    [2] => 71154
+    [3] => 70558
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:07] 🔍 ENTRADA REF 94072 → productos_complementarios (RAW): Array
+(
+    [0] => 70948
+    [1] => 90657
+    [2] => 90658
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:09] 🔍 ENTRADA REF 94073 → productos_complementarios (RAW): Array
+(
+    [0] => 10107
+    [1] => 10106
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:11] 🔍 ENTRADA REF 94075 → productos_complementarios (RAW): Array
+(
+    [0] => 10295
+    [1] => 10387
+    [2] => 10386
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:13] 🔍 ENTRADA REF 94076 → productos_complementarios (RAW): Array
+(
+    [0] => 10299
+    [1] => 10268
+    [2] => 10267
+    [3] => 10279
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:15] 🔍 ENTRADA REF 94077 → productos_complementarios (RAW): Array
+(
+    [0] => 10309
+    [1] => 10312
+    [2] => 10327
+    [3] => 10328
+    [4] => 10298
+    [5] => 10297
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:16] 🔍 ENTRADA REF 94078 → productos_complementarios (RAW): Array
+(
+    [0] => 10378
+    [1] => 10379
+    [2] => 10380
+    [3] => 10381
+    [4] => 10247
+    [5] => 10248
+    [6] => 10321
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:18] 🔍 ENTRADA REF 94079 → productos_complementarios (RAW): Array
+(
+    [0] => 10370
+    [1] => 10372
+    [2] => 35025
+    [3] => 10371
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:20] 🔍 ENTRADA REF 94081 → productos_complementarios (RAW): Array
+(
+    [0] => 10253
+    [1] => 11315
+    [2] => 10310
+    [3] => 10288
+    [4] => 10255
+    [5] => 10334
+    [6] => 10257
+    [7] => 10258
+    [8] => 10242
+    [9] => 10243
+    [10] => 10345
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:22] 🔍 ENTRADA REF 94082 → productos_complementarios (RAW): Array
+(
+    [0] => 10952
+    [1] => 10950
+    [2] => 10964
+    [3] => 10963
+    [4] => 10966
+    [5] => 10965
+    [6] => 10954
+    [7] => 10961
+    [8] => 10956
+    [9] => 10962
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:23] 🔍 ENTRADA REF 94083 → productos_complementarios (RAW): Array
+(
+    [0] => 11484
+    [1] => 11485
+    [2] => 11482
+    [3] => 11483
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:25] 🔍 ENTRADA REF 94084 → productos_complementarios (RAW): Array
+(
+    [0] => 10140
+    [1] => 10109
+    [2] => 11737
+    [3] => 10138
+    [4] => 11653
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:27] 🔍 ENTRADA REF 94085 → productos_complementarios (RAW): Array
+(
+    [0] => 10110
+    [1] => 10137
+    [2] => 10960
+    [3] => 10957
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:29] 🔍 ENTRADA REF 94086 → productos_complementarios (RAW): Array
+(
+    [0] => 90652
+    [1] => 90650
+    [2] => 90651
+    [3] => 90261
+    [4] => 90262
+    [5] => 90512
+    [6] => 90513
+    [7] => 90670
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:30] 🔍 ENTRADA REF 94087 → productos_complementarios (RAW): Array
+(
+    [0] => 30877
+    [1] => 90221
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:32] 🔍 ENTRADA REF 94088 → productos_complementarios (RAW): Array
+(
+    [0] => 70727
+    [1] => 70698
+    [2] => 70697
+    [3] => 70509
+    [4] => 70409
+    [5] => 70410
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:34] 🔍 ENTRADA REF 94089 → productos_complementarios (RAW): Array
+(
+    [0] => 71114
+    [1] => 70073
+    [2] => 70076
+    [3] => 70421
+    [4] => 71226
+    [5] => 71227
+    [6] => 70869
+    [7] => 70867
+    [8] => 70901
+    [9] => 70215
+    [10] => 70216
+    [11] => 70217
+    [12] => 70736
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:36] 🔍 ENTRADA REF 94090 → productos_complementarios (RAW): Array
+(
+    [0] => 70310
+    [1] => 70311
+    [2] => 71243
+    [3] => 70591
+    [4] => 70898
+    [5] => 70739
+    [6] => 70797
+    [7] => 70563
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:38] 🔍 ENTRADA REF 94091 → productos_complementarios (RAW): Array
+(
+    [0] => 70234
+    [1] => 70235
+    [2] => 70230
+    [3] => 70231
+    [4] => 70236
+    [5] => 70237
+    [6] => 70232
+    [7] => 70233
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:40] 🔍 ENTRADA REF 94092 → productos_complementarios (RAW): Array
+(
+    [0] => 70655
+    [1] => 70339
+    [2] => 70335
+    [3] => 70338
+    [4] => 70334
+    [5] => 70337
+    [6] => 70333
+    [7] => 70332
+    [8] => 70336
+    [9] => 70676
+    [10] => 70435
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:42] 🔍 ENTRADA REF 94094 → productos_complementarios (RAW): Array
+(
+    [0] => 70222
+    [1] => 30584
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:44] 🔍 ENTRADA REF 94095 → productos_complementarios (RAW): Array
+(
+    [0] => 70507
+    [1] => 70508
+    [2] => 70728
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:45] 🔍 ENTRADA REF 94096 → productos_complementarios (RAW): Array
+(
+    [0] => 70381
+    [1] => 70712
+    [2] => 70419
+    [3] => 70866
+    [4] => 70864
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:47] 🔍 ENTRADA REF 94097 → productos_complementarios (RAW): Array
+(
+    [0] => 70431
+    [1] => 70706
+    [2] => 70505
+    [3] => 70506
+    [4] => 70720
+    [5] => 70721
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:49] 🔍 ENTRADA REF 94098 → productos_complementarios (RAW): Array
+(
+    [0] => 70724
+    [1] => 70672
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:50] 🔍 ENTRADA REF 94099 → productos_complementarios (RAW): Array
+(
+    [0] => 70674
+    [1] => 70675
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:52] 🔍 ENTRADA REF 94100 → productos_complementarios (RAW): Array
+(
+    [0] => 30543
+    [1] => 70628
+    [2] => 70632
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:54] 🔍 ENTRADA REF 94101 → productos_complementarios (RAW): Array
+(
+    [0] => 70670
+    [1] => 70669
+    [2] => 70250
+    [3] => 70227
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:55] 🔍 ENTRADA REF 94102 → productos_complementarios (RAW): Array
+(
+    [0] => 30053
+    [1] => 30054
+    [2] => 71238
+    [3] => 71239
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:57] 🔍 ENTRADA REF 94103 → productos_complementarios (RAW): Array
+(
+    [0] => 70444
+    [1] => 70825
+    [2] => 70840
+    [3] => 71240
+    [4] => 71241
+    [5] => 71242
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:40:59] 🔍 ENTRADA REF 94104 → productos_complementarios (RAW): Array
+(
+    [0] => 90858
+    [1] => 90859
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:01] 🔍 ENTRADA REF 94105 → productos_complementarios (RAW): Array
+(
+    [0] => 90257
+    [1] => 90258
+    [2] => 90259
+    [3] => 90260
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:03] 🔍 ENTRADA REF 94106 → productos_complementarios (RAW): Array
+(
+    [0] => 90228
+    [1] => 90229
+    [2] => 90233
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:05] 🔍 ENTRADA REF 94107 → productos_complementarios (RAW): Array
+(
+    [0] => 90232
+    [1] => 90217
+    [2] => 90521
+    [3] => 90218
+    [4] => 90231
+    [5] => 90274
+    [6] => 90219
+    [7] => 90220
+    [8] => 90230
+    [9] => 90235
+    [10] => 90277
+    [11] => 90278
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:07] 🔍 ENTRADA REF 94108 → productos_complementarios (RAW): Array
+(
+    [0] => 90226
+    [1] => 90227
+    [2] => 90237
+    [3] => 90236
+    [4] => 90222
+    [5] => 90224
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:09] 🔍 ENTRADA REF 94109 → productos_complementarios (RAW): Array
+(
+    [0] => 90860
+    [1] => 90857
+    [2] => 90863
+    [3] => 90864
+    [4] => 90263
+    [5] => 90216
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:11] 🔍 ENTRADA REF 94110 → productos_complementarios (RAW): Array
+(
+    [0] => 90736
+    [1] => 90757
+    [2] => 90758
+    [3] => 90759
+    [4] => 90765
+    [5] => 30780
+    [6] => 30853
+    [7] => 30854
+    [8] => 90788
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:12] 🔍 ENTRADA REF 94111 → productos_complementarios (RAW): Array
+(
+    [0] => 90568
+    [1] => 90492
+    [2] => 90495
+    [3] => 90567
+    [4] => 90494
+    [5] => 90493
+    [6] => 90775
+    [7] => 90852
+    [8] => 90496
+    [9] => 90853
+    [10] => 90732
+    [11] => 90756
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:14] 🔍 ENTRADA REF 94112 → productos_complementarios (RAW): Array
+(
+    [0] => 90723
+    [1] => 90724
+    [2] => 90725
+    [3] => 90726
+    [4] => 90569
+    [5] => 90498
+    [6] => 90497
+    [7] => 90632
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:16] 🔍 ENTRADA REF 94113 → productos_complementarios (RAW): Array
+(
+    [0] => 90682
+    [1] => 90683
+    [2] => 90272
+    [3] => 90599
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:18] 🔍 ENTRADA REF 94114 → productos_complementarios (RAW): Array
+(
+    [0] => 90780
+    [1] => 90781
+    [2] => 90783
+    [3] => 90749
+    [4] => 90782
+    [5] => 70517
+    [6] => 30052
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:20] 🔍 ENTRADA REF 94115 → productos_complementarios (RAW): Array
+(
+    [0] => 90674
+    [1] => 90591
+    [2] => 90584
+    [3] => 90585
+    [4] => 90586
+    [5] => 90588
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:22] 🔍 ENTRADA REF 94116 → productos_complementarios (RAW): Array
+(
+    [0] => 90816
+    [1] => 90817
+    [2] => 90818
+    [3] => 90819
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:23] 🔍 ENTRADA REF 94117 → productos_complementarios (RAW): Array
+(
+    [0] => 90668
+    [1] => 90669
+    [2] => 90820
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:24] 🔍 ENTRADA REF 94118 → productos_complementarios (RAW): Array
+(
+    [0] => 70400
+    [1] => 90587
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:26] 🔍 ENTRADA REF 94119 → productos_complementarios (RAW): Array
+(
+    [0] => 90281
+    [1] => 70510
+    [2] => 90550
+    [3] => 90735
+    [4] => 90500
+    [5] => 90554
+    [6] => 90555
+    [7] => 90556
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:28] 🔍 ENTRADA REF 94120 → productos_complementarios (RAW): Array
+(
+    [0] => 70515
+    [1] => 90597
+    [2] => 70518
+    [3] => 90761
+    [4] => 70516
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:30] 🔍 ENTRADA REF 94121 → productos_complementarios (RAW): Array
+(
+    [0] => 70420
+    [1] => 70735
+    [2] => 70569
+    [3] => 70629
+    [4] => 70568
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:32] 🔍 ENTRADA REF 94122 → productos_complementarios (RAW): Array
+(
+    [0] => 70654
+    [1] => 70341
+    [2] => 70600
+    [3] => 70532
+    [4] => 70601
+    [5] => 70613
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:34] 🔍 ENTRADA REF 94123 → productos_complementarios (RAW): Array
+(
+    [0] => 70214
+    [1] => 70213
+    [2] => 70660
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:36] 🔍 ENTRADA REF 94125 → productos_complementarios (RAW): Array
+(
+    [0] => 40422
+    [1] => 4026
+    [2] => 40550
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:38] 🔍 ENTRADA REF 94126 → productos_complementarios (RAW): Array
+(
+    [0] => 50571
+    [1] => 50504
+    [2] => 50585
+    [3] => 50621
+    [4] => 50622
+    [5] => 50569
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:40] 🔍 ENTRADA REF 94127 → productos_complementarios (RAW): Array
+(
+    [0] => 50633
+    [1] => 50634
+    [2] => 50631
+    [3] => 50635
+    [4] => 80006
+    [5] => 80005
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:42] 🔍 ENTRADA REF 94128 → productos_complementarios (RAW): Array
+(
+    [0] => 50509
+    [1] => 50540
+    [2] => 50530
+    [3] => 50619
+    [4] => 50620
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:44] 🔍 ENTRADA REF 94129 → productos_complementarios (RAW): Array
+(
+    [0] => 50588
+    [1] => 50589
+    [2] => 50515
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:46] 🔍 ENTRADA REF 94132 → productos_complementarios (RAW): Array
+(
+    [0] => 91507
+    [1] => 91512
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:47] 🔍 ENTRADA REF 94133 → productos_complementarios (RAW): Array
+(
+    [0] => 91506
+    [1] => 91508
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:49] 🔍 ENTRADA REF 94134 → productos_complementarios (RAW): Array
+(
+    [0] => 91527
+    [1] => 91528
+    [2] => 91529
+    [3] => 91530
+    [4] => 91531
+    [5] => 91532
+    [6] => 91533
+    [7] => 91534
+    [8] => 91535
+    [9] => 91536
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:51] 🔍 ENTRADA REF 91571 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:53] 🔍 ENTRADA REF 94136 → productos_complementarios (RAW): Array
+(
+    [0] => 40553
+    [1] => 40545
+    [2] => 40556
+    [3] => 40557
+    [4] => 40558
+    [5] => 40559
+    [6] => 30790
+    [7] => 30825
+    [8] => 30824
+    [9] => 30826
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:55] 🔍 ENTRADA REF 94137 → productos_complementarios (RAW): Array
+(
+    [0] => 70219
+    [1] => 70220
+    [2] => 70221
+    [3] => 10266
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:57] 🔍 ENTRADA REF 94138 → productos_complementarios (RAW): Array
+(
+    [0] => 50644
+    [1] => 50645
+    [2] => 50646
+    [3] => 50637
+    [4] => 50647
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:41:59] 🔍 ENTRADA REF 94139 → productos_complementarios (RAW): Array
+(
+    [0] => 50638
+    [1] => 50640
+    [2] => 50641
+    [3] => 50639
+    [4] => 50643
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:01] 🔍 ENTRADA REF 94140 → productos_complementarios (RAW): Array
+(
+    [0] => 70306
+    [1] => 71076
+    [2] => 10308
+    [3] => 10315
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:04] 🔍 ENTRADA REF 94142 → productos_complementarios (RAW): Array
+(
+    [0] => 30729
+    [1] => 30818
+    [2] => 30590
+    [3] => 30592
+    [4] => 30593
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:06] 🔍 ENTRADA REF 94141 → productos_complementarios (RAW): Array
+(
+    [0] => 30096
+    [1] => 35033
+    [2] => 35077
+    [3] => 10470
+    [4] => 10475
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:08] 🔍 ENTRADA REF 94143 → productos_complementarios (RAW): Array
+(
+    [0] => 10465
+    [1] => 10441
+    [2] => 10442
+    [3] => 30356
+    [4] => 10440
+    [5] => 10285
+    [6] => 30363
+    [7] => 35051
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:10] 🔍 ENTRADA REF 94144 → productos_complementarios (RAW): Array
+(
+    [0] => 30596
+    [1] => 30004
+    [2] => 10274
+    [3] => 10280
+    [4] => 10265
+    [5] => 10373
+    [6] => 10264
+    [7] => 30003
+    [8] => 35041
+    [9] => 35040
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:12] 🔍 ENTRADA REF 94145 → productos_complementarios (RAW): Array
+(
+    [0] => 30697
+    [1] => 30777
+    [2] => 30810
+    [3] => 30354
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:14] 🔍 ENTRADA REF 94147 → productos_complementarios (RAW): Array
+(
+    [0] => 30209
+    [1] => 30210
+    [2] => 30211
+    [3] => 30798
+    [4] => 90830
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:16] 🔍 ENTRADA REF 94148 → productos_complementarios (RAW): Array
+(
+    [0] => 30358
+    [1] => 50522
+    [2] => 30359
+    [3] => 10121
+    [4] => 35042
+    [5] => 35047
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:17] 🔍 ENTRADA REF 94149 → productos_complementarios (RAW): Array
+(
+    [0] => 70251
+    [1] => 71126
+    [2] => 50526
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:20] 🔍 ENTRADA REF 94130 → productos_complementarios (RAW): Array
+(
+    [0] => 50600
+    [1] => 50507
+    [2] => 50531
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:22] 🔍 ENTRADA REF 94146 → productos_complementarios (RAW): Array
+(
+    [0] => 80793
+    [1] => 80797
+    [2] => 80794
+    [3] => 80795
+    [4] => 80796
+)
+
+[ ARRANCA EL PASO 2 2025-12-02 13:42:24] 🔍 ENTRADA REF 94150 → productos_complementarios (RAW): Array
+(
+    [0] => 90866
+    [1] => 90867
+    [2] => 90868
+    [3] => 90869
+    [4] => 90870
+    [5] => 90871
+    [6] => 90872
+    [7] => 90873
+    [8] => 90874
+    [9] => 90875
+    [10] => 90876
+    [11] => 90877
+    [12] => 90878
+    [13] => 90879
+    [14] => 90880
+    [15] => 90881
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:26] 🔍 ENTRADA REF 70605 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:28] 🔍 ENTRADA REF 94001 → productos_complementarios (RAW): Array
+(
+    [0] => 30778
+    [1] => 30779
+    [2] => 30782
+    [3] => 30785
+    [4] => 30781
+    [5] => 30784
+    [6] => 30850
+    [7] => 30851
+    [8] => 30852
+    [9] => 30855
+    [10] => 30342
+    [11] => 35020
+    [12] => 35023
+    [13] => 30523
+    [14] => 70451
+    [15] => 70450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:30] 🔍 ENTRADA REF 94002 → productos_complementarios (RAW): Array
+(
+    [0] => 30667
+    [1] => 30230
+    [2] => 30876
+    [3] => 30875
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:32] 🔍 ENTRADA REF 94003 → productos_complementarios (RAW): Array
+(
+    [0] => 30167
+    [1] => 30169
+    [2] => 30165
+    [3] => 30171
+    [4] => 30173
+    [5] => 30174
+    [6] => 30175
+    [7] => 30177
+    [8] => 30012
+    [9] => 30013
+    [10] => 30016
+    [11] => 30017
+    [12] => 30020
+    [13] => 30021
+    [14] => 30030
+    [15] => 30031
+    [16] => 30271
+    [17] => 30272
+    [18] => 30273
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:35] 🔍 ENTRADA REF 94004 → productos_complementarios (RAW): Array
+(
+    [0] => 30668
+    [1] => 30669
+    [2] => 30671
+    [3] => 30717
+    [4] => 30718
+    [5] => 30719
+    [6] => 30727
+    [7] => 30736
+    [8] => 30642
+    [9] => 30234
+    [10] => 30321
+    [11] => 30579
+    [12] => 70529
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:37] 🔍 ENTRADA REF 94005 → productos_complementarios (RAW): Array
+(
+    [0] => 30197
+    [1] => 30195
+    [2] => 30196
+    [3] => 30200
+    [4] => 30198
+    [5] => 30199
+    [6] => 30185
+    [7] => 30183
+    [8] => 30184
+    [9] => 30188
+    [10] => 30186
+    [11] => 30187
+    [12] => 31197
+    [13] => 31198
+    [14] => 31199
+    [15] => 31200
+    [16] => 31201
+    [17] => 31202
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:40] 🔍 ENTRADA REF 94006 → productos_complementarios (RAW): Array
+(
+    [0] => 30286
+    [1] => 30982
+    [2] => 30861
+    [3] => 30862
+    [4] => 30863
+    [5] => 30856
+    [6] => 30857
+    [7] => 30858
+    [8] => 30859
+    [9] => 30860
+    [10] => 30980
+    [11] => 30981
+    [12] => 30983
+    [13] => 30977
+    [14] => 30978
+    [15] => 30284
+    [16] => 30285
+    [17] => 30287
+    [18] => 30288
+    [19] => 30660
+    [20] => 30218
+    [21] => 30661
+    [22] => 30219
+    [23] => 30662
+    [24] => 30220
+    [25] => 30663
+    [26] => 30221
+    [27] => 30252
+    [28] => 30251
+    [29] => 30664
+    [30] => 30222
+    [31] => 30254
+    [32] => 30253
+    [33] => 30097
+    [34] => 30098
+    [35] => 30283
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:42] 🔍 ENTRADA REF 94007 → productos_complementarios (RAW): Array
+(
+    [0] => 30690
+    [1] => 30691
+    [2] => 30692
+    [3] => 30693
+    [4] => 71155
+    [5] => 71156
+    [6] => 30737
+    [7] => 30963
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:44] 🔍 ENTRADA REF 94008 → productos_complementarios (RAW): Array
+(
+    [0] => 70845
+    [1] => 70211
+    [2] => 70152
+    [3] => 70153
+    [4] => 30232
+    [5] => 30277
+    [6] => 30278
+    [7] => 30279
+    [8] => 30280
+    [9] => 30281
+    [10] => 30282
+    [11] => 30571
+    [12] => 30572
+    [13] => 30327
+    [14] => 30575
+    [15] => 30573
+    [16] => 30576
+    [17] => 30574
+    [18] => 30578
+    [19] => 30577
+    [20] => 30255
+    [21] => 30256
+    [22] => 30308
+    [23] => 30309
+    [24] => 30306
+    [25] => 30307
+    [26] => 30791
+    [27] => 30792
+    [28] => 30793
+    [29] => 30794
+    [30] => 30451
+    [31] => 30450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:47] 🔍 ENTRADA REF 94009 → productos_complementarios (RAW): Array
+(
+    [0] => 30760
+    [1] => 30761
+    [2] => 30769
+    [3] => 30762
+    [4] => 30763
+    [5] => 30798
+    [6] => 30066
+    [7] => 30067
+    [8] => 30068
+    [9] => 30069
+    [10] => 30070
+    [11] => 30071
+    [12] => 30155
+    [13] => 30156
+    [14] => 30157
+    [15] => 30095
+    [16] => 30062
+    [17] => 30063
+    [18] => 30064
+    [19] => 30065
+    [20] => 30058
+    [21] => 30084
+    [22] => 30266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:49] 🔍 ENTRADA REF 94010 → productos_complementarios (RAW): Array
+(
+    [0] => 30274
+    [1] => 30275
+    [2] => 30276
+    [3] => 30170
+    [4] => 30166
+    [5] => 30173
+    [6] => 30172
+    [7] => 30168
+    [8] => 30174
+    [9] => 30176
+    [10] => 30178
+    [11] => 30014
+    [12] => 30032
+    [13] => 30020
+    [14] => 30018
+    [15] => 30015
+    [16] => 30033
+    [17] => 30021
+    [18] => 30019
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:52] 🔍 ENTRADA REF 94011 → productos_complementarios (RAW): Array
+(
+    [0] => 30189
+    [1] => 30190
+    [2] => 30191
+    [3] => 30192
+    [4] => 30193
+    [5] => 30194
+    [6] => 30993
+    [7] => 30994
+    [8] => 30995
+    [9] => 30996
+    [10] => 30997
+    [11] => 30998
+    [12] => 31203
+    [13] => 31204
+    [14] => 31205
+    [15] => 31206
+    [16] => 31207
+    [17] => 31208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:54] 🔍 ENTRADA REF 94012 → productos_complementarios (RAW): Array
+(
+    [0] => 30257
+    [1] => 30258
+    [2] => 30260
+    [3] => 30261
+    [4] => 30130
+    [5] => 30131
+    [6] => 30132
+    [7] => 30622
+    [8] => 30302
+    [9] => 30314
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:56] 🔍 ENTRADA REF 94013 → productos_complementarios (RAW): Array
+(
+    [0] => 30212
+    [1] => 30213
+    [2] => 30214
+    [3] => 30216
+    [4] => 30217
+    [5] => 30289
+    [6] => 30290
+    [7] => 30291
+    [8] => 30292
+    [9] => 30585
+    [10] => 30597
+    [11] => 30598
+    [12] => 30647
+    [13] => 30653
+    [14] => 30864
+    [15] => 30865
+    [16] => 30866
+    [17] => 30867
+    [18] => 30868
+    [19] => 30869
+    [20] => 30870
+    [21] => 30984
+    [22] => 30985
+    [23] => 30986
+    [24] => 30987
+    [25] => 30988
+    [26] => 30989
+    [27] => 30990
+    [28] => 30991
+    [29] => 30992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:40:58] 🔍 ENTRADA REF 94014 → productos_complementarios (RAW): Array
+(
+    [0] => 30964
+    [1] => 30083
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:00] 🔍 ENTRADA REF 94015 → productos_complementarios (RAW): Array
+(
+    [0] => 30957
+    [1] => 30956
+    [2] => 30912
+    [3] => 30911
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:02] 🔍 ENTRADA REF 94016 → productos_complementarios (RAW): Array
+(
+    [0] => 30901
+    [1] => 30902
+    [2] => 30903
+    [3] => 30938
+    [4] => 30907
+    [5] => 30908
+    [6] => 30909
+    [7] => 30937
+    [8] => 30904
+    [9] => 30905
+    [10] => 30906
+    [11] => 30936
+    [12] => 30923
+    [13] => 30922
+    [14] => 30950
+    [15] => 30944
+    [16] => 30939
+    [17] => 30945
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:04] 🔍 ENTRADA REF 94017 → productos_complementarios (RAW): Array
+(
+    [0] => 30955
+    [1] => 30953
+    [2] => 30954
+    [3] => 30952
+    [4] => 30897
+    [5] => 30894
+    [6] => 30896
+    [7] => 30893
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:06] 🔍 ENTRADA REF 94018 → productos_complementarios (RAW): Array
+(
+    [0] => 30890
+    [1] => 30891
+    [2] => 30892
+    [3] => 30933
+    [4] => 30887
+    [5] => 30888
+    [6] => 30889
+    [7] => 30932
+    [8] => 30921
+    [9] => 30920
+    [10] => 30943
+    [11] => 30941
+    [12] => 30935
+    [13] => 30942
+    [14] => 30886
+    [15] => 30885
+    [16] => 30884
+    [17] => 30934
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:08] 🔍 ENTRADA REF 94019 → productos_complementarios (RAW): Array
+(
+    [0] => 30965
+    [1] => 30846
+    [2] => 30847
+    [3] => 30009
+    [4] => 30008
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:10] 🔍 ENTRADA REF 94020 → productos_complementarios (RAW): Array
+(
+    [0] => 30840
+    [1] => 30841
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:12] 🔍 ENTRADA REF 94021 → productos_complementarios (RAW): Array
+(
+    [0] => 30621
+    [1] => 30830
+    [2] => 30319
+    [3] => 30676
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:14] 🔍 ENTRADA REF 94022 → productos_complementarios (RAW): Array
+(
+    [0] => 30738
+    [1] => 30701
+    [2] => 30702
+    [3] => 30703
+    [4] => 30707
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:17] 🔍 ENTRADA REF 94023 → productos_complementarios (RAW): Array
+(
+    [0] => 30620
+    [1] => 30530
+    [2] => 30336
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:19] 🔍 ENTRADA REF 94024 → productos_complementarios (RAW): Array
+(
+    [0] => 90504
+    [1] => 90514
+    [2] => 90505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:21] 🔍 ENTRADA REF 94025 → productos_complementarios (RAW): Array
+(
+    [0] => 30657
+    [1] => 30658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:22] 🔍 ENTRADA REF 94026 → productos_complementarios (RAW): Array
+(
+    [0] => 30771
+    [1] => 30799
+    [2] => 30776
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:22] 🔍 ENTRADA REF 94027 → productos_complementarios (RAW): Array
+(
+    [0] => 30806
+    [1] => 30807
+    [2] => 30969
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:23] 🔍 ENTRADA REF 94028 → productos_complementarios (RAW): Array
+(
+    [0] => 30746
+    [1] => 30787
+    [2] => 30748
+    [3] => 30145
+    [4] => 30143
+    [5] => 30144
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:25] 🔍 ENTRADA REF 94029 → productos_complementarios (RAW): Array
+(
+    [0] => 30235
+    [1] => 30146
+    [2] => 30788
+    [3] => 30789
+    [4] => 30758
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:27] 🔍 ENTRADA REF 94030 → productos_complementarios (RAW): Array
+(
+    [0] => 30635
+    [1] => 30632
+    [2] => 30633
+    [3] => 30625
+    [4] => 30634
+    [5] => 30626
+    [6] => 30630
+    [7] => 30631
+    [8] => 30627
+    [9] => 30654
+    [10] => 30655
+    [11] => 30695
+    [12] => 30694
+    [13] => 30696
+    [14] => 30797
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:29] 🔍 ENTRADA REF 94031 → productos_complementarios (RAW): Array
+(
+    [0] => 30243
+    [1] => 30335
+    [2] => 30223
+    [3] => 30244
+    [4] => 30233
+    [5] => 30078
+    [6] => 30301
+    [7] => 30224
+    [8] => 30300
+    [9] => 30225
+    [10] => 30429
+    [11] => 30226
+    [12] => 30022
+    [13] => 30023
+    [14] => 30024
+    [15] => 30025
+    [16] => 30227
+    [17] => 30228
+    [18] => 30229
+    [19] => 30616
+    [20] => 30617
+    [21] => 30618
+    [22] => 30026
+    [23] => 30027
+    [24] => 30028
+    [25] => 30029
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:31] 🔍 ENTRADA REF 94032 → productos_complementarios (RAW): Array
+(
+    [0] => 30040
+    [1] => 30041
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:34] 🔍 ENTRADA REF 94033 → productos_complementarios (RAW): Array
+(
+    [0] => 30971
+    [1] => 30972
+    [2] => 30966
+    [3] => 30970
+    [4] => 30079
+    [5] => 30080
+    [6] => 30081
+    [7] => 30082
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:36] 🔍 ENTRADA REF 94034 → productos_complementarios (RAW): Array
+(
+    [0] => 31213
+    [1] => 31214
+    [2] => 31215
+    [3] => 31216
+    [4] => 31217
+    [5] => 31218
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:38] 🔍 ENTRADA REF 94035 → productos_complementarios (RAW): Array
+(
+    [0] => 30164
+    [1] => 30161
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:40] 🔍 ENTRADA REF 94036 → productos_complementarios (RAW): Array
+(
+    [0] => 30240
+    [1] => 30241
+    [2] => 30242
+    [3] => 30296
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:42] 🔍 ENTRADA REF 94037 → productos_complementarios (RAW): Array
+(
+    [0] => 30899
+    [1] => 30878
+    [2] => 30879
+    [3] => 30759
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:44] 🔍 ENTRADA REF 94038 → productos_complementarios (RAW): Array
+(
+    [0] => 30873
+    [1] => 30874
+    [2] => 30808
+    [3] => 30809
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:46] 🔍 ENTRADA REF 94039 → productos_complementarios (RAW): Array
+(
+    [0] => 30951
+    [1] => 30962
+    [2] => 30961
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:48] 🔍 ENTRADA REF 94040 → productos_complementarios (RAW): Array
+(
+    [0] => 30162
+    [1] => 30112
+    [2] => 30116
+    [3] => 30118
+    [4] => 31078
+    [5] => 30153
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:50] 🔍 ENTRADA REF 94041 → productos_complementarios (RAW): Array
+(
+    [0] => 90246
+    [1] => 90271
+    [2] => 90250
+    [3] => 90248
+    [4] => 90489
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:52] 🔍 ENTRADA REF 94042 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:52] 🔍 ENTRADA REF 94043 → productos_complementarios (RAW): Array
+(
+    [0] => 30046
+    [1] => 30047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:53] 🔍 ENTRADA REF 94044 → productos_complementarios (RAW): Array
+(
+    [0] => 30051
+    [1] => 30050
+    [2] => 30049
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:55] 🔍 ENTRADA REF 94045 → productos_complementarios (RAW): Array
+(
+    [0] => 30043
+    [1] => 30043
+    [2] => 30072
+    [3] => 30073
+    [4] => 30074
+    [5] => 30075
+    [6] => 30034
+    [7] => 30035
+    [8] => 30036
+    [9] => 30037
+    [10] => 30038
+    [11] => 30039
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:57] 🔍 ENTRADA REF 94046 → productos_complementarios (RAW): Array
+(
+    [0] => 71028
+    [1] => 71026
+    [2] => 71112
+    [3] => 71080
+    [4] => 71113
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:41:59] 🔍 ENTRADA REF 94047 → productos_complementarios (RAW): Array
+(
+    [0] => 70630
+    [1] => 71115
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:01] 🔍 ENTRADA REF 94048 → productos_complementarios (RAW): Array
+(
+    [0] => 70713
+    [1] => 70627
+    [2] => 70802
+    [3] => 70919
+    [4] => 70566
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:03] 🔍 ENTRADA REF 94049 → productos_complementarios (RAW): Array
+(
+    [0] => 70705
+    [1] => 70565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:05] 🔍 ENTRADA REF 94050 → productos_complementarios (RAW): Array
+(
+    [0] => 70166
+    [1] => 70167
+    [2] => 70168
+    [3] => 70163
+    [4] => 70164
+    [5] => 70165
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:07] 🔍 ENTRADA REF 94051 → productos_complementarios (RAW): Array
+(
+    [0] => 70212
+    [1] => 70678
+    [2] => 70415
+    [3] => 70414
+    [4] => 70413
+    [5] => 70412
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:09] 🔍 ENTRADA REF 94052 → productos_complementarios (RAW): Array
+(
+    [0] => 70411
+    [1] => 70679
+    [2] => 70680
+    [3] => 70567
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:10] 🔍 ENTRADA REF 94053 → productos_complementarios (RAW): Array
+(
+    [0] => 92105
+    [1] => 70564
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:12] 🔍 ENTRADA REF 94054 → productos_complementarios (RAW): Array
+(
+    [0] => 70243
+    [1] => 70244
+    [2] => 70241
+    [3] => 70228
+    [4] => 70226
+    [5] => 70171
+    [6] => 70242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:14] 🔍 ENTRADA REF 94055 → productos_complementarios (RAW): Array
+(
+    [0] => 70731
+    [1] => 70343
+    [2] => 71152
+    [3] => 71153
+    [4] => 70883
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:16] 🔍 ENTRADA REF 94056 → productos_complementarios (RAW): Array
+(
+    [0] => 70158
+    [1] => 70157
+    [2] => 70854
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:18] 🔍 ENTRADA REF 94057 → productos_complementarios (RAW): Array
+(
+    [0] => 70448
+    [1] => 70809
+    [2] => 70709
+    [3] => 70429
+    [4] => 70316
+    [5] => 70317
+    [6] => 70478
+    [7] => 71124
+    [8] => 71125
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:20] 🔍 ENTRADA REF 94058 → productos_complementarios (RAW): Array
+(
+    [0] => 70961
+    [1] => 70962
+    [2] => 70963
+    [3] => 70964
+    [4] => 70134
+    [5] => 70946
+    [6] => 70945
+    [7] => 70941
+    [8] => 70942
+    [9] => 70943
+    [10] => 70944
+    [11] => 70207
+    [12] => 70208
+    [13] => 70133
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:22] 🔍 ENTRADA REF 94059 → productos_complementarios (RAW): Array
+(
+    [0] => 70931
+    [1] => 70932
+    [2] => 70933
+    [3] => 70934
+    [4] => 70935
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:22] 🔍 ENTRADA REF 94060 → productos_complementarios (RAW): Array
+(
+    [0] => 70103
+    [1] => 70102
+    [2] => 70101
+    [3] => 70100
+    [4] => 70099
+    [5] => 70108
+    [6] => 70107
+    [7] => 70106
+    [8] => 70105
+    [9] => 70104
+    [10] => 70098
+    [11] => 70097
+    [12] => 70096
+    [13] => 70118
+    [14] => 70117
+    [15] => 70116
+    [16] => 70115
+    [17] => 70114
+    [18] => 70123
+    [19] => 70122
+    [20] => 70121
+    [21] => 70120
+    [22] => 70119
+    [23] => 70128
+    [24] => 70127
+    [25] => 70126
+    [26] => 70125
+    [27] => 70124
+    [28] => 70940
+    [29] => 70939
+    [30] => 70938
+    [31] => 70937
+    [32] => 70936
+    [33] => 70093
+    [34] => 70092
+    [35] => 70091
+    [36] => 70090
+    [37] => 70089
+    [38] => 70113
+    [39] => 70112
+    [40] => 70111
+    [41] => 70110
+    [42] => 70109
+    [43] => 70206
+    [44] => 70205
+    [45] => 70204
+    [46] => 70203
+    [47] => 70202
+    [48] => 70083
+    [49] => 70082
+    [50] => 70081
+    [51] => 70080
+    [52] => 70079
+    [53] => 70088
+    [54] => 70087
+    [55] => 70086
+    [56] => 70085
+    [57] => 70084
+    [58] => 70132
+    [59] => 70131
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:24] 🔍 ENTRADA REF 94062 → productos_complementarios (RAW): Array
+(
+    [0] => 40561
+    [1] => 40563
+    [2] => 30581
+    [3] => 30582
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:26] 🔍 ENTRADA REF 94063 → productos_complementarios (RAW): Array
+(
+    [0] => 40577
+    [1] => 40564
+    [2] => 40595
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:28] 🔍 ENTRADA REF 94064 → productos_complementarios (RAW): Array
+(
+    [0] => 70025
+    [1] => 70026
+    [2] => 70027
+    [3] => 70028
+    [4] => 70029
+    [5] => 70030
+    [6] => 70032
+    [7] => 70033
+    [8] => 70034
+    [9] => 70005
+    [10] => 70006
+    [11] => 70007
+    [12] => 70008
+    [13] => 70024
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:30] 🔍 ENTRADA REF 94065 → productos_complementarios (RAW): Array
+(
+    [0] => 70057
+    [1] => 70060
+    [2] => 70061
+    [3] => 70062
+    [4] => 70049
+    [5] => 70050
+    [6] => 70051
+    [7] => 70052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:32] 🔍 ENTRADA REF 94066 → productos_complementarios (RAW): Array
+(
+    [0] => 70282
+    [1] => 70283
+    [2] => 70284
+    [3] => 70298
+    [4] => 70299
+    [5] => 70300
+    [6] => 71131
+    [7] => 71132
+    [8] => 71133
+    [9] => 71134
+    [10] => 71135
+    [11] => 71136
+    [12] => 70270
+    [13] => 70271
+    [14] => 70272
+    [15] => 70286
+    [16] => 70287
+    [17] => 70288
+    [18] => 70274
+    [19] => 70275
+    [20] => 70276
+    [21] => 70290
+    [22] => 70291
+    [23] => 70292
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:34] 🔍 ENTRADA REF 94067 → productos_complementarios (RAW): Array
+(
+    [0] => 70404
+    [1] => 70405
+    [2] => 70402
+    [3] => 70403
+    [4] => 71211
+    [5] => 71212
+    [6] => 71209
+    [7] => 71210
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:36] 🔍 ENTRADA REF 94068 → productos_complementarios (RAW): Array
+(
+    [0] => 70622
+    [1] => 70623
+    [2] => 70624
+    [3] => 70533
+    [4] => 70534
+    [5] => 70535
+    [6] => 70626
+    [7] => 70625
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:38] 🔍 ENTRADA REF 94069 → productos_complementarios (RAW): Array
+(
+    [0] => 70618
+    [1] => 70619
+    [2] => 70554
+    [3] => 70553
+    [4] => 70620
+    [5] => 70621
+    [6] => 70851
+    [7] => 70972
+    [8] => 70994
+    [9] => 70995
+    [10] => 70850
+    [11] => 70971
+    [12] => 71205
+    [13] => 71206
+    [14] => 71207
+    [15] => 71208
+    [16] => 71203
+    [17] => 71204
+    [18] => 71201
+    [19] => 71202
+    [20] => 70998
+    [21] => 70999
+    [22] => 70552
+    [23] => 70551
+    [24] => 70695
+    [25] => 70696
+    [26] => 70978
+    [27] => 70979
+    [28] => 70853
+    [29] => 70930
+    [30] => 70599
+    [31] => 70598
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:40] 🔍 ENTRADA REF 94070 → productos_complementarios (RAW): Array
+(
+    [0] => 70921
+    [1] => 70922
+    [2] => 70923
+    [3] => 70638
+    [4] => 70555
+    [5] => 70499
+    [6] => 70498
+    [7] => 70497
+    [8] => 70496
+    [9] => 70495
+    [10] => 70494
+    [11] => 70905
+    [12] => 71130
+    [13] => 71129
+    [14] => 71128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:42] 🔍 ENTRADA REF 94071 → productos_complementarios (RAW): Array
+(
+    [0] => 70947
+    [1] => 90656
+    [2] => 71154
+    [3] => 70558
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:44] 🔍 ENTRADA REF 94072 → productos_complementarios (RAW): Array
+(
+    [0] => 70948
+    [1] => 90657
+    [2] => 90658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:46] 🔍 ENTRADA REF 94073 → productos_complementarios (RAW): Array
+(
+    [0] => 10107
+    [1] => 10106
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:48] 🔍 ENTRADA REF 94075 → productos_complementarios (RAW): Array
+(
+    [0] => 10295
+    [1] => 10387
+    [2] => 10386
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:49] 🔍 ENTRADA REF 94076 → productos_complementarios (RAW): Array
+(
+    [0] => 10299
+    [1] => 10268
+    [2] => 10267
+    [3] => 10279
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:51] 🔍 ENTRADA REF 94077 → productos_complementarios (RAW): Array
+(
+    [0] => 10309
+    [1] => 10312
+    [2] => 10327
+    [3] => 10328
+    [4] => 10298
+    [5] => 10297
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:53] 🔍 ENTRADA REF 94078 → productos_complementarios (RAW): Array
+(
+    [0] => 10378
+    [1] => 10379
+    [2] => 10380
+    [3] => 10381
+    [4] => 10247
+    [5] => 10248
+    [6] => 10321
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:55] 🔍 ENTRADA REF 94079 → productos_complementarios (RAW): Array
+(
+    [0] => 10370
+    [1] => 10372
+    [2] => 35025
+    [3] => 10371
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:57] 🔍 ENTRADA REF 94081 → productos_complementarios (RAW): Array
+(
+    [0] => 10253
+    [1] => 11315
+    [2] => 10310
+    [3] => 10288
+    [4] => 10255
+    [5] => 10334
+    [6] => 10257
+    [7] => 10258
+    [8] => 10242
+    [9] => 10243
+    [10] => 10345
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:42:58] 🔍 ENTRADA REF 94082 → productos_complementarios (RAW): Array
+(
+    [0] => 10952
+    [1] => 10950
+    [2] => 10964
+    [3] => 10963
+    [4] => 10966
+    [5] => 10965
+    [6] => 10954
+    [7] => 10961
+    [8] => 10956
+    [9] => 10962
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:00] 🔍 ENTRADA REF 94083 → productos_complementarios (RAW): Array
+(
+    [0] => 11484
+    [1] => 11485
+    [2] => 11482
+    [3] => 11483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:02] 🔍 ENTRADA REF 94084 → productos_complementarios (RAW): Array
+(
+    [0] => 10140
+    [1] => 10109
+    [2] => 11737
+    [3] => 10138
+    [4] => 11653
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:04] 🔍 ENTRADA REF 94085 → productos_complementarios (RAW): Array
+(
+    [0] => 10110
+    [1] => 10137
+    [2] => 10960
+    [3] => 10957
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:06] 🔍 ENTRADA REF 94086 → productos_complementarios (RAW): Array
+(
+    [0] => 90652
+    [1] => 90650
+    [2] => 90651
+    [3] => 90261
+    [4] => 90262
+    [5] => 90512
+    [6] => 90513
+    [7] => 90670
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:08] 🔍 ENTRADA REF 94087 → productos_complementarios (RAW): Array
+(
+    [0] => 30877
+    [1] => 90221
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:10] 🔍 ENTRADA REF 94088 → productos_complementarios (RAW): Array
+(
+    [0] => 70727
+    [1] => 70698
+    [2] => 70697
+    [3] => 70509
+    [4] => 70409
+    [5] => 70410
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:11] 🔍 ENTRADA REF 94089 → productos_complementarios (RAW): Array
+(
+    [0] => 71114
+    [1] => 70073
+    [2] => 70076
+    [3] => 70421
+    [4] => 71226
+    [5] => 71227
+    [6] => 70869
+    [7] => 70867
+    [8] => 70901
+    [9] => 70215
+    [10] => 70216
+    [11] => 70217
+    [12] => 70736
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:13] 🔍 ENTRADA REF 94090 → productos_complementarios (RAW): Array
+(
+    [0] => 70310
+    [1] => 70311
+    [2] => 71243
+    [3] => 70591
+    [4] => 70898
+    [5] => 70739
+    [6] => 70797
+    [7] => 70563
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:15] 🔍 ENTRADA REF 94091 → productos_complementarios (RAW): Array
+(
+    [0] => 70234
+    [1] => 70235
+    [2] => 70230
+    [3] => 70231
+    [4] => 70236
+    [5] => 70237
+    [6] => 70232
+    [7] => 70233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:16] 🔍 ENTRADA REF 94092 → productos_complementarios (RAW): Array
+(
+    [0] => 70655
+    [1] => 70339
+    [2] => 70335
+    [3] => 70338
+    [4] => 70334
+    [5] => 70337
+    [6] => 70333
+    [7] => 70332
+    [8] => 70336
+    [9] => 70676
+    [10] => 70435
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:18] 🔍 ENTRADA REF 94094 → productos_complementarios (RAW): Array
+(
+    [0] => 70222
+    [1] => 30584
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:20] 🔍 ENTRADA REF 94095 → productos_complementarios (RAW): Array
+(
+    [0] => 70507
+    [1] => 70508
+    [2] => 70728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:22] 🔍 ENTRADA REF 94096 → productos_complementarios (RAW): Array
+(
+    [0] => 70381
+    [1] => 70712
+    [2] => 70419
+    [3] => 70866
+    [4] => 70864
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:23] 🔍 ENTRADA REF 94097 → productos_complementarios (RAW): Array
+(
+    [0] => 70431
+    [1] => 70706
+    [2] => 70505
+    [3] => 70506
+    [4] => 70720
+    [5] => 70721
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:25] 🔍 ENTRADA REF 94098 → productos_complementarios (RAW): Array
+(
+    [0] => 70724
+    [1] => 70672
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:27] 🔍 ENTRADA REF 94099 → productos_complementarios (RAW): Array
+(
+    [0] => 70674
+    [1] => 70675
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:28] 🔍 ENTRADA REF 94100 → productos_complementarios (RAW): Array
+(
+    [0] => 30543
+    [1] => 70628
+    [2] => 70632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:30] 🔍 ENTRADA REF 94101 → productos_complementarios (RAW): Array
+(
+    [0] => 70670
+    [1] => 70669
+    [2] => 70250
+    [3] => 70227
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:32] 🔍 ENTRADA REF 94102 → productos_complementarios (RAW): Array
+(
+    [0] => 30053
+    [1] => 30054
+    [2] => 71238
+    [3] => 71239
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:34] 🔍 ENTRADA REF 94103 → productos_complementarios (RAW): Array
+(
+    [0] => 70444
+    [1] => 70825
+    [2] => 70840
+    [3] => 71240
+    [4] => 71241
+    [5] => 71242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:36] 🔍 ENTRADA REF 94104 → productos_complementarios (RAW): Array
+(
+    [0] => 90858
+    [1] => 90859
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:37] 🔍 ENTRADA REF 94105 → productos_complementarios (RAW): Array
+(
+    [0] => 90257
+    [1] => 90258
+    [2] => 90259
+    [3] => 90260
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:39] 🔍 ENTRADA REF 94106 → productos_complementarios (RAW): Array
+(
+    [0] => 90228
+    [1] => 90229
+    [2] => 90233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:41] 🔍 ENTRADA REF 94107 → productos_complementarios (RAW): Array
+(
+    [0] => 90232
+    [1] => 90217
+    [2] => 90521
+    [3] => 90218
+    [4] => 90231
+    [5] => 90274
+    [6] => 90219
+    [7] => 90220
+    [8] => 90230
+    [9] => 90235
+    [10] => 90277
+    [11] => 90278
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:42] 🔍 ENTRADA REF 94108 → productos_complementarios (RAW): Array
+(
+    [0] => 90226
+    [1] => 90227
+    [2] => 90237
+    [3] => 90236
+    [4] => 90222
+    [5] => 90224
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:44] 🔍 ENTRADA REF 94109 → productos_complementarios (RAW): Array
+(
+    [0] => 90860
+    [1] => 90857
+    [2] => 90863
+    [3] => 90864
+    [4] => 90263
+    [5] => 90216
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:46] 🔍 ENTRADA REF 94110 → productos_complementarios (RAW): Array
+(
+    [0] => 90736
+    [1] => 90757
+    [2] => 90758
+    [3] => 90759
+    [4] => 90765
+    [5] => 30780
+    [6] => 30853
+    [7] => 30854
+    [8] => 90788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:48] 🔍 ENTRADA REF 94111 → productos_complementarios (RAW): Array
+(
+    [0] => 90568
+    [1] => 90492
+    [2] => 90495
+    [3] => 90567
+    [4] => 90494
+    [5] => 90493
+    [6] => 90775
+    [7] => 90852
+    [8] => 90496
+    [9] => 90853
+    [10] => 90732
+    [11] => 90756
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:49] 🔍 ENTRADA REF 94112 → productos_complementarios (RAW): Array
+(
+    [0] => 90723
+    [1] => 90724
+    [2] => 90725
+    [3] => 90726
+    [4] => 90569
+    [5] => 90498
+    [6] => 90497
+    [7] => 90632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:51] 🔍 ENTRADA REF 94113 → productos_complementarios (RAW): Array
+(
+    [0] => 90682
+    [1] => 90683
+    [2] => 90272
+    [3] => 90599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:53] 🔍 ENTRADA REF 94114 → productos_complementarios (RAW): Array
+(
+    [0] => 90780
+    [1] => 90781
+    [2] => 90783
+    [3] => 90749
+    [4] => 90782
+    [5] => 70517
+    [6] => 30052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:54] 🔍 ENTRADA REF 94115 → productos_complementarios (RAW): Array
+(
+    [0] => 90674
+    [1] => 90591
+    [2] => 90584
+    [3] => 90585
+    [4] => 90586
+    [5] => 90588
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:56] 🔍 ENTRADA REF 94116 → productos_complementarios (RAW): Array
+(
+    [0] => 90816
+    [1] => 90817
+    [2] => 90818
+    [3] => 90819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:58] 🔍 ENTRADA REF 94117 → productos_complementarios (RAW): Array
+(
+    [0] => 90668
+    [1] => 90669
+    [2] => 90820
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:43:58] 🔍 ENTRADA REF 94118 → productos_complementarios (RAW): Array
+(
+    [0] => 70400
+    [1] => 90587
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:00] 🔍 ENTRADA REF 94119 → productos_complementarios (RAW): Array
+(
+    [0] => 90281
+    [1] => 70510
+    [2] => 90550
+    [3] => 90735
+    [4] => 90500
+    [5] => 90554
+    [6] => 90555
+    [7] => 90556
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:02] 🔍 ENTRADA REF 94120 → productos_complementarios (RAW): Array
+(
+    [0] => 70515
+    [1] => 90597
+    [2] => 70518
+    [3] => 90761
+    [4] => 70516
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:04] 🔍 ENTRADA REF 94121 → productos_complementarios (RAW): Array
+(
+    [0] => 70420
+    [1] => 70735
+    [2] => 70569
+    [3] => 70629
+    [4] => 70568
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:06] 🔍 ENTRADA REF 94122 → productos_complementarios (RAW): Array
+(
+    [0] => 70654
+    [1] => 70341
+    [2] => 70600
+    [3] => 70532
+    [4] => 70601
+    [5] => 70613
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:08] 🔍 ENTRADA REF 94123 → productos_complementarios (RAW): Array
+(
+    [0] => 70214
+    [1] => 70213
+    [2] => 70660
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:10] 🔍 ENTRADA REF 94124 → productos_complementarios (RAW): Array
+(
+    [0] => 50616
+    [1] => 50512
+    [2] => 50506
+    [3] => 50505
+    [4] => 50609
+    [5] => 50610
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:12] 🔍 ENTRADA REF 94125 → productos_complementarios (RAW): Array
+(
+    [0] => 40422
+    [1] => 4026
+    [2] => 40550
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:13] 🔍 ENTRADA REF 94126 → productos_complementarios (RAW): Array
+(
+    [0] => 50571
+    [1] => 50504
+    [2] => 50585
+    [3] => 50621
+    [4] => 50622
+    [5] => 50569
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:16] 🔍 ENTRADA REF 94127 → productos_complementarios (RAW): Array
+(
+    [0] => 50633
+    [1] => 50634
+    [2] => 50631
+    [3] => 50635
+    [4] => 80006
+    [5] => 80005
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:17] 🔍 ENTRADA REF 94128 → productos_complementarios (RAW): Array
+(
+    [0] => 50509
+    [1] => 50540
+    [2] => 50530
+    [3] => 50619
+    [4] => 50620
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:19] 🔍 ENTRADA REF 94129 → productos_complementarios (RAW): Array
+(
+    [0] => 50588
+    [1] => 50589
+    [2] => 50515
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:21] 🔍 ENTRADA REF 94130 → productos_complementarios (RAW): Array
+(
+    [0] => 50600
+    [1] => 50507
+    [2] => 50531
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:22] 🔍 ENTRADA REF 94131 → productos_complementarios (RAW): Array
+(
+    [0] => 91500
+    [1] => 91502
+    [2] => 91505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:24] 🔍 ENTRADA REF 94132 → productos_complementarios (RAW): Array
+(
+    [0] => 91507
+    [1] => 91512
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:25] 🔍 ENTRADA REF 94133 → productos_complementarios (RAW): Array
+(
+    [0] => 91506
+    [1] => 91508
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:27] 🔍 ENTRADA REF 94134 → productos_complementarios (RAW): Array
+(
+    [0] => 91527
+    [1] => 91528
+    [2] => 91529
+    [3] => 91530
+    [4] => 91531
+    [5] => 91532
+    [6] => 91533
+    [7] => 91534
+    [8] => 91535
+    [9] => 91536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:29] 🔍 ENTRADA REF 94136 → productos_complementarios (RAW): Array
+(
+    [0] => 40553
+    [1] => 40545
+    [2] => 40556
+    [3] => 40557
+    [4] => 40558
+    [5] => 40559
+    [6] => 30790
+    [7] => 30825
+    [8] => 30824
+    [9] => 30826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:31] 🔍 ENTRADA REF 94137 → productos_complementarios (RAW): Array
+(
+    [0] => 70219
+    [1] => 70220
+    [2] => 70221
+    [3] => 10266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:32] 🔍 ENTRADA REF 94138 → productos_complementarios (RAW): Array
+(
+    [0] => 50644
+    [1] => 50645
+    [2] => 50646
+    [3] => 50637
+    [4] => 50647
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:34] 🔍 ENTRADA REF 94139 → productos_complementarios (RAW): Array
+(
+    [0] => 50638
+    [1] => 50640
+    [2] => 50641
+    [3] => 50639
+    [4] => 50643
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:36] 🔍 ENTRADA REF 94140 → productos_complementarios (RAW): Array
+(
+    [0] => 70306
+    [1] => 71076
+    [2] => 10308
+    [3] => 10315
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:38] 🔍 ENTRADA REF 94141 → productos_complementarios (RAW): Array
+(
+    [0] => 30096
+    [1] => 35033
+    [2] => 35077
+    [3] => 10470
+    [4] => 10475
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:39] 🔍 ENTRADA REF 94142 → productos_complementarios (RAW): Array
+(
+    [0] => 30729
+    [1] => 30818
+    [2] => 30590
+    [3] => 30592
+    [4] => 30593
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:41] 🔍 ENTRADA REF 94143 → productos_complementarios (RAW): Array
+(
+    [0] => 10465
+    [1] => 10441
+    [2] => 10442
+    [3] => 30356
+    [4] => 10440
+    [5] => 10285
+    [6] => 30363
+    [7] => 35051
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:43] 🔍 ENTRADA REF 94144 → productos_complementarios (RAW): Array
+(
+    [0] => 30596
+    [1] => 30004
+    [2] => 10274
+    [3] => 10280
+    [4] => 10265
+    [5] => 10373
+    [6] => 10264
+    [7] => 30003
+    [8] => 35041
+    [9] => 35040
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:44] 🔍 ENTRADA REF 94145 → productos_complementarios (RAW): Array
+(
+    [0] => 30697
+    [1] => 30777
+    [2] => 30810
+    [3] => 30354
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:47] 🔍 ENTRADA REF 94146 → productos_complementarios (RAW): Array
+(
+    [0] => 80793
+    [1] => 80797
+    [2] => 80794
+    [3] => 80795
+    [4] => 80796
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:49] 🔍 ENTRADA REF 94147 → productos_complementarios (RAW): Array
+(
+    [0] => 30209
+    [1] => 30210
+    [2] => 30211
+    [3] => 30798
+    [4] => 90830
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:51] 🔍 ENTRADA REF 94148 → productos_complementarios (RAW): Array
+(
+    [0] => 30358
+    [1] => 50522
+    [2] => 30359
+    [3] => 10121
+    [4] => 35042
+    [5] => 35047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:53] 🔍 ENTRADA REF 94149 → productos_complementarios (RAW): Array
+(
+    [0] => 70251
+    [1] => 71126
+    [2] => 50526
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:54] 🔍 ENTRADA REF 94150 → productos_complementarios (RAW): Array
+(
+    [0] => 90866
+    [1] => 90867
+    [2] => 90868
+    [3] => 90869
+    [4] => 90870
+    [5] => 90871
+    [6] => 90872
+    [7] => 90873
+    [8] => 90874
+    [9] => 90875
+    [10] => 90876
+    [11] => 90877
+    [12] => 90878
+    [13] => 90879
+    [14] => 90880
+    [15] => 90881
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:56] 🔍 ENTRADA REF 94151 → productos_complementarios (RAW): Array
+(
+    [0] => 10114
+    [1] => 10483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:57] 🔍 ENTRADA REF 94152 → productos_complementarios (RAW): Array
+(
+    [0] => 10141
+    [1] => 10142
+    [2] => 10143
+    [3] => 10150
+    [4] => 10151
+    [5] => 10152
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:58] 🔍 ENTRADA REF 94153 → productos_complementarios (RAW): Array
+(
+    [0] => 10464
+    [1] => 10474
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:58] 🔍 ENTRADA REF 94154 → productos_complementarios (RAW): Array
+(
+    [0] => 10782
+    [1] => 10967
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:44:59] 🔍 ENTRADA REF 94155 → productos_complementarios (RAW): Array
+(
+    [0] => 11350
+    [1] => 11351
+    [2] => 11174
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:00] 🔍 ENTRADA REF 94156 → productos_complementarios (RAW): Array
+(
+    [0] => 30057
+    [1] => 30007
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:00] 🔍 ENTRADA REF 94157 → productos_complementarios (RAW): Array
+(
+    [0] => 30379
+    [1] => 30385
+    [2] => 30392
+    [3] => 30704
+    [4] => 30705
+    [5] => 30706
+    [6] => 30205
+    [7] => 30728
+    [8] => 30433
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:01] 🔍 ENTRADA REF 94158 → productos_complementarios (RAW): Array
+(
+    [0] => 30645
+    [1] => 30646
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:02] 🔍 ENTRADA REF 94159 → productos_complementarios (RAW): Array
+(
+    [0] => 30127
+    [1] => 30125
+    [2] => 30126
+    [3] => 30128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:03] 🔍 ENTRADA REF 94160 → productos_complementarios (RAW): Array
+(
+    [0] => 30946
+    [1] => 30947
+    [2] => 30948
+    [3] => 30949
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:04] 🔍 ENTRADA REF 94161 → productos_complementarios (RAW): Array
+(
+    [0] => 70513
+    [1] => 70514
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:04] 🔍 ENTRADA REF 94162 → productos_complementarios (RAW): Array
+(
+    [0] => 50525
+    [1] => 50599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:05] 🔍 ENTRADA REF 94163 → productos_complementarios (RAW): Array
+(
+    [0] => 70611
+    [1] => 70615
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:06] 🔍 ENTRADA REF 94164 → productos_complementarios (RAW): Array
+(
+    [0] => 70602
+    [1] => 70612
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:06] 🔍 ENTRADA REF 94165 → productos_complementarios (RAW): Array
+(
+    [0] => 70401
+    [1] => 70666
+    [2] => 70667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:07] 🔍 ENTRADA REF 94166 → productos_complementarios (RAW): Array
+(
+    [0] => 70604
+    [1] => 70603
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:07] 🔍 ENTRADA REF 94167 → productos_complementarios (RAW): Array
+(
+    [0] => 30312
+    [1] => 30313
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:08] 🔍 ENTRADA REF 94168 → productos_complementarios (RAW): Array
+(
+    [0] => 70418
+    [1] => 70432
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:09] 🔍 ENTRADA REF 94169 → productos_complementarios (RAW): Array
+(
+    [0] => 70445
+    [1] => 70446
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:10] 🔍 ENTRADA REF 94170 → productos_complementarios (RAW): Array
+(
+    [0] => 70723
+    [1] => 70725
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:11] 🔍 ENTRADA REF 94171 → productos_complementarios (RAW): Array
+(
+    [0] => 70873
+    [1] => 70874
+    [2] => 70887
+    [3] => 70888
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:11] 🔍 ENTRADA REF 94173 → productos_complementarios (RAW): Array
+(
+    [0] => 90784
+    [1] => 90785
+    [2] => 90786
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:12] 🔍 ENTRADA REF 94172 → productos_complementarios (RAW): Array
+(
+    [0] => 70434
+    [1] => 70433
+    [2] => 70502
+    [3] => 70503
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:13] 🔍 ENTRADA REF 94174 → productos_complementarios (RAW): Array
+(
+    [0] => 90848
+    [1] => 90849
+    [2] => 90850
+    [3] => 90851
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:13] 🔍 ENTRADA REF 94175 → productos_complementarios (RAW): Array
+(
+    [0] => 40400
+    [1] => 40401
+    [2] => 40402
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:14] 🔍 ENTRADA REF 94176 → productos_complementarios (RAW): Array
+(
+    [0] => 40417
+    [1] => 40419
+    [2] => 94175
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:15] 🔍 ENTRADA REF 94177 → productos_complementarios (RAW): Array
+(
+    [0] => 50510
+    [1] => 50555
+    [2] => 50623
+    [3] => 50624
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:15] 🔍 ENTRADA REF 94178 → productos_complementarios (RAW): Array
+(
+    [0] => 50604
+    [1] => 50605
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:16] 🔍 ENTRADA REF 94179 → productos_complementarios (RAW): Array
+(
+    [0] => 50532
+    [1] => 50533
+    [2] => 50535
+    [3] => 50536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:17] 🔍 ENTRADA REF 94180 → productos_complementarios (RAW): Array
+(
+    [0] => 50514
+    [1] => 50574
+    [2] => 50513
+    [3] => 50572
+    [4] => 50518
+    [5] => 50602
+    [6] => 50601
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:17] 🔍 ENTRADA REF 94181 → productos_complementarios (RAW): Array
+(
+    [0] => 70522
+    [1] => 70521
+    [2] => 70520
+    [3] => 70519
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:18] 🔍 ENTRADA REF 94182 → productos_complementarios (RAW): Array
+(
+    [0] => 90240
+    [1] => 90241
+    [2] => 90245
+    [3] => 90244
+    [4] => 90242
+    [5] => 90243
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:19] 🔍 ENTRADA REF 94183 → productos_complementarios (RAW): Array
+(
+    [0] => 90641
+    [1] => 90642
+    [2] => 90643
+    [3] => 90667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:19] 🔍 ENTRADA REF 94184 → productos_complementarios (RAW): Array
+(
+    [0] => 90251
+    [1] => 90252
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:20] 🔍 ENTRADA REF 94185 → productos_complementarios (RAW): Array
+(
+    [0] => 90727
+    [1] => 90728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:21] 🔍 ENTRADA REF 94186 → productos_complementarios (RAW): Array
+(
+    [0] => 90254
+    [1] => 90255
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:22] 🔍 ENTRADA REF 94187 → productos_complementarios (RAW): Array
+(
+    [0] => 90598
+    [1] => 90581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:22] 🔍 ENTRADA REF 94188 → productos_complementarios (RAW): Array
+(
+    [0] => 90562
+    [1] => 90566
+    [2] => 90563
+    [3] => 90565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:23] 🔍 ENTRADA REF 98189 → productos_complementarios (RAW): Array
+(
+    [0] => 90499
+    [1] => 90821
+    [2] => 90836
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:24] 🔍 ENTRADA REF 94190 → productos_complementarios (RAW): Array
+(
+    [0] => 90579
+    [1] => 90600
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:25] 🔍 ENTRADA REF 94191 → productos_complementarios (RAW): Array
+(
+    [0] => 90561
+    [1] => 90733
+    [2] => 90734
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:26] 🔍 ENTRADA REF 94192 → productos_complementarios (RAW): Array
+(
+    [0] => 70010
+    [1] => 70011
+    [2] => 70012
+    [3] => 70013
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:26] 🔍 ENTRADA REF 94193 → productos_complementarios (RAW): Array
+(
+    [0] => 70561
+    [1] => 70562
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:27] 🔍 ENTRADA REF 94194 → productos_complementarios (RAW): Array
+(
+    [0] => 70135
+    [1] => 70136
+    [2] => 70137
+    [3] => 70329
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:28] 🔍 ENTRADA REF 94195 → productos_complementarios (RAW): Array
+(
+    [0] => 70512
+    [1] => 70342
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:28] 🔍 ENTRADA REF 94196 → productos_complementarios (RAW): Array
+(
+    [0] => 70389
+    [1] => 70229
+    [2] => 70390
+    [3] => 70238
+    [4] => 80788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:29] 🔍 ENTRADA REF 94197 → productos_complementarios (RAW): Array
+(
+    [0] => 91576
+    [1] => 91577
+    [2] => 91578
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:30] 🔍 ENTRADA REF 94198 → productos_complementarios (RAW): Array
+(
+    [0] => 91579
+    [1] => 91580
+    [2] => 91581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:30] 🔍 ENTRADA REF 94199 → productos_complementarios (RAW): Array
+(
+    [0] => 91567
+    [1] => 91568
+    [2] => 91569
+    [3] => 91570
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:31] 🔍 ENTRADA REF 94200 → productos_complementarios (RAW): Array
+(
+    [0] => 91571
+    [1] => 91572
+    [2] => 91573
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:32] 🔍 ENTRADA REF 94201 → productos_complementarios (RAW): Array
+(
+    [0] => 70160
+    [1] => 70159
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:32] 🔍 ENTRADA REF 94202 → productos_complementarios (RAW): Array
+(
+    [0] => 70543
+    [1] => 70544
+    [2] => 70545
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:33] 🔍 ENTRADA REF 94203 → productos_complementarios (RAW): Array
+(
+    [0] => 70916
+    [1] => 70917
+    [2] => 70918
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:34] 🔍 ENTRADA REF 90204 → productos_complementarios (RAW): Array
+(
+    [0] => 70990
+    [1] => 70991
+    [2] => 70992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:34] 🔍 ENTRADA REF 94205 → productos_complementarios (RAW): Array
+(
+    [0] => 71032
+    [1] => 71033
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:35] 🔍 ENTRADA REF 94206 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:36] 🔍 ENTRADA REF 94207 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:46] 🔍 ENTRADA REF 94208 → productos_complementarios (RAW): Array
+(
+    [0] => 10281
+    [1] => 10282
+    [2] => 10283
+    [3] => 35028
+    [4] => 10149
+    [5] => 10147
+    [6] => 10322
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:47] 🔍 ENTRADA REF 94209 → productos_complementarios (RAW): Array
+(
+    [0] => 10469
+    [1] => 30819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:47] 🔍 ENTRADA REF 94210 → productos_complementarios (RAW): Array
+(
+    [0] => 10472
+    [1] => 30716
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:48] 🔍 ENTRADA REF 94211 → productos_complementarios (RAW): Array
+(
+    [0] => 30608
+    [1] => 30609
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:49] 🔍 ENTRADA REF 94212 → productos_complementarios (RAW): Array
+(
+    [0] => 30206
+    [1] => 30207
+    [2] => 30208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:49] 🔍 ENTRADA REF 94213 → productos_complementarios (RAW): Array
+(
+    [0] => 30468
+    [1] => 30316
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:50] 🔍 ENTRADA REF 94214 → productos_complementarios (RAW): Array
+(
+    [0] => 80798
+    [1] => 80789
+    [2] => 80790
+    [3] => 80799
+    [4] => 80791
+    [5] => 80792
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:50] 🔍 ENTRADA REF 94215 → productos_complementarios (RAW): Array
+(
+    [0] => 80801
+    [1] => 80803
+    [2] => 80804
+    [3] => 80805
+    [4] => 80806
+    [5] => 80807
+    [6] => 80808
+    [7] => 80809
+    [8] => 80811
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:51] 🔍 ENTRADA REF 94216 → productos_complementarios (RAW): Array
+(
+    [0] => 80822
+    [1] => 80825
+    [2] => 80824
+    [3] => 80823
+    [4] => 80826
+    [5] => 80827
+    [6] => 80828
+    [7] => 80829
+    [8] => 80817
+    [9] => 80816
+    [10] => 80821
+    [11] => 80830
+    [12] => 80831
+    [13] => 80832
+    [14] => 80833
+    [15] => 80834
+    [16] => 80835
+    [17] => 80836
+    [18] => 80810
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:52] 🔍 ENTRADA REF 94217 → productos_complementarios (RAW): Array
+(
+    [0] => 90490
+    [1] => 90737
+    [2] => 90738
+    [3] => 90739
+    [4] => 90740
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:52] 🔍 ENTRADA REF 94218 → productos_complementarios (RAW): Array
+(
+    [0] => 90825
+    [1] => 90826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 10:45:53] 🔍 ENTRADA REF 94219 → productos_complementarios (RAW): Array
+(
+    [0] => 90882
+    [1] => 90883
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:34] 🔍 ENTRADA REF 70605 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:40] 🔍 ENTRADA REF 94001 → productos_complementarios (RAW): Array
+(
+    [0] => 30778
+    [1] => 30779
+    [2] => 30782
+    [3] => 30785
+    [4] => 30781
+    [5] => 30784
+    [6] => 30850
+    [7] => 30851
+    [8] => 30852
+    [9] => 30855
+    [10] => 30342
+    [11] => 35020
+    [12] => 35023
+    [13] => 30523
+    [14] => 70451
+    [15] => 70450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:42] 🔍 ENTRADA REF 94002 → productos_complementarios (RAW): Array
+(
+    [0] => 30667
+    [1] => 30230
+    [2] => 30876
+    [3] => 30875
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:45] 🔍 ENTRADA REF 94003 → productos_complementarios (RAW): Array
+(
+    [0] => 30167
+    [1] => 30169
+    [2] => 30165
+    [3] => 30171
+    [4] => 30173
+    [5] => 30174
+    [6] => 30175
+    [7] => 30177
+    [8] => 30012
+    [9] => 30013
+    [10] => 30016
+    [11] => 30017
+    [12] => 30020
+    [13] => 30021
+    [14] => 30030
+    [15] => 30031
+    [16] => 30271
+    [17] => 30272
+    [18] => 30273
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:48] 🔍 ENTRADA REF 94004 → productos_complementarios (RAW): Array
+(
+    [0] => 30668
+    [1] => 30669
+    [2] => 30671
+    [3] => 30717
+    [4] => 30718
+    [5] => 30719
+    [6] => 30727
+    [7] => 30736
+    [8] => 30642
+    [9] => 30234
+    [10] => 30321
+    [11] => 30579
+    [12] => 70529
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:50] 🔍 ENTRADA REF 94005 → productos_complementarios (RAW): Array
+(
+    [0] => 30197
+    [1] => 30195
+    [2] => 30196
+    [3] => 30200
+    [4] => 30198
+    [5] => 30199
+    [6] => 30185
+    [7] => 30183
+    [8] => 30184
+    [9] => 30188
+    [10] => 30186
+    [11] => 30187
+    [12] => 31197
+    [13] => 31198
+    [14] => 31199
+    [15] => 31200
+    [16] => 31201
+    [17] => 31202
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:53] 🔍 ENTRADA REF 94006 → productos_complementarios (RAW): Array
+(
+    [0] => 30286
+    [1] => 30982
+    [2] => 30861
+    [3] => 30862
+    [4] => 30863
+    [5] => 30856
+    [6] => 30857
+    [7] => 30858
+    [8] => 30859
+    [9] => 30860
+    [10] => 30980
+    [11] => 30981
+    [12] => 30983
+    [13] => 30977
+    [14] => 30978
+    [15] => 30284
+    [16] => 30285
+    [17] => 30287
+    [18] => 30288
+    [19] => 30660
+    [20] => 30218
+    [21] => 30661
+    [22] => 30219
+    [23] => 30662
+    [24] => 30220
+    [25] => 30663
+    [26] => 30221
+    [27] => 30252
+    [28] => 30251
+    [29] => 30664
+    [30] => 30222
+    [31] => 30254
+    [32] => 30253
+    [33] => 30097
+    [34] => 30098
+    [35] => 30283
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:56] 🔍 ENTRADA REF 94007 → productos_complementarios (RAW): Array
+(
+    [0] => 30690
+    [1] => 30691
+    [2] => 30692
+    [3] => 30693
+    [4] => 71155
+    [5] => 71156
+    [6] => 30737
+    [7] => 30963
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:28:58] 🔍 ENTRADA REF 94008 → productos_complementarios (RAW): Array
+(
+    [0] => 70845
+    [1] => 70211
+    [2] => 70152
+    [3] => 70153
+    [4] => 30232
+    [5] => 30277
+    [6] => 30278
+    [7] => 30279
+    [8] => 30280
+    [9] => 30281
+    [10] => 30282
+    [11] => 30571
+    [12] => 30572
+    [13] => 30327
+    [14] => 30575
+    [15] => 30573
+    [16] => 30576
+    [17] => 30574
+    [18] => 30578
+    [19] => 30577
+    [20] => 30255
+    [21] => 30256
+    [22] => 30308
+    [23] => 30309
+    [24] => 30306
+    [25] => 30307
+    [26] => 30791
+    [27] => 30792
+    [28] => 30793
+    [29] => 30794
+    [30] => 30451
+    [31] => 30450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:01] 🔍 ENTRADA REF 94009 → productos_complementarios (RAW): Array
+(
+    [0] => 30760
+    [1] => 30761
+    [2] => 30769
+    [3] => 30762
+    [4] => 30763
+    [5] => 30798
+    [6] => 30066
+    [7] => 30067
+    [8] => 30068
+    [9] => 30069
+    [10] => 30070
+    [11] => 30071
+    [12] => 30155
+    [13] => 30156
+    [14] => 30157
+    [15] => 30095
+    [16] => 30062
+    [17] => 30063
+    [18] => 30064
+    [19] => 30065
+    [20] => 30058
+    [21] => 30084
+    [22] => 30266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:04] 🔍 ENTRADA REF 94010 → productos_complementarios (RAW): Array
+(
+    [0] => 30274
+    [1] => 30275
+    [2] => 30276
+    [3] => 30170
+    [4] => 30166
+    [5] => 30173
+    [6] => 30172
+    [7] => 30168
+    [8] => 30174
+    [9] => 30176
+    [10] => 30178
+    [11] => 30014
+    [12] => 30032
+    [13] => 30020
+    [14] => 30018
+    [15] => 30015
+    [16] => 30033
+    [17] => 30021
+    [18] => 30019
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:07] 🔍 ENTRADA REF 94011 → productos_complementarios (RAW): Array
+(
+    [0] => 30189
+    [1] => 30190
+    [2] => 30191
+    [3] => 30192
+    [4] => 30193
+    [5] => 30194
+    [6] => 30993
+    [7] => 30994
+    [8] => 30995
+    [9] => 30996
+    [10] => 30997
+    [11] => 30998
+    [12] => 31203
+    [13] => 31204
+    [14] => 31205
+    [15] => 31206
+    [16] => 31207
+    [17] => 31208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:10] 🔍 ENTRADA REF 94012 → productos_complementarios (RAW): Array
+(
+    [0] => 30257
+    [1] => 30258
+    [2] => 30260
+    [3] => 30261
+    [4] => 30130
+    [5] => 30131
+    [6] => 30132
+    [7] => 30622
+    [8] => 30302
+    [9] => 30314
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:13] 🔍 ENTRADA REF 94013 → productos_complementarios (RAW): Array
+(
+    [0] => 30212
+    [1] => 30213
+    [2] => 30214
+    [3] => 30216
+    [4] => 30217
+    [5] => 30289
+    [6] => 30290
+    [7] => 30291
+    [8] => 30292
+    [9] => 30585
+    [10] => 30597
+    [11] => 30598
+    [12] => 30647
+    [13] => 30653
+    [14] => 30864
+    [15] => 30865
+    [16] => 30866
+    [17] => 30867
+    [18] => 30868
+    [19] => 30869
+    [20] => 30870
+    [21] => 30984
+    [22] => 30985
+    [23] => 30986
+    [24] => 30987
+    [25] => 30988
+    [26] => 30989
+    [27] => 30990
+    [28] => 30991
+    [29] => 30992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:15] 🔍 ENTRADA REF 94014 → productos_complementarios (RAW): Array
+(
+    [0] => 30964
+    [1] => 30083
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:18] 🔍 ENTRADA REF 94015 → productos_complementarios (RAW): Array
+(
+    [0] => 30957
+    [1] => 30956
+    [2] => 30912
+    [3] => 30911
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:20] 🔍 ENTRADA REF 94016 → productos_complementarios (RAW): Array
+(
+    [0] => 30901
+    [1] => 30902
+    [2] => 30903
+    [3] => 30938
+    [4] => 30907
+    [5] => 30908
+    [6] => 30909
+    [7] => 30937
+    [8] => 30904
+    [9] => 30905
+    [10] => 30906
+    [11] => 30936
+    [12] => 30923
+    [13] => 30922
+    [14] => 30950
+    [15] => 30944
+    [16] => 30939
+    [17] => 30945
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:23] 🔍 ENTRADA REF 94017 → productos_complementarios (RAW): Array
+(
+    [0] => 30955
+    [1] => 30953
+    [2] => 30954
+    [3] => 30952
+    [4] => 30897
+    [5] => 30894
+    [6] => 30896
+    [7] => 30893
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:26] 🔍 ENTRADA REF 94018 → productos_complementarios (RAW): Array
+(
+    [0] => 30890
+    [1] => 30891
+    [2] => 30892
+    [3] => 30933
+    [4] => 30887
+    [5] => 30888
+    [6] => 30889
+    [7] => 30932
+    [8] => 30921
+    [9] => 30920
+    [10] => 30943
+    [11] => 30941
+    [12] => 30935
+    [13] => 30942
+    [14] => 30886
+    [15] => 30885
+    [16] => 30884
+    [17] => 30934
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:28] 🔍 ENTRADA REF 94019 → productos_complementarios (RAW): Array
+(
+    [0] => 30965
+    [1] => 30846
+    [2] => 30847
+    [3] => 30009
+    [4] => 30008
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:31] 🔍 ENTRADA REF 94020 → productos_complementarios (RAW): Array
+(
+    [0] => 30840
+    [1] => 30841
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:34] 🔍 ENTRADA REF 94021 → productos_complementarios (RAW): Array
+(
+    [0] => 30621
+    [1] => 30830
+    [2] => 30319
+    [3] => 30676
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:37] 🔍 ENTRADA REF 94022 → productos_complementarios (RAW): Array
+(
+    [0] => 30738
+    [1] => 30701
+    [2] => 30702
+    [3] => 30703
+    [4] => 30707
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:39] 🔍 ENTRADA REF 94023 → productos_complementarios (RAW): Array
+(
+    [0] => 30620
+    [1] => 30530
+    [2] => 30336
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:42] 🔍 ENTRADA REF 94024 → productos_complementarios (RAW): Array
+(
+    [0] => 90504
+    [1] => 90514
+    [2] => 90505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:44] 🔍 ENTRADA REF 94025 → productos_complementarios (RAW): Array
+(
+    [0] => 30657
+    [1] => 30658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:45] 🔍 ENTRADA REF 94026 → productos_complementarios (RAW): Array
+(
+    [0] => 30771
+    [1] => 30799
+    [2] => 30776
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:46] 🔍 ENTRADA REF 94027 → productos_complementarios (RAW): Array
+(
+    [0] => 30806
+    [1] => 30807
+    [2] => 30969
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:46] 🔍 ENTRADA REF 94028 → productos_complementarios (RAW): Array
+(
+    [0] => 30746
+    [1] => 30787
+    [2] => 30748
+    [3] => 30145
+    [4] => 30143
+    [5] => 30144
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:49] 🔍 ENTRADA REF 94029 → productos_complementarios (RAW): Array
+(
+    [0] => 30235
+    [1] => 30146
+    [2] => 30788
+    [3] => 30789
+    [4] => 30758
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:51] 🔍 ENTRADA REF 94030 → productos_complementarios (RAW): Array
+(
+    [0] => 30635
+    [1] => 30632
+    [2] => 30633
+    [3] => 30625
+    [4] => 30634
+    [5] => 30626
+    [6] => 30630
+    [7] => 30631
+    [8] => 30627
+    [9] => 30654
+    [10] => 30655
+    [11] => 30695
+    [12] => 30694
+    [13] => 30696
+    [14] => 30797
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:54] 🔍 ENTRADA REF 94031 → productos_complementarios (RAW): Array
+(
+    [0] => 30243
+    [1] => 30335
+    [2] => 30223
+    [3] => 30244
+    [4] => 30233
+    [5] => 30078
+    [6] => 30301
+    [7] => 30224
+    [8] => 30300
+    [9] => 30225
+    [10] => 30429
+    [11] => 30226
+    [12] => 30022
+    [13] => 30023
+    [14] => 30024
+    [15] => 30025
+    [16] => 30227
+    [17] => 30228
+    [18] => 30229
+    [19] => 30616
+    [20] => 30617
+    [21] => 30618
+    [22] => 30026
+    [23] => 30027
+    [24] => 30028
+    [25] => 30029
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:57] 🔍 ENTRADA REF 94032 → productos_complementarios (RAW): Array
+(
+    [0] => 30040
+    [1] => 30041
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:29:59] 🔍 ENTRADA REF 94033 → productos_complementarios (RAW): Array
+(
+    [0] => 30971
+    [1] => 30972
+    [2] => 30966
+    [3] => 30970
+    [4] => 30079
+    [5] => 30080
+    [6] => 30081
+    [7] => 30082
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:02] 🔍 ENTRADA REF 94034 → productos_complementarios (RAW): Array
+(
+    [0] => 31213
+    [1] => 31214
+    [2] => 31215
+    [3] => 31216
+    [4] => 31217
+    [5] => 31218
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:05] 🔍 ENTRADA REF 94035 → productos_complementarios (RAW): Array
+(
+    [0] => 30164
+    [1] => 30161
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:07] 🔍 ENTRADA REF 94036 → productos_complementarios (RAW): Array
+(
+    [0] => 30240
+    [1] => 30241
+    [2] => 30242
+    [3] => 30296
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:10] 🔍 ENTRADA REF 94037 → productos_complementarios (RAW): Array
+(
+    [0] => 30899
+    [1] => 30878
+    [2] => 30879
+    [3] => 30759
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:12] 🔍 ENTRADA REF 94038 → productos_complementarios (RAW): Array
+(
+    [0] => 30873
+    [1] => 30874
+    [2] => 30808
+    [3] => 30809
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:15] 🔍 ENTRADA REF 94039 → productos_complementarios (RAW): Array
+(
+    [0] => 30951
+    [1] => 30962
+    [2] => 30961
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:17] 🔍 ENTRADA REF 94040 → productos_complementarios (RAW): Array
+(
+    [0] => 30162
+    [1] => 30112
+    [2] => 30116
+    [3] => 30118
+    [4] => 31078
+    [5] => 30153
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:20] 🔍 ENTRADA REF 94041 → productos_complementarios (RAW): Array
+(
+    [0] => 90246
+    [1] => 90271
+    [2] => 90250
+    [3] => 90248
+    [4] => 90489
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:22] 🔍 ENTRADA REF 94042 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:23] 🔍 ENTRADA REF 94043 → productos_complementarios (RAW): Array
+(
+    [0] => 30046
+    [1] => 30047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:23] 🔍 ENTRADA REF 94044 → productos_complementarios (RAW): Array
+(
+    [0] => 30051
+    [1] => 30050
+    [2] => 30049
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:26] 🔍 ENTRADA REF 94045 → productos_complementarios (RAW): Array
+(
+    [0] => 30043
+    [1] => 30043
+    [2] => 30072
+    [3] => 30073
+    [4] => 30074
+    [5] => 30075
+    [6] => 30034
+    [7] => 30035
+    [8] => 30036
+    [9] => 30037
+    [10] => 30038
+    [11] => 30039
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:28] 🔍 ENTRADA REF 94046 → productos_complementarios (RAW): Array
+(
+    [0] => 71028
+    [1] => 71026
+    [2] => 71112
+    [3] => 71080
+    [4] => 71113
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:31] 🔍 ENTRADA REF 94047 → productos_complementarios (RAW): Array
+(
+    [0] => 70630
+    [1] => 71115
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:34] 🔍 ENTRADA REF 94048 → productos_complementarios (RAW): Array
+(
+    [0] => 70713
+    [1] => 70627
+    [2] => 70802
+    [3] => 70919
+    [4] => 70566
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:36] 🔍 ENTRADA REF 94049 → productos_complementarios (RAW): Array
+(
+    [0] => 70705
+    [1] => 70565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:39] 🔍 ENTRADA REF 94050 → productos_complementarios (RAW): Array
+(
+    [0] => 70166
+    [1] => 70167
+    [2] => 70168
+    [3] => 70163
+    [4] => 70164
+    [5] => 70165
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:41] 🔍 ENTRADA REF 94051 → productos_complementarios (RAW): Array
+(
+    [0] => 70212
+    [1] => 70678
+    [2] => 70415
+    [3] => 70414
+    [4] => 70413
+    [5] => 70412
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:44] 🔍 ENTRADA REF 94052 → productos_complementarios (RAW): Array
+(
+    [0] => 70411
+    [1] => 70679
+    [2] => 70680
+    [3] => 70567
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:46] 🔍 ENTRADA REF 94053 → productos_complementarios (RAW): Array
+(
+    [0] => 92105
+    [1] => 70564
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:49] 🔍 ENTRADA REF 94054 → productos_complementarios (RAW): Array
+(
+    [0] => 70243
+    [1] => 70244
+    [2] => 70241
+    [3] => 70228
+    [4] => 70226
+    [5] => 70171
+    [6] => 70242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:52] 🔍 ENTRADA REF 94055 → productos_complementarios (RAW): Array
+(
+    [0] => 70731
+    [1] => 70343
+    [2] => 71152
+    [3] => 71153
+    [4] => 70883
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:54] 🔍 ENTRADA REF 94056 → productos_complementarios (RAW): Array
+(
+    [0] => 70158
+    [1] => 70157
+    [2] => 70854
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:57] 🔍 ENTRADA REF 94057 → productos_complementarios (RAW): Array
+(
+    [0] => 70448
+    [1] => 70809
+    [2] => 70709
+    [3] => 70429
+    [4] => 70316
+    [5] => 70317
+    [6] => 70478
+    [7] => 71124
+    [8] => 71125
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:30:59] 🔍 ENTRADA REF 94058 → productos_complementarios (RAW): Array
+(
+    [0] => 70961
+    [1] => 70962
+    [2] => 70963
+    [3] => 70964
+    [4] => 70134
+    [5] => 70946
+    [6] => 70945
+    [7] => 70941
+    [8] => 70942
+    [9] => 70943
+    [10] => 70944
+    [11] => 70207
+    [12] => 70208
+    [13] => 70133
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:02] 🔍 ENTRADA REF 94059 → productos_complementarios (RAW): Array
+(
+    [0] => 70931
+    [1] => 70932
+    [2] => 70933
+    [3] => 70934
+    [4] => 70935
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:03] 🔍 ENTRADA REF 94060 → productos_complementarios (RAW): Array
+(
+    [0] => 70103
+    [1] => 70102
+    [2] => 70101
+    [3] => 70100
+    [4] => 70099
+    [5] => 70108
+    [6] => 70107
+    [7] => 70106
+    [8] => 70105
+    [9] => 70104
+    [10] => 70098
+    [11] => 70097
+    [12] => 70096
+    [13] => 70118
+    [14] => 70117
+    [15] => 70116
+    [16] => 70115
+    [17] => 70114
+    [18] => 70123
+    [19] => 70122
+    [20] => 70121
+    [21] => 70120
+    [22] => 70119
+    [23] => 70128
+    [24] => 70127
+    [25] => 70126
+    [26] => 70125
+    [27] => 70124
+    [28] => 70940
+    [29] => 70939
+    [30] => 70938
+    [31] => 70937
+    [32] => 70936
+    [33] => 70093
+    [34] => 70092
+    [35] => 70091
+    [36] => 70090
+    [37] => 70089
+    [38] => 70113
+    [39] => 70112
+    [40] => 70111
+    [41] => 70110
+    [42] => 70109
+    [43] => 70206
+    [44] => 70205
+    [45] => 70204
+    [46] => 70203
+    [47] => 70202
+    [48] => 70083
+    [49] => 70082
+    [50] => 70081
+    [51] => 70080
+    [52] => 70079
+    [53] => 70088
+    [54] => 70087
+    [55] => 70086
+    [56] => 70085
+    [57] => 70084
+    [58] => 70132
+    [59] => 70131
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:06] 🔍 ENTRADA REF 94062 → productos_complementarios (RAW): Array
+(
+    [0] => 40561
+    [1] => 40563
+    [2] => 30581
+    [3] => 30582
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:08] 🔍 ENTRADA REF 94063 → productos_complementarios (RAW): Array
+(
+    [0] => 40577
+    [1] => 40564
+    [2] => 40595
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:11] 🔍 ENTRADA REF 94064 → productos_complementarios (RAW): Array
+(
+    [0] => 70025
+    [1] => 70026
+    [2] => 70027
+    [3] => 70028
+    [4] => 70029
+    [5] => 70030
+    [6] => 70032
+    [7] => 70033
+    [8] => 70034
+    [9] => 70005
+    [10] => 70006
+    [11] => 70007
+    [12] => 70008
+    [13] => 70024
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:13] 🔍 ENTRADA REF 94065 → productos_complementarios (RAW): Array
+(
+    [0] => 70057
+    [1] => 70060
+    [2] => 70061
+    [3] => 70062
+    [4] => 70049
+    [5] => 70050
+    [6] => 70051
+    [7] => 70052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:16] 🔍 ENTRADA REF 94066 → productos_complementarios (RAW): Array
+(
+    [0] => 70282
+    [1] => 70283
+    [2] => 70284
+    [3] => 70298
+    [4] => 70299
+    [5] => 70300
+    [6] => 71131
+    [7] => 71132
+    [8] => 71133
+    [9] => 71134
+    [10] => 71135
+    [11] => 71136
+    [12] => 70270
+    [13] => 70271
+    [14] => 70272
+    [15] => 70286
+    [16] => 70287
+    [17] => 70288
+    [18] => 70274
+    [19] => 70275
+    [20] => 70276
+    [21] => 70290
+    [22] => 70291
+    [23] => 70292
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:19] 🔍 ENTRADA REF 94067 → productos_complementarios (RAW): Array
+(
+    [0] => 70404
+    [1] => 70405
+    [2] => 70402
+    [3] => 70403
+    [4] => 71211
+    [5] => 71212
+    [6] => 71209
+    [7] => 71210
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:21] 🔍 ENTRADA REF 94068 → productos_complementarios (RAW): Array
+(
+    [0] => 70622
+    [1] => 70623
+    [2] => 70624
+    [3] => 70533
+    [4] => 70534
+    [5] => 70535
+    [6] => 70626
+    [7] => 70625
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:24] 🔍 ENTRADA REF 94069 → productos_complementarios (RAW): Array
+(
+    [0] => 70618
+    [1] => 70619
+    [2] => 70554
+    [3] => 70553
+    [4] => 70620
+    [5] => 70621
+    [6] => 70851
+    [7] => 70972
+    [8] => 70994
+    [9] => 70995
+    [10] => 70850
+    [11] => 70971
+    [12] => 71205
+    [13] => 71206
+    [14] => 71207
+    [15] => 71208
+    [16] => 71203
+    [17] => 71204
+    [18] => 71201
+    [19] => 71202
+    [20] => 70998
+    [21] => 70999
+    [22] => 70552
+    [23] => 70551
+    [24] => 70695
+    [25] => 70696
+    [26] => 70978
+    [27] => 70979
+    [28] => 70853
+    [29] => 70930
+    [30] => 70599
+    [31] => 70598
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:26] 🔍 ENTRADA REF 94070 → productos_complementarios (RAW): Array
+(
+    [0] => 70921
+    [1] => 70922
+    [2] => 70923
+    [3] => 70638
+    [4] => 70555
+    [5] => 70499
+    [6] => 70498
+    [7] => 70497
+    [8] => 70496
+    [9] => 70495
+    [10] => 70494
+    [11] => 70905
+    [12] => 71130
+    [13] => 71129
+    [14] => 71128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:29] 🔍 ENTRADA REF 94071 → productos_complementarios (RAW): Array
+(
+    [0] => 70947
+    [1] => 90656
+    [2] => 71154
+    [3] => 70558
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:32] 🔍 ENTRADA REF 94072 → productos_complementarios (RAW): Array
+(
+    [0] => 70948
+    [1] => 90657
+    [2] => 90658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:34] 🔍 ENTRADA REF 94073 → productos_complementarios (RAW): Array
+(
+    [0] => 10107
+    [1] => 10106
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:37] 🔍 ENTRADA REF 94075 → productos_complementarios (RAW): Array
+(
+    [0] => 10295
+    [1] => 10387
+    [2] => 10386
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:39] 🔍 ENTRADA REF 94076 → productos_complementarios (RAW): Array
+(
+    [0] => 10299
+    [1] => 10268
+    [2] => 10267
+    [3] => 10279
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:42] 🔍 ENTRADA REF 94077 → productos_complementarios (RAW): Array
+(
+    [0] => 10309
+    [1] => 10312
+    [2] => 10327
+    [3] => 10328
+    [4] => 10298
+    [5] => 10297
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:44] 🔍 ENTRADA REF 94078 → productos_complementarios (RAW): Array
+(
+    [0] => 10378
+    [1] => 10379
+    [2] => 10380
+    [3] => 10381
+    [4] => 10247
+    [5] => 10248
+    [6] => 10321
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:47] 🔍 ENTRADA REF 94079 → productos_complementarios (RAW): Array
+(
+    [0] => 10370
+    [1] => 10372
+    [2] => 35025
+    [3] => 10371
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:49] 🔍 ENTRADA REF 94081 → productos_complementarios (RAW): Array
+(
+    [0] => 10253
+    [1] => 11315
+    [2] => 10310
+    [3] => 10288
+    [4] => 10255
+    [5] => 10334
+    [6] => 10257
+    [7] => 10258
+    [8] => 10242
+    [9] => 10243
+    [10] => 10345
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:52] 🔍 ENTRADA REF 94082 → productos_complementarios (RAW): Array
+(
+    [0] => 10952
+    [1] => 10950
+    [2] => 10964
+    [3] => 10963
+    [4] => 10966
+    [5] => 10965
+    [6] => 10954
+    [7] => 10961
+    [8] => 10956
+    [9] => 10962
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:54] 🔍 ENTRADA REF 94083 → productos_complementarios (RAW): Array
+(
+    [0] => 11484
+    [1] => 11485
+    [2] => 11482
+    [3] => 11483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:57] 🔍 ENTRADA REF 94084 → productos_complementarios (RAW): Array
+(
+    [0] => 10140
+    [1] => 10109
+    [2] => 11737
+    [3] => 10138
+    [4] => 11653
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:31:59] 🔍 ENTRADA REF 94085 → productos_complementarios (RAW): Array
+(
+    [0] => 10110
+    [1] => 10137
+    [2] => 10960
+    [3] => 10957
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:02] 🔍 ENTRADA REF 94086 → productos_complementarios (RAW): Array
+(
+    [0] => 90652
+    [1] => 90650
+    [2] => 90651
+    [3] => 90261
+    [4] => 90262
+    [5] => 90512
+    [6] => 90513
+    [7] => 90670
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:05] 🔍 ENTRADA REF 94087 → productos_complementarios (RAW): Array
+(
+    [0] => 30877
+    [1] => 90221
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:07] 🔍 ENTRADA REF 94088 → productos_complementarios (RAW): Array
+(
+    [0] => 70727
+    [1] => 70698
+    [2] => 70697
+    [3] => 70509
+    [4] => 70409
+    [5] => 70410
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:10] 🔍 ENTRADA REF 94089 → productos_complementarios (RAW): Array
+(
+    [0] => 71114
+    [1] => 70073
+    [2] => 70076
+    [3] => 70421
+    [4] => 71226
+    [5] => 71227
+    [6] => 70869
+    [7] => 70867
+    [8] => 70901
+    [9] => 70215
+    [10] => 70216
+    [11] => 70217
+    [12] => 70736
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:13] 🔍 ENTRADA REF 94090 → productos_complementarios (RAW): Array
+(
+    [0] => 70310
+    [1] => 70311
+    [2] => 71243
+    [3] => 70591
+    [4] => 70898
+    [5] => 70739
+    [6] => 70797
+    [7] => 70563
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:15] 🔍 ENTRADA REF 94091 → productos_complementarios (RAW): Array
+(
+    [0] => 70234
+    [1] => 70235
+    [2] => 70230
+    [3] => 70231
+    [4] => 70236
+    [5] => 70237
+    [6] => 70232
+    [7] => 70233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:18] 🔍 ENTRADA REF 94092 → productos_complementarios (RAW): Array
+(
+    [0] => 70655
+    [1] => 70339
+    [2] => 70335
+    [3] => 70338
+    [4] => 70334
+    [5] => 70337
+    [6] => 70333
+    [7] => 70332
+    [8] => 70336
+    [9] => 70676
+    [10] => 70435
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:20] 🔍 ENTRADA REF 94094 → productos_complementarios (RAW): Array
+(
+    [0] => 70222
+    [1] => 30584
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:22] 🔍 ENTRADA REF 94095 → productos_complementarios (RAW): Array
+(
+    [0] => 70507
+    [1] => 70508
+    [2] => 70728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:25] 🔍 ENTRADA REF 94096 → productos_complementarios (RAW): Array
+(
+    [0] => 70381
+    [1] => 70712
+    [2] => 70419
+    [3] => 70866
+    [4] => 70864
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:28] 🔍 ENTRADA REF 94097 → productos_complementarios (RAW): Array
+(
+    [0] => 70431
+    [1] => 70706
+    [2] => 70505
+    [3] => 70506
+    [4] => 70720
+    [5] => 70721
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:30] 🔍 ENTRADA REF 94098 → productos_complementarios (RAW): Array
+(
+    [0] => 70724
+    [1] => 70672
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:33] 🔍 ENTRADA REF 94099 → productos_complementarios (RAW): Array
+(
+    [0] => 70674
+    [1] => 70675
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:35] 🔍 ENTRADA REF 94100 → productos_complementarios (RAW): Array
+(
+    [0] => 30543
+    [1] => 70628
+    [2] => 70632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:38] 🔍 ENTRADA REF 94101 → productos_complementarios (RAW): Array
+(
+    [0] => 70670
+    [1] => 70669
+    [2] => 70250
+    [3] => 70227
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:40] 🔍 ENTRADA REF 94102 → productos_complementarios (RAW): Array
+(
+    [0] => 30053
+    [1] => 30054
+    [2] => 71238
+    [3] => 71239
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:43] 🔍 ENTRADA REF 94103 → productos_complementarios (RAW): Array
+(
+    [0] => 70444
+    [1] => 70825
+    [2] => 70840
+    [3] => 71240
+    [4] => 71241
+    [5] => 71242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:45] 🔍 ENTRADA REF 94104 → productos_complementarios (RAW): Array
+(
+    [0] => 90858
+    [1] => 90859
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:48] 🔍 ENTRADA REF 94105 → productos_complementarios (RAW): Array
+(
+    [0] => 90257
+    [1] => 90258
+    [2] => 90259
+    [3] => 90260
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:50] 🔍 ENTRADA REF 94106 → productos_complementarios (RAW): Array
+(
+    [0] => 90228
+    [1] => 90229
+    [2] => 90233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:52] 🔍 ENTRADA REF 94107 → productos_complementarios (RAW): Array
+(
+    [0] => 90232
+    [1] => 90217
+    [2] => 90521
+    [3] => 90218
+    [4] => 90231
+    [5] => 90274
+    [6] => 90219
+    [7] => 90220
+    [8] => 90230
+    [9] => 90235
+    [10] => 90277
+    [11] => 90278
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:55] 🔍 ENTRADA REF 94108 → productos_complementarios (RAW): Array
+(
+    [0] => 90226
+    [1] => 90227
+    [2] => 90237
+    [3] => 90236
+    [4] => 90222
+    [5] => 90224
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:32:57] 🔍 ENTRADA REF 94109 → productos_complementarios (RAW): Array
+(
+    [0] => 90860
+    [1] => 90857
+    [2] => 90863
+    [3] => 90864
+    [4] => 90263
+    [5] => 90216
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:00] 🔍 ENTRADA REF 94110 → productos_complementarios (RAW): Array
+(
+    [0] => 90736
+    [1] => 90757
+    [2] => 90758
+    [3] => 90759
+    [4] => 90765
+    [5] => 30780
+    [6] => 30853
+    [7] => 30854
+    [8] => 90788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:02] 🔍 ENTRADA REF 94111 → productos_complementarios (RAW): Array
+(
+    [0] => 90568
+    [1] => 90492
+    [2] => 90495
+    [3] => 90567
+    [4] => 90494
+    [5] => 90493
+    [6] => 90775
+    [7] => 90852
+    [8] => 90496
+    [9] => 90853
+    [10] => 90732
+    [11] => 90756
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:05] 🔍 ENTRADA REF 94112 → productos_complementarios (RAW): Array
+(
+    [0] => 90723
+    [1] => 90724
+    [2] => 90725
+    [3] => 90726
+    [4] => 90569
+    [5] => 90498
+    [6] => 90497
+    [7] => 90632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:08] 🔍 ENTRADA REF 94113 → productos_complementarios (RAW): Array
+(
+    [0] => 90682
+    [1] => 90683
+    [2] => 90272
+    [3] => 90599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:10] 🔍 ENTRADA REF 94114 → productos_complementarios (RAW): Array
+(
+    [0] => 90780
+    [1] => 90781
+    [2] => 90783
+    [3] => 90749
+    [4] => 90782
+    [5] => 70517
+    [6] => 30052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:13] 🔍 ENTRADA REF 94115 → productos_complementarios (RAW): Array
+(
+    [0] => 90674
+    [1] => 90591
+    [2] => 90584
+    [3] => 90585
+    [4] => 90586
+    [5] => 90588
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:15] 🔍 ENTRADA REF 94116 → productos_complementarios (RAW): Array
+(
+    [0] => 90816
+    [1] => 90817
+    [2] => 90818
+    [3] => 90819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:17] 🔍 ENTRADA REF 94117 → productos_complementarios (RAW): Array
+(
+    [0] => 90668
+    [1] => 90669
+    [2] => 90820
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:18] 🔍 ENTRADA REF 94118 → productos_complementarios (RAW): Array
+(
+    [0] => 70400
+    [1] => 90587
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:20] 🔍 ENTRADA REF 94119 → productos_complementarios (RAW): Array
+(
+    [0] => 90281
+    [1] => 70510
+    [2] => 90550
+    [3] => 90735
+    [4] => 90500
+    [5] => 90554
+    [6] => 90555
+    [7] => 90556
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:23] 🔍 ENTRADA REF 94120 → productos_complementarios (RAW): Array
+(
+    [0] => 70515
+    [1] => 90597
+    [2] => 70518
+    [3] => 90761
+    [4] => 70516
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:25] 🔍 ENTRADA REF 94121 → productos_complementarios (RAW): Array
+(
+    [0] => 70420
+    [1] => 70735
+    [2] => 70569
+    [3] => 70629
+    [4] => 70568
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:27] 🔍 ENTRADA REF 94122 → productos_complementarios (RAW): Array
+(
+    [0] => 70654
+    [1] => 70341
+    [2] => 70600
+    [3] => 70532
+    [4] => 70601
+    [5] => 70613
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:30] 🔍 ENTRADA REF 94123 → productos_complementarios (RAW): Array
+(
+    [0] => 70214
+    [1] => 70213
+    [2] => 70660
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:32] 🔍 ENTRADA REF 94124 → productos_complementarios (RAW): Array
+(
+    [0] => 50616
+    [1] => 50512
+    [2] => 50506
+    [3] => 50505
+    [4] => 50609
+    [5] => 50610
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:35] 🔍 ENTRADA REF 94125 → productos_complementarios (RAW): Array
+(
+    [0] => 40422
+    [1] => 4026
+    [2] => 40550
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:37] 🔍 ENTRADA REF 94126 → productos_complementarios (RAW): Array
+(
+    [0] => 50571
+    [1] => 50504
+    [2] => 50585
+    [3] => 50621
+    [4] => 50622
+    [5] => 50569
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:40] 🔍 ENTRADA REF 94127 → productos_complementarios (RAW): Array
+(
+    [0] => 50633
+    [1] => 50634
+    [2] => 50631
+    [3] => 50635
+    [4] => 80006
+    [5] => 80005
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:42] 🔍 ENTRADA REF 94128 → productos_complementarios (RAW): Array
+(
+    [0] => 50509
+    [1] => 50540
+    [2] => 50530
+    [3] => 50619
+    [4] => 50620
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:44] 🔍 ENTRADA REF 94129 → productos_complementarios (RAW): Array
+(
+    [0] => 50588
+    [1] => 50589
+    [2] => 50515
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:47] 🔍 ENTRADA REF 94130 → productos_complementarios (RAW): Array
+(
+    [0] => 50600
+    [1] => 50507
+    [2] => 50531
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:49] 🔍 ENTRADA REF 94131 → productos_complementarios (RAW): Array
+(
+    [0] => 91500
+    [1] => 91502
+    [2] => 91505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:51] 🔍 ENTRADA REF 94132 → productos_complementarios (RAW): Array
+(
+    [0] => 91507
+    [1] => 91512
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:54] 🔍 ENTRADA REF 94133 → productos_complementarios (RAW): Array
+(
+    [0] => 91506
+    [1] => 91508
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:56] 🔍 ENTRADA REF 94134 → productos_complementarios (RAW): Array
+(
+    [0] => 91527
+    [1] => 91528
+    [2] => 91529
+    [3] => 91530
+    [4] => 91531
+    [5] => 91532
+    [6] => 91533
+    [7] => 91534
+    [8] => 91535
+    [9] => 91536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:33:58] 🔍 ENTRADA REF 94136 → productos_complementarios (RAW): Array
+(
+    [0] => 40553
+    [1] => 40545
+    [2] => 40556
+    [3] => 40557
+    [4] => 40558
+    [5] => 40559
+    [6] => 30790
+    [7] => 30825
+    [8] => 30824
+    [9] => 30826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:01] 🔍 ENTRADA REF 94137 → productos_complementarios (RAW): Array
+(
+    [0] => 70219
+    [1] => 70220
+    [2] => 70221
+    [3] => 10266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:03] 🔍 ENTRADA REF 94138 → productos_complementarios (RAW): Array
+(
+    [0] => 50644
+    [1] => 50645
+    [2] => 50646
+    [3] => 50637
+    [4] => 50647
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:06] 🔍 ENTRADA REF 94139 → productos_complementarios (RAW): Array
+(
+    [0] => 50638
+    [1] => 50640
+    [2] => 50641
+    [3] => 50639
+    [4] => 50643
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:09] 🔍 ENTRADA REF 94140 → productos_complementarios (RAW): Array
+(
+    [0] => 70306
+    [1] => 71076
+    [2] => 10308
+    [3] => 10315
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:11] 🔍 ENTRADA REF 94141 → productos_complementarios (RAW): Array
+(
+    [0] => 30096
+    [1] => 35033
+    [2] => 35077
+    [3] => 10470
+    [4] => 10475
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:13] 🔍 ENTRADA REF 94142 → productos_complementarios (RAW): Array
+(
+    [0] => 30729
+    [1] => 30818
+    [2] => 30590
+    [3] => 30592
+    [4] => 30593
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:15] 🔍 ENTRADA REF 94143 → productos_complementarios (RAW): Array
+(
+    [0] => 10465
+    [1] => 10441
+    [2] => 10442
+    [3] => 30356
+    [4] => 10440
+    [5] => 10285
+    [6] => 30363
+    [7] => 35051
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:17] 🔍 ENTRADA REF 94144 → productos_complementarios (RAW): Array
+(
+    [0] => 30596
+    [1] => 30004
+    [2] => 10274
+    [3] => 10280
+    [4] => 10265
+    [5] => 10373
+    [6] => 10264
+    [7] => 30003
+    [8] => 35041
+    [9] => 35040
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:20] 🔍 ENTRADA REF 94145 → productos_complementarios (RAW): Array
+(
+    [0] => 30697
+    [1] => 30777
+    [2] => 30810
+    [3] => 30354
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:22] 🔍 ENTRADA REF 94146 → productos_complementarios (RAW): Array
+(
+    [0] => 80793
+    [1] => 80797
+    [2] => 80794
+    [3] => 80795
+    [4] => 80796
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:24] 🔍 ENTRADA REF 94147 → productos_complementarios (RAW): Array
+(
+    [0] => 30209
+    [1] => 30210
+    [2] => 30211
+    [3] => 30798
+    [4] => 90830
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:26] 🔍 ENTRADA REF 94148 → productos_complementarios (RAW): Array
+(
+    [0] => 30358
+    [1] => 50522
+    [2] => 30359
+    [3] => 10121
+    [4] => 35042
+    [5] => 35047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:29] 🔍 ENTRADA REF 94149 → productos_complementarios (RAW): Array
+(
+    [0] => 70251
+    [1] => 71126
+    [2] => 50526
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:31] 🔍 ENTRADA REF 94150 → productos_complementarios (RAW): Array
+(
+    [0] => 90866
+    [1] => 90867
+    [2] => 90868
+    [3] => 90869
+    [4] => 90870
+    [5] => 90871
+    [6] => 90872
+    [7] => 90873
+    [8] => 90874
+    [9] => 90875
+    [10] => 90876
+    [11] => 90877
+    [12] => 90878
+    [13] => 90879
+    [14] => 90880
+    [15] => 90881
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:33] 🔍 ENTRADA REF 94151 → productos_complementarios (RAW): Array
+(
+    [0] => 10114
+    [1] => 10483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:34] 🔍 ENTRADA REF 94152 → productos_complementarios (RAW): Array
+(
+    [0] => 10141
+    [1] => 10142
+    [2] => 10143
+    [3] => 10150
+    [4] => 10151
+    [5] => 10152
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:35] 🔍 ENTRADA REF 94153 → productos_complementarios (RAW): Array
+(
+    [0] => 10464
+    [1] => 10474
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:35] 🔍 ENTRADA REF 94154 → productos_complementarios (RAW): Array
+(
+    [0] => 10782
+    [1] => 10967
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:36] 🔍 ENTRADA REF 94155 → productos_complementarios (RAW): Array
+(
+    [0] => 11350
+    [1] => 11351
+    [2] => 11174
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:37] 🔍 ENTRADA REF 94156 → productos_complementarios (RAW): Array
+(
+    [0] => 30057
+    [1] => 30007
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:37] 🔍 ENTRADA REF 94157 → productos_complementarios (RAW): Array
+(
+    [0] => 30379
+    [1] => 30385
+    [2] => 30392
+    [3] => 30704
+    [4] => 30705
+    [5] => 30706
+    [6] => 30205
+    [7] => 30728
+    [8] => 30433
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:38] 🔍 ENTRADA REF 94158 → productos_complementarios (RAW): Array
+(
+    [0] => 30645
+    [1] => 30646
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:38] 🔍 ENTRADA REF 94159 → productos_complementarios (RAW): Array
+(
+    [0] => 30127
+    [1] => 30125
+    [2] => 30126
+    [3] => 30128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:39] 🔍 ENTRADA REF 94160 → productos_complementarios (RAW): Array
+(
+    [0] => 30946
+    [1] => 30947
+    [2] => 30948
+    [3] => 30949
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:40] 🔍 ENTRADA REF 94161 → productos_complementarios (RAW): Array
+(
+    [0] => 70513
+    [1] => 70514
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:40] 🔍 ENTRADA REF 94162 → productos_complementarios (RAW): Array
+(
+    [0] => 50525
+    [1] => 50599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:41] 🔍 ENTRADA REF 94163 → productos_complementarios (RAW): Array
+(
+    [0] => 70611
+    [1] => 70615
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:41] 🔍 ENTRADA REF 94164 → productos_complementarios (RAW): Array
+(
+    [0] => 70602
+    [1] => 70612
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:42] 🔍 ENTRADA REF 94165 → productos_complementarios (RAW): Array
+(
+    [0] => 70401
+    [1] => 70666
+    [2] => 70667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:43] 🔍 ENTRADA REF 94166 → productos_complementarios (RAW): Array
+(
+    [0] => 70604
+    [1] => 70603
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:43] 🔍 ENTRADA REF 94167 → productos_complementarios (RAW): Array
+(
+    [0] => 30312
+    [1] => 30313
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:44] 🔍 ENTRADA REF 94168 → productos_complementarios (RAW): Array
+(
+    [0] => 70418
+    [1] => 70432
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:45] 🔍 ENTRADA REF 94169 → productos_complementarios (RAW): Array
+(
+    [0] => 70445
+    [1] => 70446
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:45] 🔍 ENTRADA REF 94170 → productos_complementarios (RAW): Array
+(
+    [0] => 70723
+    [1] => 70725
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:46] 🔍 ENTRADA REF 94171 → productos_complementarios (RAW): Array
+(
+    [0] => 70873
+    [1] => 70874
+    [2] => 70887
+    [3] => 70888
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:46] 🔍 ENTRADA REF 94173 → productos_complementarios (RAW): Array
+(
+    [0] => 90784
+    [1] => 90785
+    [2] => 90786
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:47] 🔍 ENTRADA REF 94172 → productos_complementarios (RAW): Array
+(
+    [0] => 70434
+    [1] => 70433
+    [2] => 70502
+    [3] => 70503
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:48] 🔍 ENTRADA REF 94174 → productos_complementarios (RAW): Array
+(
+    [0] => 90848
+    [1] => 90849
+    [2] => 90850
+    [3] => 90851
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:48] 🔍 ENTRADA REF 94175 → productos_complementarios (RAW): Array
+(
+    [0] => 40400
+    [1] => 40401
+    [2] => 40402
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:49] 🔍 ENTRADA REF 94176 → productos_complementarios (RAW): Array
+(
+    [0] => 40417
+    [1] => 40419
+    [2] => 94175
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:49] 🔍 ENTRADA REF 94177 → productos_complementarios (RAW): Array
+(
+    [0] => 50510
+    [1] => 50555
+    [2] => 50623
+    [3] => 50624
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:50] 🔍 ENTRADA REF 94178 → productos_complementarios (RAW): Array
+(
+    [0] => 50604
+    [1] => 50605
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:51] 🔍 ENTRADA REF 94179 → productos_complementarios (RAW): Array
+(
+    [0] => 50532
+    [1] => 50533
+    [2] => 50535
+    [3] => 50536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:51] 🔍 ENTRADA REF 94180 → productos_complementarios (RAW): Array
+(
+    [0] => 50514
+    [1] => 50574
+    [2] => 50513
+    [3] => 50572
+    [4] => 50518
+    [5] => 50602
+    [6] => 50601
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:52] 🔍 ENTRADA REF 94181 → productos_complementarios (RAW): Array
+(
+    [0] => 70522
+    [1] => 70521
+    [2] => 70520
+    [3] => 70519
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:52] 🔍 ENTRADA REF 94182 → productos_complementarios (RAW): Array
+(
+    [0] => 90240
+    [1] => 90241
+    [2] => 90245
+    [3] => 90244
+    [4] => 90242
+    [5] => 90243
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:53] 🔍 ENTRADA REF 94183 → productos_complementarios (RAW): Array
+(
+    [0] => 90641
+    [1] => 90642
+    [2] => 90643
+    [3] => 90667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:54] 🔍 ENTRADA REF 94184 → productos_complementarios (RAW): Array
+(
+    [0] => 90251
+    [1] => 90252
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:54] 🔍 ENTRADA REF 94185 → productos_complementarios (RAW): Array
+(
+    [0] => 90727
+    [1] => 90728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:55] 🔍 ENTRADA REF 94186 → productos_complementarios (RAW): Array
+(
+    [0] => 90254
+    [1] => 90255
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:55] 🔍 ENTRADA REF 94187 → productos_complementarios (RAW): Array
+(
+    [0] => 90598
+    [1] => 90581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:56] 🔍 ENTRADA REF 94188 → productos_complementarios (RAW): Array
+(
+    [0] => 90562
+    [1] => 90566
+    [2] => 90563
+    [3] => 90565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:57] 🔍 ENTRADA REF 98189 → productos_complementarios (RAW): Array
+(
+    [0] => 90499
+    [1] => 90821
+    [2] => 90836
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:57] 🔍 ENTRADA REF 94190 → productos_complementarios (RAW): Array
+(
+    [0] => 90579
+    [1] => 90600
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:58] 🔍 ENTRADA REF 94191 → productos_complementarios (RAW): Array
+(
+    [0] => 90561
+    [1] => 90733
+    [2] => 90734
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:59] 🔍 ENTRADA REF 94192 → productos_complementarios (RAW): Array
+(
+    [0] => 70010
+    [1] => 70011
+    [2] => 70012
+    [3] => 70013
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:34:59] 🔍 ENTRADA REF 94193 → productos_complementarios (RAW): Array
+(
+    [0] => 70561
+    [1] => 70562
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:00] 🔍 ENTRADA REF 94194 → productos_complementarios (RAW): Array
+(
+    [0] => 70135
+    [1] => 70136
+    [2] => 70137
+    [3] => 70329
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:00] 🔍 ENTRADA REF 94195 → productos_complementarios (RAW): Array
+(
+    [0] => 70512
+    [1] => 70342
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:01] 🔍 ENTRADA REF 94196 → productos_complementarios (RAW): Array
+(
+    [0] => 70389
+    [1] => 70229
+    [2] => 70390
+    [3] => 70238
+    [4] => 80788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:02] 🔍 ENTRADA REF 94197 → productos_complementarios (RAW): Array
+(
+    [0] => 91576
+    [1] => 91577
+    [2] => 91578
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:02] 🔍 ENTRADA REF 94198 → productos_complementarios (RAW): Array
+(
+    [0] => 91579
+    [1] => 91580
+    [2] => 91581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:03] 🔍 ENTRADA REF 94199 → productos_complementarios (RAW): Array
+(
+    [0] => 91567
+    [1] => 91568
+    [2] => 91569
+    [3] => 91570
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:04] 🔍 ENTRADA REF 94200 → productos_complementarios (RAW): Array
+(
+    [0] => 91571
+    [1] => 91572
+    [2] => 91573
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:04] 🔍 ENTRADA REF 94201 → productos_complementarios (RAW): Array
+(
+    [0] => 70160
+    [1] => 70159
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:05] 🔍 ENTRADA REF 94202 → productos_complementarios (RAW): Array
+(
+    [0] => 70543
+    [1] => 70544
+    [2] => 70545
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:05] 🔍 ENTRADA REF 94203 → productos_complementarios (RAW): Array
+(
+    [0] => 70916
+    [1] => 70917
+    [2] => 70918
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:06] 🔍 ENTRADA REF 90204 → productos_complementarios (RAW): Array
+(
+    [0] => 70990
+    [1] => 70991
+    [2] => 70992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:07] 🔍 ENTRADA REF 94205 → productos_complementarios (RAW): Array
+(
+    [0] => 71032
+    [1] => 71033
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:08] 🔍 ENTRADA REF 94206 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:08] 🔍 ENTRADA REF 94207 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:09] 🔍 ENTRADA REF 94208 → productos_complementarios (RAW): Array
+(
+    [0] => 10281
+    [1] => 10282
+    [2] => 10283
+    [3] => 35028
+    [4] => 10149
+    [5] => 10147
+    [6] => 10322
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:09] 🔍 ENTRADA REF 94209 → productos_complementarios (RAW): Array
+(
+    [0] => 10469
+    [1] => 30819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:10] 🔍 ENTRADA REF 94210 → productos_complementarios (RAW): Array
+(
+    [0] => 10472
+    [1] => 30716
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:11] 🔍 ENTRADA REF 94211 → productos_complementarios (RAW): Array
+(
+    [0] => 30608
+    [1] => 30609
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:11] 🔍 ENTRADA REF 94212 → productos_complementarios (RAW): Array
+(
+    [0] => 30206
+    [1] => 30207
+    [2] => 30208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:12] 🔍 ENTRADA REF 94213 → productos_complementarios (RAW): Array
+(
+    [0] => 30468
+    [1] => 30316
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:12] 🔍 ENTRADA REF 94214 → productos_complementarios (RAW): Array
+(
+    [0] => 80798
+    [1] => 80789
+    [2] => 80790
+    [3] => 80799
+    [4] => 80791
+    [5] => 80792
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:13] 🔍 ENTRADA REF 94215 → productos_complementarios (RAW): Array
+(
+    [0] => 80801
+    [1] => 80803
+    [2] => 80804
+    [3] => 80805
+    [4] => 80806
+    [5] => 80807
+    [6] => 80808
+    [7] => 80809
+    [8] => 80811
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:14] 🔍 ENTRADA REF 94216 → productos_complementarios (RAW): Array
+(
+    [0] => 80822
+    [1] => 80825
+    [2] => 80824
+    [3] => 80823
+    [4] => 80826
+    [5] => 80827
+    [6] => 80828
+    [7] => 80829
+    [8] => 80817
+    [9] => 80816
+    [10] => 80821
+    [11] => 80830
+    [12] => 80831
+    [13] => 80832
+    [14] => 80833
+    [15] => 80834
+    [16] => 80835
+    [17] => 80836
+    [18] => 80810
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:14] 🔍 ENTRADA REF 94217 → productos_complementarios (RAW): Array
+(
+    [0] => 90490
+    [1] => 90737
+    [2] => 90738
+    [3] => 90739
+    [4] => 90740
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:15] 🔍 ENTRADA REF 94218 → productos_complementarios (RAW): Array
+(
+    [0] => 90825
+    [1] => 90826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 14:35:16] 🔍 ENTRADA REF 94219 → productos_complementarios (RAW): Array
+(
+    [0] => 90882
+    [1] => 90883
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:14] 🔍 ENTRADA REF 70605 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:17] 🔍 ENTRADA REF 94001 → productos_complementarios (RAW): Array
+(
+    [0] => 30778
+    [1] => 30779
+    [2] => 30782
+    [3] => 30785
+    [4] => 30781
+    [5] => 30784
+    [6] => 30850
+    [7] => 30851
+    [8] => 30852
+    [9] => 30855
+    [10] => 30342
+    [11] => 35020
+    [12] => 35023
+    [13] => 30523
+    [14] => 70451
+    [15] => 70450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:19] 🔍 ENTRADA REF 94002 → productos_complementarios (RAW): Array
+(
+    [0] => 30667
+    [1] => 30230
+    [2] => 30876
+    [3] => 30875
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:22] 🔍 ENTRADA REF 94003 → productos_complementarios (RAW): Array
+(
+    [0] => 30167
+    [1] => 30169
+    [2] => 30165
+    [3] => 30171
+    [4] => 30173
+    [5] => 30174
+    [6] => 30175
+    [7] => 30177
+    [8] => 30012
+    [9] => 30013
+    [10] => 30016
+    [11] => 30017
+    [12] => 30020
+    [13] => 30021
+    [14] => 30030
+    [15] => 30031
+    [16] => 30271
+    [17] => 30272
+    [18] => 30273
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:24] 🔍 ENTRADA REF 94004 → productos_complementarios (RAW): Array
+(
+    [0] => 30668
+    [1] => 30669
+    [2] => 30671
+    [3] => 30717
+    [4] => 30718
+    [5] => 30719
+    [6] => 30727
+    [7] => 30736
+    [8] => 30642
+    [9] => 30234
+    [10] => 30321
+    [11] => 30579
+    [12] => 70529
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:27] 🔍 ENTRADA REF 94005 → productos_complementarios (RAW): Array
+(
+    [0] => 30197
+    [1] => 30195
+    [2] => 30196
+    [3] => 30200
+    [4] => 30198
+    [5] => 30199
+    [6] => 30185
+    [7] => 30183
+    [8] => 30184
+    [9] => 30188
+    [10] => 30186
+    [11] => 30187
+    [12] => 31197
+    [13] => 31198
+    [14] => 31199
+    [15] => 31200
+    [16] => 31201
+    [17] => 31202
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:30] 🔍 ENTRADA REF 94006 → productos_complementarios (RAW): Array
+(
+    [0] => 30286
+    [1] => 30982
+    [2] => 30861
+    [3] => 30862
+    [4] => 30863
+    [5] => 30856
+    [6] => 30857
+    [7] => 30858
+    [8] => 30859
+    [9] => 30860
+    [10] => 30980
+    [11] => 30981
+    [12] => 30983
+    [13] => 30977
+    [14] => 30978
+    [15] => 30284
+    [16] => 30285
+    [17] => 30287
+    [18] => 30288
+    [19] => 30660
+    [20] => 30218
+    [21] => 30661
+    [22] => 30219
+    [23] => 30662
+    [24] => 30220
+    [25] => 30663
+    [26] => 30221
+    [27] => 30252
+    [28] => 30251
+    [29] => 30664
+    [30] => 30222
+    [31] => 30254
+    [32] => 30253
+    [33] => 30097
+    [34] => 30098
+    [35] => 30283
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:33] 🔍 ENTRADA REF 94007 → productos_complementarios (RAW): Array
+(
+    [0] => 30690
+    [1] => 30691
+    [2] => 30692
+    [3] => 30693
+    [4] => 71155
+    [5] => 71156
+    [6] => 30737
+    [7] => 30963
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:35] 🔍 ENTRADA REF 94008 → productos_complementarios (RAW): Array
+(
+    [0] => 70845
+    [1] => 70211
+    [2] => 70152
+    [3] => 70153
+    [4] => 30232
+    [5] => 30277
+    [6] => 30278
+    [7] => 30279
+    [8] => 30280
+    [9] => 30281
+    [10] => 30282
+    [11] => 30571
+    [12] => 30572
+    [13] => 30327
+    [14] => 30575
+    [15] => 30573
+    [16] => 30576
+    [17] => 30574
+    [18] => 30578
+    [19] => 30577
+    [20] => 30255
+    [21] => 30256
+    [22] => 30308
+    [23] => 30309
+    [24] => 30306
+    [25] => 30307
+    [26] => 30791
+    [27] => 30792
+    [28] => 30793
+    [29] => 30794
+    [30] => 30451
+    [31] => 30450
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:38] 🔍 ENTRADA REF 94009 → productos_complementarios (RAW): Array
+(
+    [0] => 30760
+    [1] => 30761
+    [2] => 30769
+    [3] => 30762
+    [4] => 30763
+    [5] => 30798
+    [6] => 30066
+    [7] => 30067
+    [8] => 30068
+    [9] => 30069
+    [10] => 30070
+    [11] => 30071
+    [12] => 30155
+    [13] => 30156
+    [14] => 30157
+    [15] => 30095
+    [16] => 30062
+    [17] => 30063
+    [18] => 30064
+    [19] => 30065
+    [20] => 30058
+    [21] => 30084
+    [22] => 30266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:41] 🔍 ENTRADA REF 94010 → productos_complementarios (RAW): Array
+(
+    [0] => 30274
+    [1] => 30275
+    [2] => 30276
+    [3] => 30170
+    [4] => 30166
+    [5] => 30173
+    [6] => 30172
+    [7] => 30168
+    [8] => 30174
+    [9] => 30176
+    [10] => 30178
+    [11] => 30014
+    [12] => 30032
+    [13] => 30020
+    [14] => 30018
+    [15] => 30015
+    [16] => 30033
+    [17] => 30021
+    [18] => 30019
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:44] 🔍 ENTRADA REF 94011 → productos_complementarios (RAW): Array
+(
+    [0] => 30189
+    [1] => 30190
+    [2] => 30191
+    [3] => 30192
+    [4] => 30193
+    [5] => 30194
+    [6] => 30993
+    [7] => 30994
+    [8] => 30995
+    [9] => 30996
+    [10] => 30997
+    [11] => 30998
+    [12] => 31203
+    [13] => 31204
+    [14] => 31205
+    [15] => 31206
+    [16] => 31207
+    [17] => 31208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:47] 🔍 ENTRADA REF 94012 → productos_complementarios (RAW): Array
+(
+    [0] => 30257
+    [1] => 30258
+    [2] => 30260
+    [3] => 30261
+    [4] => 30130
+    [5] => 30131
+    [6] => 30132
+    [7] => 30622
+    [8] => 30302
+    [9] => 30314
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:49] 🔍 ENTRADA REF 94013 → productos_complementarios (RAW): Array
+(
+    [0] => 30212
+    [1] => 30213
+    [2] => 30214
+    [3] => 30216
+    [4] => 30217
+    [5] => 30289
+    [6] => 30290
+    [7] => 30291
+    [8] => 30292
+    [9] => 30585
+    [10] => 30597
+    [11] => 30598
+    [12] => 30647
+    [13] => 30653
+    [14] => 30864
+    [15] => 30865
+    [16] => 30866
+    [17] => 30867
+    [18] => 30868
+    [19] => 30869
+    [20] => 30870
+    [21] => 30984
+    [22] => 30985
+    [23] => 30986
+    [24] => 30987
+    [25] => 30988
+    [26] => 30989
+    [27] => 30990
+    [28] => 30991
+    [29] => 30992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:52] 🔍 ENTRADA REF 94014 → productos_complementarios (RAW): Array
+(
+    [0] => 30964
+    [1] => 30083
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:54] 🔍 ENTRADA REF 94015 → productos_complementarios (RAW): Array
+(
+    [0] => 30957
+    [1] => 30956
+    [2] => 30912
+    [3] => 30911
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:57] 🔍 ENTRADA REF 94016 → productos_complementarios (RAW): Array
+(
+    [0] => 30901
+    [1] => 30902
+    [2] => 30903
+    [3] => 30938
+    [4] => 30907
+    [5] => 30908
+    [6] => 30909
+    [7] => 30937
+    [8] => 30904
+    [9] => 30905
+    [10] => 30906
+    [11] => 30936
+    [12] => 30923
+    [13] => 30922
+    [14] => 30950
+    [15] => 30944
+    [16] => 30939
+    [17] => 30945
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:52:59] 🔍 ENTRADA REF 94017 → productos_complementarios (RAW): Array
+(
+    [0] => 30955
+    [1] => 30953
+    [2] => 30954
+    [3] => 30952
+    [4] => 30897
+    [5] => 30894
+    [6] => 30896
+    [7] => 30893
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:02] 🔍 ENTRADA REF 94018 → productos_complementarios (RAW): Array
+(
+    [0] => 30890
+    [1] => 30891
+    [2] => 30892
+    [3] => 30933
+    [4] => 30887
+    [5] => 30888
+    [6] => 30889
+    [7] => 30932
+    [8] => 30921
+    [9] => 30920
+    [10] => 30943
+    [11] => 30941
+    [12] => 30935
+    [13] => 30942
+    [14] => 30886
+    [15] => 30885
+    [16] => 30884
+    [17] => 30934
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:05] 🔍 ENTRADA REF 94019 → productos_complementarios (RAW): Array
+(
+    [0] => 30965
+    [1] => 30846
+    [2] => 30847
+    [3] => 30009
+    [4] => 30008
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:08] 🔍 ENTRADA REF 94020 → productos_complementarios (RAW): Array
+(
+    [0] => 30840
+    [1] => 30841
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:10] 🔍 ENTRADA REF 94021 → productos_complementarios (RAW): Array
+(
+    [0] => 30621
+    [1] => 30830
+    [2] => 30319
+    [3] => 30676
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:13] 🔍 ENTRADA REF 94022 → productos_complementarios (RAW): Array
+(
+    [0] => 30738
+    [1] => 30701
+    [2] => 30702
+    [3] => 30703
+    [4] => 30707
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:15] 🔍 ENTRADA REF 94023 → productos_complementarios (RAW): Array
+(
+    [0] => 30620
+    [1] => 30530
+    [2] => 30336
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:18] 🔍 ENTRADA REF 94024 → productos_complementarios (RAW): Array
+(
+    [0] => 90504
+    [1] => 90514
+    [2] => 90505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:20] 🔍 ENTRADA REF 94025 → productos_complementarios (RAW): Array
+(
+    [0] => 30657
+    [1] => 30658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:21] 🔍 ENTRADA REF 94026 → productos_complementarios (RAW): Array
+(
+    [0] => 30771
+    [1] => 30799
+    [2] => 30776
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:21] 🔍 ENTRADA REF 94027 → productos_complementarios (RAW): Array
+(
+    [0] => 30806
+    [1] => 30807
+    [2] => 30969
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:22] 🔍 ENTRADA REF 94028 → productos_complementarios (RAW): Array
+(
+    [0] => 30746
+    [1] => 30787
+    [2] => 30748
+    [3] => 30145
+    [4] => 30143
+    [5] => 30144
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:24] 🔍 ENTRADA REF 94029 → productos_complementarios (RAW): Array
+(
+    [0] => 30235
+    [1] => 30146
+    [2] => 30788
+    [3] => 30789
+    [4] => 30758
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:27] 🔍 ENTRADA REF 94030 → productos_complementarios (RAW): Array
+(
+    [0] => 30635
+    [1] => 30632
+    [2] => 30633
+    [3] => 30625
+    [4] => 30634
+    [5] => 30626
+    [6] => 30630
+    [7] => 30631
+    [8] => 30627
+    [9] => 30654
+    [10] => 30655
+    [11] => 30695
+    [12] => 30694
+    [13] => 30696
+    [14] => 30797
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:29] 🔍 ENTRADA REF 94031 → productos_complementarios (RAW): Array
+(
+    [0] => 30243
+    [1] => 30335
+    [2] => 30223
+    [3] => 30244
+    [4] => 30233
+    [5] => 30078
+    [6] => 30301
+    [7] => 30224
+    [8] => 30300
+    [9] => 30225
+    [10] => 30429
+    [11] => 30226
+    [12] => 30022
+    [13] => 30023
+    [14] => 30024
+    [15] => 30025
+    [16] => 30227
+    [17] => 30228
+    [18] => 30229
+    [19] => 30616
+    [20] => 30617
+    [21] => 30618
+    [22] => 30026
+    [23] => 30027
+    [24] => 30028
+    [25] => 30029
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:32] 🔍 ENTRADA REF 94032 → productos_complementarios (RAW): Array
+(
+    [0] => 30040
+    [1] => 30041
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:35] 🔍 ENTRADA REF 94033 → productos_complementarios (RAW): Array
+(
+    [0] => 30971
+    [1] => 30972
+    [2] => 30966
+    [3] => 30970
+    [4] => 30079
+    [5] => 30080
+    [6] => 30081
+    [7] => 30082
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:37] 🔍 ENTRADA REF 94034 → productos_complementarios (RAW): Array
+(
+    [0] => 31213
+    [1] => 31214
+    [2] => 31215
+    [3] => 31216
+    [4] => 31217
+    [5] => 31218
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:40] 🔍 ENTRADA REF 94035 → productos_complementarios (RAW): Array
+(
+    [0] => 30164
+    [1] => 30161
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:42] 🔍 ENTRADA REF 94036 → productos_complementarios (RAW): Array
+(
+    [0] => 30240
+    [1] => 30241
+    [2] => 30242
+    [3] => 30296
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:45] 🔍 ENTRADA REF 94037 → productos_complementarios (RAW): Array
+(
+    [0] => 30899
+    [1] => 30878
+    [2] => 30879
+    [3] => 30759
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:47] 🔍 ENTRADA REF 94038 → productos_complementarios (RAW): Array
+(
+    [0] => 30873
+    [1] => 30874
+    [2] => 30808
+    [3] => 30809
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:50] 🔍 ENTRADA REF 94039 → productos_complementarios (RAW): Array
+(
+    [0] => 30951
+    [1] => 30962
+    [2] => 30961
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:52] 🔍 ENTRADA REF 94040 → productos_complementarios (RAW): Array
+(
+    [0] => 30162
+    [1] => 30112
+    [2] => 30116
+    [3] => 30118
+    [4] => 31078
+    [5] => 30153
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:55] 🔍 ENTRADA REF 94041 → productos_complementarios (RAW): Array
+(
+    [0] => 90246
+    [1] => 90271
+    [2] => 90250
+    [3] => 90248
+    [4] => 90489
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:57] 🔍 ENTRADA REF 94042 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:58] 🔍 ENTRADA REF 94043 → productos_complementarios (RAW): Array
+(
+    [0] => 30046
+    [1] => 30047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:53:58] 🔍 ENTRADA REF 94044 → productos_complementarios (RAW): Array
+(
+    [0] => 30051
+    [1] => 30050
+    [2] => 30049
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:01] 🔍 ENTRADA REF 94045 → productos_complementarios (RAW): Array
+(
+    [0] => 30043
+    [1] => 30043
+    [2] => 30072
+    [3] => 30073
+    [4] => 30074
+    [5] => 30075
+    [6] => 30034
+    [7] => 30035
+    [8] => 30036
+    [9] => 30037
+    [10] => 30038
+    [11] => 30039
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:04] 🔍 ENTRADA REF 94046 → productos_complementarios (RAW): Array
+(
+    [0] => 71028
+    [1] => 71026
+    [2] => 71112
+    [3] => 71080
+    [4] => 71113
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:07] 🔍 ENTRADA REF 94047 → productos_complementarios (RAW): Array
+(
+    [0] => 70630
+    [1] => 71115
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:10] 🔍 ENTRADA REF 94048 → productos_complementarios (RAW): Array
+(
+    [0] => 70713
+    [1] => 70627
+    [2] => 70802
+    [3] => 70919
+    [4] => 70566
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:13] 🔍 ENTRADA REF 94049 → productos_complementarios (RAW): Array
+(
+    [0] => 70705
+    [1] => 70565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:15] 🔍 ENTRADA REF 94050 → productos_complementarios (RAW): Array
+(
+    [0] => 70166
+    [1] => 70167
+    [2] => 70168
+    [3] => 70163
+    [4] => 70164
+    [5] => 70165
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:18] 🔍 ENTRADA REF 94051 → productos_complementarios (RAW): Array
+(
+    [0] => 70212
+    [1] => 70678
+    [2] => 70415
+    [3] => 70414
+    [4] => 70413
+    [5] => 70412
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:20] 🔍 ENTRADA REF 94052 → productos_complementarios (RAW): Array
+(
+    [0] => 70411
+    [1] => 70679
+    [2] => 70680
+    [3] => 70567
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:23] 🔍 ENTRADA REF 94053 → productos_complementarios (RAW): Array
+(
+    [0] => 92105
+    [1] => 70564
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:26] 🔍 ENTRADA REF 94054 → productos_complementarios (RAW): Array
+(
+    [0] => 70243
+    [1] => 70244
+    [2] => 70241
+    [3] => 70228
+    [4] => 70226
+    [5] => 70171
+    [6] => 70242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:28] 🔍 ENTRADA REF 94055 → productos_complementarios (RAW): Array
+(
+    [0] => 70731
+    [1] => 70343
+    [2] => 71152
+    [3] => 71153
+    [4] => 70883
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:31] 🔍 ENTRADA REF 94056 → productos_complementarios (RAW): Array
+(
+    [0] => 70158
+    [1] => 70157
+    [2] => 70854
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:33] 🔍 ENTRADA REF 94057 → productos_complementarios (RAW): Array
+(
+    [0] => 70448
+    [1] => 70809
+    [2] => 70709
+    [3] => 70429
+    [4] => 70316
+    [5] => 70317
+    [6] => 70478
+    [7] => 71124
+    [8] => 71125
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:36] 🔍 ENTRADA REF 94058 → productos_complementarios (RAW): Array
+(
+    [0] => 70961
+    [1] => 70962
+    [2] => 70963
+    [3] => 70964
+    [4] => 70134
+    [5] => 70946
+    [6] => 70945
+    [7] => 70941
+    [8] => 70942
+    [9] => 70943
+    [10] => 70944
+    [11] => 70207
+    [12] => 70208
+    [13] => 70133
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:39] 🔍 ENTRADA REF 94059 → productos_complementarios (RAW): Array
+(
+    [0] => 70931
+    [1] => 70932
+    [2] => 70933
+    [3] => 70934
+    [4] => 70935
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:40] 🔍 ENTRADA REF 94060 → productos_complementarios (RAW): Array
+(
+    [0] => 70103
+    [1] => 70102
+    [2] => 70101
+    [3] => 70100
+    [4] => 70099
+    [5] => 70108
+    [6] => 70107
+    [7] => 70106
+    [8] => 70105
+    [9] => 70104
+    [10] => 70098
+    [11] => 70097
+    [12] => 70096
+    [13] => 70118
+    [14] => 70117
+    [15] => 70116
+    [16] => 70115
+    [17] => 70114
+    [18] => 70123
+    [19] => 70122
+    [20] => 70121
+    [21] => 70120
+    [22] => 70119
+    [23] => 70128
+    [24] => 70127
+    [25] => 70126
+    [26] => 70125
+    [27] => 70124
+    [28] => 70940
+    [29] => 70939
+    [30] => 70938
+    [31] => 70937
+    [32] => 70936
+    [33] => 70093
+    [34] => 70092
+    [35] => 70091
+    [36] => 70090
+    [37] => 70089
+    [38] => 70113
+    [39] => 70112
+    [40] => 70111
+    [41] => 70110
+    [42] => 70109
+    [43] => 70206
+    [44] => 70205
+    [45] => 70204
+    [46] => 70203
+    [47] => 70202
+    [48] => 70083
+    [49] => 70082
+    [50] => 70081
+    [51] => 70080
+    [52] => 70079
+    [53] => 70088
+    [54] => 70087
+    [55] => 70086
+    [56] => 70085
+    [57] => 70084
+    [58] => 70132
+    [59] => 70131
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:42] 🔍 ENTRADA REF 94062 → productos_complementarios (RAW): Array
+(
+    [0] => 40561
+    [1] => 40563
+    [2] => 30581
+    [3] => 30582
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:45] 🔍 ENTRADA REF 94063 → productos_complementarios (RAW): Array
+(
+    [0] => 40577
+    [1] => 40564
+    [2] => 40595
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:47] 🔍 ENTRADA REF 94064 → productos_complementarios (RAW): Array
+(
+    [0] => 70025
+    [1] => 70026
+    [2] => 70027
+    [3] => 70028
+    [4] => 70029
+    [5] => 70030
+    [6] => 70032
+    [7] => 70033
+    [8] => 70034
+    [9] => 70005
+    [10] => 70006
+    [11] => 70007
+    [12] => 70008
+    [13] => 70024
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:50] 🔍 ENTRADA REF 94065 → productos_complementarios (RAW): Array
+(
+    [0] => 70057
+    [1] => 70060
+    [2] => 70061
+    [3] => 70062
+    [4] => 70049
+    [5] => 70050
+    [6] => 70051
+    [7] => 70052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:52] 🔍 ENTRADA REF 94066 → productos_complementarios (RAW): Array
+(
+    [0] => 70282
+    [1] => 70283
+    [2] => 70284
+    [3] => 70298
+    [4] => 70299
+    [5] => 70300
+    [6] => 71131
+    [7] => 71132
+    [8] => 71133
+    [9] => 71134
+    [10] => 71135
+    [11] => 71136
+    [12] => 70270
+    [13] => 70271
+    [14] => 70272
+    [15] => 70286
+    [16] => 70287
+    [17] => 70288
+    [18] => 70274
+    [19] => 70275
+    [20] => 70276
+    [21] => 70290
+    [22] => 70291
+    [23] => 70292
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:55] 🔍 ENTRADA REF 94067 → productos_complementarios (RAW): Array
+(
+    [0] => 70404
+    [1] => 70405
+    [2] => 70402
+    [3] => 70403
+    [4] => 71211
+    [5] => 71212
+    [6] => 71209
+    [7] => 71210
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:54:57] 🔍 ENTRADA REF 94068 → productos_complementarios (RAW): Array
+(
+    [0] => 70622
+    [1] => 70623
+    [2] => 70624
+    [3] => 70533
+    [4] => 70534
+    [5] => 70535
+    [6] => 70626
+    [7] => 70625
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:00] 🔍 ENTRADA REF 94069 → productos_complementarios (RAW): Array
+(
+    [0] => 70618
+    [1] => 70619
+    [2] => 70554
+    [3] => 70553
+    [4] => 70620
+    [5] => 70621
+    [6] => 70851
+    [7] => 70972
+    [8] => 70994
+    [9] => 70995
+    [10] => 70850
+    [11] => 70971
+    [12] => 71205
+    [13] => 71206
+    [14] => 71207
+    [15] => 71208
+    [16] => 71203
+    [17] => 71204
+    [18] => 71201
+    [19] => 71202
+    [20] => 70998
+    [21] => 70999
+    [22] => 70552
+    [23] => 70551
+    [24] => 70695
+    [25] => 70696
+    [26] => 70978
+    [27] => 70979
+    [28] => 70853
+    [29] => 70930
+    [30] => 70599
+    [31] => 70598
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:03] 🔍 ENTRADA REF 94070 → productos_complementarios (RAW): Array
+(
+    [0] => 70921
+    [1] => 70922
+    [2] => 70923
+    [3] => 70638
+    [4] => 70555
+    [5] => 70499
+    [6] => 70498
+    [7] => 70497
+    [8] => 70496
+    [9] => 70495
+    [10] => 70494
+    [11] => 70905
+    [12] => 71130
+    [13] => 71129
+    [14] => 71128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:06] 🔍 ENTRADA REF 94071 → productos_complementarios (RAW): Array
+(
+    [0] => 70947
+    [1] => 90656
+    [2] => 71154
+    [3] => 70558
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:08] 🔍 ENTRADA REF 94072 → productos_complementarios (RAW): Array
+(
+    [0] => 70948
+    [1] => 90657
+    [2] => 90658
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:11] 🔍 ENTRADA REF 94073 → productos_complementarios (RAW): Array
+(
+    [0] => 10107
+    [1] => 10106
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:13] 🔍 ENTRADA REF 94075 → productos_complementarios (RAW): Array
+(
+    [0] => 10295
+    [1] => 10387
+    [2] => 10386
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:16] 🔍 ENTRADA REF 94076 → productos_complementarios (RAW): Array
+(
+    [0] => 10299
+    [1] => 10268
+    [2] => 10267
+    [3] => 10279
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:18] 🔍 ENTRADA REF 94077 → productos_complementarios (RAW): Array
+(
+    [0] => 10309
+    [1] => 10312
+    [2] => 10327
+    [3] => 10328
+    [4] => 10298
+    [5] => 10297
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:21] 🔍 ENTRADA REF 94078 → productos_complementarios (RAW): Array
+(
+    [0] => 10378
+    [1] => 10379
+    [2] => 10380
+    [3] => 10381
+    [4] => 10247
+    [5] => 10248
+    [6] => 10321
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:23] 🔍 ENTRADA REF 94079 → productos_complementarios (RAW): Array
+(
+    [0] => 10370
+    [1] => 10372
+    [2] => 35025
+    [3] => 10371
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:26] 🔍 ENTRADA REF 94081 → productos_complementarios (RAW): Array
+(
+    [0] => 10253
+    [1] => 11315
+    [2] => 10310
+    [3] => 10288
+    [4] => 10255
+    [5] => 10334
+    [6] => 10257
+    [7] => 10258
+    [8] => 10242
+    [9] => 10243
+    [10] => 10345
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:28] 🔍 ENTRADA REF 94082 → productos_complementarios (RAW): Array
+(
+    [0] => 10952
+    [1] => 10950
+    [2] => 10964
+    [3] => 10963
+    [4] => 10966
+    [5] => 10965
+    [6] => 10954
+    [7] => 10961
+    [8] => 10956
+    [9] => 10962
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:31] 🔍 ENTRADA REF 94083 → productos_complementarios (RAW): Array
+(
+    [0] => 11484
+    [1] => 11485
+    [2] => 11482
+    [3] => 11483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:33] 🔍 ENTRADA REF 94084 → productos_complementarios (RAW): Array
+(
+    [0] => 10140
+    [1] => 10109
+    [2] => 11737
+    [3] => 10138
+    [4] => 11653
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:36] 🔍 ENTRADA REF 94085 → productos_complementarios (RAW): Array
+(
+    [0] => 10110
+    [1] => 10137
+    [2] => 10960
+    [3] => 10957
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:38] 🔍 ENTRADA REF 94086 → productos_complementarios (RAW): Array
+(
+    [0] => 90652
+    [1] => 90650
+    [2] => 90651
+    [3] => 90261
+    [4] => 90262
+    [5] => 90512
+    [6] => 90513
+    [7] => 90670
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:41] 🔍 ENTRADA REF 94087 → productos_complementarios (RAW): Array
+(
+    [0] => 30877
+    [1] => 90221
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:43] 🔍 ENTRADA REF 94088 → productos_complementarios (RAW): Array
+(
+    [0] => 70727
+    [1] => 70698
+    [2] => 70697
+    [3] => 70509
+    [4] => 70409
+    [5] => 70410
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:46] 🔍 ENTRADA REF 94089 → productos_complementarios (RAW): Array
+(
+    [0] => 71114
+    [1] => 70073
+    [2] => 70076
+    [3] => 70421
+    [4] => 71226
+    [5] => 71227
+    [6] => 70869
+    [7] => 70867
+    [8] => 70901
+    [9] => 70215
+    [10] => 70216
+    [11] => 70217
+    [12] => 70736
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:48] 🔍 ENTRADA REF 94090 → productos_complementarios (RAW): Array
+(
+    [0] => 70310
+    [1] => 70311
+    [2] => 71243
+    [3] => 70591
+    [4] => 70898
+    [5] => 70739
+    [6] => 70797
+    [7] => 70563
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:51] 🔍 ENTRADA REF 94091 → productos_complementarios (RAW): Array
+(
+    [0] => 70234
+    [1] => 70235
+    [2] => 70230
+    [3] => 70231
+    [4] => 70236
+    [5] => 70237
+    [6] => 70232
+    [7] => 70233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:53] 🔍 ENTRADA REF 94092 → productos_complementarios (RAW): Array
+(
+    [0] => 70655
+    [1] => 70339
+    [2] => 70335
+    [3] => 70338
+    [4] => 70334
+    [5] => 70337
+    [6] => 70333
+    [7] => 70332
+    [8] => 70336
+    [9] => 70676
+    [10] => 70435
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:56] 🔍 ENTRADA REF 94094 → productos_complementarios (RAW): Array
+(
+    [0] => 70222
+    [1] => 30584
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:55:58] 🔍 ENTRADA REF 94095 → productos_complementarios (RAW): Array
+(
+    [0] => 70507
+    [1] => 70508
+    [2] => 70728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:01] 🔍 ENTRADA REF 94096 → productos_complementarios (RAW): Array
+(
+    [0] => 70381
+    [1] => 70712
+    [2] => 70419
+    [3] => 70866
+    [4] => 70864
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:03] 🔍 ENTRADA REF 94097 → productos_complementarios (RAW): Array
+(
+    [0] => 70431
+    [1] => 70706
+    [2] => 70505
+    [3] => 70506
+    [4] => 70720
+    [5] => 70721
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:06] 🔍 ENTRADA REF 94098 → productos_complementarios (RAW): Array
+(
+    [0] => 70724
+    [1] => 70672
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:09] 🔍 ENTRADA REF 94099 → productos_complementarios (RAW): Array
+(
+    [0] => 70674
+    [1] => 70675
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:11] 🔍 ENTRADA REF 94100 → productos_complementarios (RAW): Array
+(
+    [0] => 30543
+    [1] => 70628
+    [2] => 70632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:14] 🔍 ENTRADA REF 94101 → productos_complementarios (RAW): Array
+(
+    [0] => 70670
+    [1] => 70669
+    [2] => 70250
+    [3] => 70227
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:16] 🔍 ENTRADA REF 94102 → productos_complementarios (RAW): Array
+(
+    [0] => 30053
+    [1] => 30054
+    [2] => 71238
+    [3] => 71239
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:18] 🔍 ENTRADA REF 94103 → productos_complementarios (RAW): Array
+(
+    [0] => 70444
+    [1] => 70825
+    [2] => 70840
+    [3] => 71240
+    [4] => 71241
+    [5] => 71242
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:21] 🔍 ENTRADA REF 94104 → productos_complementarios (RAW): Array
+(
+    [0] => 90858
+    [1] => 90859
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:23] 🔍 ENTRADA REF 94105 → productos_complementarios (RAW): Array
+(
+    [0] => 90257
+    [1] => 90258
+    [2] => 90259
+    [3] => 90260
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:26] 🔍 ENTRADA REF 94106 → productos_complementarios (RAW): Array
+(
+    [0] => 90228
+    [1] => 90229
+    [2] => 90233
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:28] 🔍 ENTRADA REF 94107 → productos_complementarios (RAW): Array
+(
+    [0] => 90232
+    [1] => 90217
+    [2] => 90521
+    [3] => 90218
+    [4] => 90231
+    [5] => 90274
+    [6] => 90219
+    [7] => 90220
+    [8] => 90230
+    [9] => 90235
+    [10] => 90277
+    [11] => 90278
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:31] 🔍 ENTRADA REF 94108 → productos_complementarios (RAW): Array
+(
+    [0] => 90226
+    [1] => 90227
+    [2] => 90237
+    [3] => 90236
+    [4] => 90222
+    [5] => 90224
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:33] 🔍 ENTRADA REF 94109 → productos_complementarios (RAW): Array
+(
+    [0] => 90860
+    [1] => 90857
+    [2] => 90863
+    [3] => 90864
+    [4] => 90263
+    [5] => 90216
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:39] 🔍 ENTRADA REF 94110 → productos_complementarios (RAW): Array
+(
+    [0] => 90736
+    [1] => 90757
+    [2] => 90758
+    [3] => 90759
+    [4] => 90765
+    [5] => 30780
+    [6] => 30853
+    [7] => 30854
+    [8] => 90788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:41] 🔍 ENTRADA REF 94111 → productos_complementarios (RAW): Array
+(
+    [0] => 90568
+    [1] => 90492
+    [2] => 90495
+    [3] => 90567
+    [4] => 90494
+    [5] => 90493
+    [6] => 90775
+    [7] => 90852
+    [8] => 90496
+    [9] => 90853
+    [10] => 90732
+    [11] => 90756
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:44] 🔍 ENTRADA REF 94112 → productos_complementarios (RAW): Array
+(
+    [0] => 90723
+    [1] => 90724
+    [2] => 90725
+    [3] => 90726
+    [4] => 90569
+    [5] => 90498
+    [6] => 90497
+    [7] => 90632
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:46] 🔍 ENTRADA REF 94113 → productos_complementarios (RAW): Array
+(
+    [0] => 90682
+    [1] => 90683
+    [2] => 90272
+    [3] => 90599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:49] 🔍 ENTRADA REF 94114 → productos_complementarios (RAW): Array
+(
+    [0] => 90780
+    [1] => 90781
+    [2] => 90783
+    [3] => 90749
+    [4] => 90782
+    [5] => 70517
+    [6] => 30052
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:51] 🔍 ENTRADA REF 94115 → productos_complementarios (RAW): Array
+(
+    [0] => 90674
+    [1] => 90591
+    [2] => 90584
+    [3] => 90585
+    [4] => 90586
+    [5] => 90588
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:53] 🔍 ENTRADA REF 94116 → productos_complementarios (RAW): Array
+(
+    [0] => 90816
+    [1] => 90817
+    [2] => 90818
+    [3] => 90819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:56] 🔍 ENTRADA REF 94117 → productos_complementarios (RAW): Array
+(
+    [0] => 90668
+    [1] => 90669
+    [2] => 90820
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:56] 🔍 ENTRADA REF 94118 → productos_complementarios (RAW): Array
+(
+    [0] => 70400
+    [1] => 90587
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:56:59] 🔍 ENTRADA REF 94119 → productos_complementarios (RAW): Array
+(
+    [0] => 90281
+    [1] => 70510
+    [2] => 90550
+    [3] => 90735
+    [4] => 90500
+    [5] => 90554
+    [6] => 90555
+    [7] => 90556
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:01] 🔍 ENTRADA REF 94120 → productos_complementarios (RAW): Array
+(
+    [0] => 70515
+    [1] => 90597
+    [2] => 70518
+    [3] => 90761
+    [4] => 70516
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:04] 🔍 ENTRADA REF 94121 → productos_complementarios (RAW): Array
+(
+    [0] => 70420
+    [1] => 70735
+    [2] => 70569
+    [3] => 70629
+    [4] => 70568
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:07] 🔍 ENTRADA REF 94122 → productos_complementarios (RAW): Array
+(
+    [0] => 70654
+    [1] => 70341
+    [2] => 70600
+    [3] => 70532
+    [4] => 70601
+    [5] => 70613
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:10] 🔍 ENTRADA REF 94123 → productos_complementarios (RAW): Array
+(
+    [0] => 70214
+    [1] => 70213
+    [2] => 70660
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:12] 🔍 ENTRADA REF 94124 → productos_complementarios (RAW): Array
+(
+    [0] => 50616
+    [1] => 50512
+    [2] => 50506
+    [3] => 50505
+    [4] => 50609
+    [5] => 50610
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:15] 🔍 ENTRADA REF 94125 → productos_complementarios (RAW): Array
+(
+    [0] => 40422
+    [1] => 4026
+    [2] => 40550
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:17] 🔍 ENTRADA REF 94126 → productos_complementarios (RAW): Array
+(
+    [0] => 50571
+    [1] => 50504
+    [2] => 50585
+    [3] => 50621
+    [4] => 50622
+    [5] => 50569
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:20] 🔍 ENTRADA REF 94127 → productos_complementarios (RAW): Array
+(
+    [0] => 50633
+    [1] => 50634
+    [2] => 50631
+    [3] => 50635
+    [4] => 80006
+    [5] => 80005
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:22] 🔍 ENTRADA REF 94128 → productos_complementarios (RAW): Array
+(
+    [0] => 50509
+    [1] => 50540
+    [2] => 50530
+    [3] => 50619
+    [4] => 50620
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:25] 🔍 ENTRADA REF 94129 → productos_complementarios (RAW): Array
+(
+    [0] => 50588
+    [1] => 50589
+    [2] => 50515
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:27] 🔍 ENTRADA REF 94130 → productos_complementarios (RAW): Array
+(
+    [0] => 50600
+    [1] => 50507
+    [2] => 50531
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:29] 🔍 ENTRADA REF 94131 → productos_complementarios (RAW): Array
+(
+    [0] => 91500
+    [1] => 91502
+    [2] => 91505
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:32] 🔍 ENTRADA REF 94132 → productos_complementarios (RAW): Array
+(
+    [0] => 91507
+    [1] => 91512
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:34] 🔍 ENTRADA REF 94133 → productos_complementarios (RAW): Array
+(
+    [0] => 91506
+    [1] => 91508
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:37] 🔍 ENTRADA REF 94134 → productos_complementarios (RAW): Array
+(
+    [0] => 91527
+    [1] => 91528
+    [2] => 91529
+    [3] => 91530
+    [4] => 91531
+    [5] => 91532
+    [6] => 91533
+    [7] => 91534
+    [8] => 91535
+    [9] => 91536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:40] 🔍 ENTRADA REF 94136 → productos_complementarios (RAW): Array
+(
+    [0] => 40553
+    [1] => 40545
+    [2] => 40556
+    [3] => 40557
+    [4] => 40558
+    [5] => 40559
+    [6] => 30790
+    [7] => 30825
+    [8] => 30824
+    [9] => 30826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:42] 🔍 ENTRADA REF 94137 → productos_complementarios (RAW): Array
+(
+    [0] => 70219
+    [1] => 70220
+    [2] => 70221
+    [3] => 10266
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:44] 🔍 ENTRADA REF 94138 → productos_complementarios (RAW): Array
+(
+    [0] => 50644
+    [1] => 50645
+    [2] => 50646
+    [3] => 50637
+    [4] => 50647
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:47] 🔍 ENTRADA REF 94139 → productos_complementarios (RAW): Array
+(
+    [0] => 50638
+    [1] => 50640
+    [2] => 50641
+    [3] => 50639
+    [4] => 50643
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:49] 🔍 ENTRADA REF 94140 → productos_complementarios (RAW): Array
+(
+    [0] => 70306
+    [1] => 71076
+    [2] => 10308
+    [3] => 10315
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:52] 🔍 ENTRADA REF 94141 → productos_complementarios (RAW): Array
+(
+    [0] => 30096
+    [1] => 35033
+    [2] => 35077
+    [3] => 10470
+    [4] => 10475
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:54] 🔍 ENTRADA REF 94142 → productos_complementarios (RAW): Array
+(
+    [0] => 30729
+    [1] => 30818
+    [2] => 30590
+    [3] => 30592
+    [4] => 30593
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:56] 🔍 ENTRADA REF 94143 → productos_complementarios (RAW): Array
+(
+    [0] => 10465
+    [1] => 10441
+    [2] => 10442
+    [3] => 30356
+    [4] => 10440
+    [5] => 10285
+    [6] => 30363
+    [7] => 35051
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:57:59] 🔍 ENTRADA REF 94144 → productos_complementarios (RAW): Array
+(
+    [0] => 30596
+    [1] => 30004
+    [2] => 10274
+    [3] => 10280
+    [4] => 10265
+    [5] => 10373
+    [6] => 10264
+    [7] => 30003
+    [8] => 35041
+    [9] => 35040
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:01] 🔍 ENTRADA REF 94145 → productos_complementarios (RAW): Array
+(
+    [0] => 30697
+    [1] => 30777
+    [2] => 30810
+    [3] => 30354
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:04] 🔍 ENTRADA REF 94146 → productos_complementarios (RAW): Array
+(
+    [0] => 80793
+    [1] => 80797
+    [2] => 80794
+    [3] => 80795
+    [4] => 80796
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:07] 🔍 ENTRADA REF 94147 → productos_complementarios (RAW): Array
+(
+    [0] => 30209
+    [1] => 30210
+    [2] => 30211
+    [3] => 30798
+    [4] => 90830
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:09] 🔍 ENTRADA REF 94148 → productos_complementarios (RAW): Array
+(
+    [0] => 30358
+    [1] => 50522
+    [2] => 30359
+    [3] => 10121
+    [4] => 35042
+    [5] => 35047
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:11] 🔍 ENTRADA REF 94149 → productos_complementarios (RAW): Array
+(
+    [0] => 70251
+    [1] => 71126
+    [2] => 50526
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:14] 🔍 ENTRADA REF 94150 → productos_complementarios (RAW): Array
+(
+    [0] => 90866
+    [1] => 90867
+    [2] => 90868
+    [3] => 90869
+    [4] => 90870
+    [5] => 90871
+    [6] => 90872
+    [7] => 90873
+    [8] => 90874
+    [9] => 90875
+    [10] => 90876
+    [11] => 90877
+    [12] => 90878
+    [13] => 90879
+    [14] => 90880
+    [15] => 90881
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:16] 🔍 ENTRADA REF 94151 → productos_complementarios (RAW): Array
+(
+    [0] => 10114
+    [1] => 10483
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:17] 🔍 ENTRADA REF 94152 → productos_complementarios (RAW): Array
+(
+    [0] => 10141
+    [1] => 10142
+    [2] => 10143
+    [3] => 10150
+    [4] => 10151
+    [5] => 10152
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:17] 🔍 ENTRADA REF 94153 → productos_complementarios (RAW): Array
+(
+    [0] => 10464
+    [1] => 10474
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:18] 🔍 ENTRADA REF 94154 → productos_complementarios (RAW): Array
+(
+    [0] => 10782
+    [1] => 10967
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:19] 🔍 ENTRADA REF 94155 → productos_complementarios (RAW): Array
+(
+    [0] => 11350
+    [1] => 11351
+    [2] => 11174
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:19] 🔍 ENTRADA REF 94156 → productos_complementarios (RAW): Array
+(
+    [0] => 30057
+    [1] => 30007
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:20] 🔍 ENTRADA REF 94157 → productos_complementarios (RAW): Array
+(
+    [0] => 30379
+    [1] => 30385
+    [2] => 30392
+    [3] => 30704
+    [4] => 30705
+    [5] => 30706
+    [6] => 30205
+    [7] => 30728
+    [8] => 30433
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:20] 🔍 ENTRADA REF 94158 → productos_complementarios (RAW): Array
+(
+    [0] => 30645
+    [1] => 30646
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:21] 🔍 ENTRADA REF 94159 → productos_complementarios (RAW): Array
+(
+    [0] => 30127
+    [1] => 30125
+    [2] => 30126
+    [3] => 30128
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:22] 🔍 ENTRADA REF 94160 → productos_complementarios (RAW): Array
+(
+    [0] => 30946
+    [1] => 30947
+    [2] => 30948
+    [3] => 30949
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:22] 🔍 ENTRADA REF 94161 → productos_complementarios (RAW): Array
+(
+    [0] => 70513
+    [1] => 70514
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:23] 🔍 ENTRADA REF 94162 → productos_complementarios (RAW): Array
+(
+    [0] => 50525
+    [1] => 50599
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:23] 🔍 ENTRADA REF 94163 → productos_complementarios (RAW): Array
+(
+    [0] => 70611
+    [1] => 70615
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:24] 🔍 ENTRADA REF 94164 → productos_complementarios (RAW): Array
+(
+    [0] => 70602
+    [1] => 70612
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:25] 🔍 ENTRADA REF 94165 → productos_complementarios (RAW): Array
+(
+    [0] => 70401
+    [1] => 70666
+    [2] => 70667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:25] 🔍 ENTRADA REF 94166 → productos_complementarios (RAW): Array
+(
+    [0] => 70604
+    [1] => 70603
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:26] 🔍 ENTRADA REF 94167 → productos_complementarios (RAW): Array
+(
+    [0] => 30312
+    [1] => 30313
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:26] 🔍 ENTRADA REF 94168 → productos_complementarios (RAW): Array
+(
+    [0] => 70418
+    [1] => 70432
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:27] 🔍 ENTRADA REF 94169 → productos_complementarios (RAW): Array
+(
+    [0] => 70445
+    [1] => 70446
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:28] 🔍 ENTRADA REF 94170 → productos_complementarios (RAW): Array
+(
+    [0] => 70723
+    [1] => 70725
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:28] 🔍 ENTRADA REF 94171 → productos_complementarios (RAW): Array
+(
+    [0] => 70873
+    [1] => 70874
+    [2] => 70887
+    [3] => 70888
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:29] 🔍 ENTRADA REF 94173 → productos_complementarios (RAW): Array
+(
+    [0] => 90784
+    [1] => 90785
+    [2] => 90786
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:29] 🔍 ENTRADA REF 94172 → productos_complementarios (RAW): Array
+(
+    [0] => 70434
+    [1] => 70433
+    [2] => 70502
+    [3] => 70503
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:30] 🔍 ENTRADA REF 94174 → productos_complementarios (RAW): Array
+(
+    [0] => 90848
+    [1] => 90849
+    [2] => 90850
+    [3] => 90851
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:31] 🔍 ENTRADA REF 94175 → productos_complementarios (RAW): Array
+(
+    [0] => 40400
+    [1] => 40401
+    [2] => 40402
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:31] 🔍 ENTRADA REF 94176 → productos_complementarios (RAW): Array
+(
+    [0] => 40417
+    [1] => 40419
+    [2] => 94175
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:32] 🔍 ENTRADA REF 94177 → productos_complementarios (RAW): Array
+(
+    [0] => 50510
+    [1] => 50555
+    [2] => 50623
+    [3] => 50624
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:32] 🔍 ENTRADA REF 94178 → productos_complementarios (RAW): Array
+(
+    [0] => 50604
+    [1] => 50605
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:33] 🔍 ENTRADA REF 94179 → productos_complementarios (RAW): Array
+(
+    [0] => 50532
+    [1] => 50533
+    [2] => 50535
+    [3] => 50536
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:34] 🔍 ENTRADA REF 94180 → productos_complementarios (RAW): Array
+(
+    [0] => 50514
+    [1] => 50574
+    [2] => 50513
+    [3] => 50572
+    [4] => 50518
+    [5] => 50602
+    [6] => 50601
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:34] 🔍 ENTRADA REF 94181 → productos_complementarios (RAW): Array
+(
+    [0] => 70522
+    [1] => 70521
+    [2] => 70520
+    [3] => 70519
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:35] 🔍 ENTRADA REF 94182 → productos_complementarios (RAW): Array
+(
+    [0] => 90240
+    [1] => 90241
+    [2] => 90245
+    [3] => 90244
+    [4] => 90242
+    [5] => 90243
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:35] 🔍 ENTRADA REF 94183 → productos_complementarios (RAW): Array
+(
+    [0] => 90641
+    [1] => 90642
+    [2] => 90643
+    [3] => 90667
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:36] 🔍 ENTRADA REF 94184 → productos_complementarios (RAW): Array
+(
+    [0] => 90251
+    [1] => 90252
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:37] 🔍 ENTRADA REF 94185 → productos_complementarios (RAW): Array
+(
+    [0] => 90727
+    [1] => 90728
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:37] 🔍 ENTRADA REF 94186 → productos_complementarios (RAW): Array
+(
+    [0] => 90254
+    [1] => 90255
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:38] 🔍 ENTRADA REF 94187 → productos_complementarios (RAW): Array
+(
+    [0] => 90598
+    [1] => 90581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:38] 🔍 ENTRADA REF 94188 → productos_complementarios (RAW): Array
+(
+    [0] => 90562
+    [1] => 90566
+    [2] => 90563
+    [3] => 90565
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:39] 🔍 ENTRADA REF 98189 → productos_complementarios (RAW): Array
+(
+    [0] => 90499
+    [1] => 90821
+    [2] => 90836
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:40] 🔍 ENTRADA REF 94190 → productos_complementarios (RAW): Array
+(
+    [0] => 90579
+    [1] => 90600
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:40] 🔍 ENTRADA REF 94191 → productos_complementarios (RAW): Array
+(
+    [0] => 90561
+    [1] => 90733
+    [2] => 90734
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:41] 🔍 ENTRADA REF 94192 → productos_complementarios (RAW): Array
+(
+    [0] => 70010
+    [1] => 70011
+    [2] => 70012
+    [3] => 70013
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:42] 🔍 ENTRADA REF 94193 → productos_complementarios (RAW): Array
+(
+    [0] => 70561
+    [1] => 70562
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:42] 🔍 ENTRADA REF 94194 → productos_complementarios (RAW): Array
+(
+    [0] => 70135
+    [1] => 70136
+    [2] => 70137
+    [3] => 70329
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:43] 🔍 ENTRADA REF 94195 → productos_complementarios (RAW): Array
+(
+    [0] => 70512
+    [1] => 70342
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:43] 🔍 ENTRADA REF 94196 → productos_complementarios (RAW): Array
+(
+    [0] => 70389
+    [1] => 70229
+    [2] => 70390
+    [3] => 70238
+    [4] => 80788
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:44] 🔍 ENTRADA REF 94197 → productos_complementarios (RAW): Array
+(
+    [0] => 91576
+    [1] => 91577
+    [2] => 91578
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:45] 🔍 ENTRADA REF 94198 → productos_complementarios (RAW): Array
+(
+    [0] => 91579
+    [1] => 91580
+    [2] => 91581
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:45] 🔍 ENTRADA REF 94199 → productos_complementarios (RAW): Array
+(
+    [0] => 91567
+    [1] => 91568
+    [2] => 91569
+    [3] => 91570
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:46] 🔍 ENTRADA REF 94200 → productos_complementarios (RAW): Array
+(
+    [0] => 91571
+    [1] => 91572
+    [2] => 91573
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:47] 🔍 ENTRADA REF 94201 → productos_complementarios (RAW): Array
+(
+    [0] => 70160
+    [1] => 70159
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:47] 🔍 ENTRADA REF 94202 → productos_complementarios (RAW): Array
+(
+    [0] => 70543
+    [1] => 70544
+    [2] => 70545
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:48] 🔍 ENTRADA REF 94203 → productos_complementarios (RAW): Array
+(
+    [0] => 70916
+    [1] => 70917
+    [2] => 70918
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:48] 🔍 ENTRADA REF 90204 → productos_complementarios (RAW): Array
+(
+    [0] => 70990
+    [1] => 70991
+    [2] => 70992
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:49] 🔍 ENTRADA REF 94205 → productos_complementarios (RAW): Array
+(
+    [0] => 71032
+    [1] => 71033
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:50] 🔍 ENTRADA REF 94206 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:50] 🔍 ENTRADA REF 94207 → productos_complementarios (RAW): Array
+(
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:51] 🔍 ENTRADA REF 94208 → productos_complementarios (RAW): Array
+(
+    [0] => 10281
+    [1] => 10282
+    [2] => 10283
+    [3] => 35028
+    [4] => 10149
+    [5] => 10147
+    [6] => 10322
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:52] 🔍 ENTRADA REF 94209 → productos_complementarios (RAW): Array
+(
+    [0] => 10469
+    [1] => 30819
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:52] 🔍 ENTRADA REF 94210 → productos_complementarios (RAW): Array
+(
+    [0] => 10472
+    [1] => 30716
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:53] 🔍 ENTRADA REF 94211 → productos_complementarios (RAW): Array
+(
+    [0] => 30608
+    [1] => 30609
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:54] 🔍 ENTRADA REF 94212 → productos_complementarios (RAW): Array
+(
+    [0] => 30206
+    [1] => 30207
+    [2] => 30208
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:54] 🔍 ENTRADA REF 94213 → productos_complementarios (RAW): Array
+(
+    [0] => 30468
+    [1] => 30316
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:55] 🔍 ENTRADA REF 94214 → productos_complementarios (RAW): Array
+(
+    [0] => 80798
+    [1] => 80789
+    [2] => 80790
+    [3] => 80799
+    [4] => 80791
+    [5] => 80792
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:55] 🔍 ENTRADA REF 94215 → productos_complementarios (RAW): Array
+(
+    [0] => 80801
+    [1] => 80803
+    [2] => 80804
+    [3] => 80805
+    [4] => 80806
+    [5] => 80807
+    [6] => 80808
+    [7] => 80809
+    [8] => 80811
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:56] 🔍 ENTRADA REF 94216 → productos_complementarios (RAW): Array
+(
+    [0] => 80822
+    [1] => 80825
+    [2] => 80824
+    [3] => 80823
+    [4] => 80826
+    [5] => 80827
+    [6] => 80828
+    [7] => 80829
+    [8] => 80817
+    [9] => 80816
+    [10] => 80821
+    [11] => 80830
+    [12] => 80831
+    [13] => 80832
+    [14] => 80833
+    [15] => 80834
+    [16] => 80835
+    [17] => 80836
+    [18] => 80810
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:57] 🔍 ENTRADA REF 94217 → productos_complementarios (RAW): Array
+(
+    [0] => 90490
+    [1] => 90737
+    [2] => 90738
+    [3] => 90739
+    [4] => 90740
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:57] 🔍 ENTRADA REF 94218 → productos_complementarios (RAW): Array
+(
+    [0] => 90825
+    [1] => 90826
+)
+
+[ ARRANCA EL PASO 2 2025-12-03 15:58:58] 🔍 ENTRADA REF 94219 → productos_complementarios (RAW): Array
+(
+    [0] => 90882
+    [1] => 90883
+)
+

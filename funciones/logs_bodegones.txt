@@ -1,0 +1,903 @@
+[2025-10-28 14:12:07] ▶ Procesando bodegones idioma es
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94124-ES (ID 64930)
+[2025-10-28 14:12:07] ✅ Bodegón 94124-ES guardado con ID 64930
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94131-ES (ID 73978)
+[2025-10-28 14:12:07] ✅ Bodegón 94131-ES guardado con ID 73978
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94001-ES (ID 64969)
+[2025-10-28 14:12:07] ✅ Bodegón 94001-ES guardado con ID 64969
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94002-ES (ID 64972)
+[2025-10-28 14:12:07] ✅ Bodegón 94002-ES guardado con ID 64972
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94003-ES (ID 64975)
+[2025-10-28 14:12:07] ✅ Bodegón 94003-ES guardado con ID 64975
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94004-ES (ID 64978)
+[2025-10-28 14:12:07] ✅ Bodegón 94004-ES guardado con ID 64978
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94005-ES (ID 64981)
+[2025-10-28 14:12:07] ✅ Bodegón 94005-ES guardado con ID 64981
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94006-ES (ID 64984)
+[2025-10-28 14:12:07] ✅ Bodegón 94006-ES guardado con ID 64984
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94007-ES (ID 64987)
+[2025-10-28 14:12:07] ✅ Bodegón 94007-ES guardado con ID 64987
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94008-ES (ID 64990)
+[2025-10-28 14:12:07] ✅ Bodegón 94008-ES guardado con ID 64990
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94009-ES (ID 64993)
+[2025-10-28 14:12:07] ✅ Bodegón 94009-ES guardado con ID 64993
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94010-ES (ID 64996)
+[2025-10-28 14:12:07] ✅ Bodegón 94010-ES guardado con ID 64996
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94011-ES (ID 64999)
+[2025-10-28 14:12:07] ✅ Bodegón 94011-ES guardado con ID 64999
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94012-ES (ID 65002)
+[2025-10-28 14:12:07] ✅ Bodegón 94012-ES guardado con ID 65002
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94013-ES (ID 65005)
+[2025-10-28 14:12:07] ✅ Bodegón 94013-ES guardado con ID 65005
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94014-ES (ID 65008)
+[2025-10-28 14:12:07] ✅ Bodegón 94014-ES guardado con ID 65008
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94015-ES (ID 65011)
+[2025-10-28 14:12:07] ✅ Bodegón 94015-ES guardado con ID 65011
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94016-ES (ID 65014)
+[2025-10-28 14:12:07] ✅ Bodegón 94016-ES guardado con ID 65014
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94017-ES (ID 65017)
+[2025-10-28 14:12:07] ✅ Bodegón 94017-ES guardado con ID 65017
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94018-ES (ID 65020)
+[2025-10-28 14:12:07] ✅ Bodegón 94018-ES guardado con ID 65020
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94019-ES (ID 65023)
+[2025-10-28 14:12:07] ✅ Bodegón 94019-ES guardado con ID 65023
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94020-ES (ID 65026)
+[2025-10-28 14:12:07] ✅ Bodegón 94020-ES guardado con ID 65026
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94021-ES (ID 65029)
+[2025-10-28 14:12:07] ✅ Bodegón 94021-ES guardado con ID 65029
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94022-ES (ID 65032)
+[2025-10-28 14:12:07] ✅ Bodegón 94022-ES guardado con ID 65032
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94023-ES (ID 65035)
+[2025-10-28 14:12:07] ✅ Bodegón 94023-ES guardado con ID 65035
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94024-ES (ID 65038)
+[2025-10-28 14:12:07] ✅ Bodegón 94024-ES guardado con ID 65038
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94025-ES (ID 65041)
+[2025-10-28 14:12:07] ✅ Bodegón 94025-ES guardado con ID 65041
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94026-ES (ID 65044)
+[2025-10-28 14:12:07] ✅ Bodegón 94026-ES guardado con ID 65044
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94027-ES (ID 65047)
+[2025-10-28 14:12:07] ✅ Bodegón 94027-ES guardado con ID 65047
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94028-ES (ID 65050)
+[2025-10-28 14:12:07] ✅ Bodegón 94028-ES guardado con ID 65050
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94029-ES (ID 65053)
+[2025-10-28 14:12:07] ✅ Bodegón 94029-ES guardado con ID 65053
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94030-ES (ID 65056)
+[2025-10-28 14:12:07] ✅ Bodegón 94030-ES guardado con ID 65056
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94032-ES (ID 65059)
+[2025-10-28 14:12:07] ✅ Bodegón 94032-ES guardado con ID 65059
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94033-ES (ID 65062)
+[2025-10-28 14:12:07] ✅ Bodegón 94033-ES guardado con ID 65062
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94034-ES (ID 65065)
+[2025-10-28 14:12:07] ✅ Bodegón 94034-ES guardado con ID 65065
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94035-ES (ID 65068)
+[2025-10-28 14:12:07] ✅ Bodegón 94035-ES guardado con ID 65068
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94036-ES (ID 65071)
+[2025-10-28 14:12:07] ✅ Bodegón 94036-ES guardado con ID 65071
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94037-ES (ID 65074)
+[2025-10-28 14:12:07] ✅ Bodegón 94037-ES guardado con ID 65074
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94038-ES (ID 65077)
+[2025-10-28 14:12:07] ✅ Bodegón 94038-ES guardado con ID 65077
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94039-ES (ID 65080)
+[2025-10-28 14:12:07] ✅ Bodegón 94039-ES guardado con ID 65080
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94040-ES (ID 65083)
+[2025-10-28 14:12:07] ✅ Bodegón 94040-ES guardado con ID 65083
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94041-ES (ID 65086)
+[2025-10-28 14:12:07] ✅ Bodegón 94041-ES guardado con ID 65086
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94042-ES (ID 65089)
+[2025-10-28 14:12:07] ✅ Bodegón 94042-ES guardado con ID 65089
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94043-ES (ID 65092)
+[2025-10-28 14:12:07] ✅ Bodegón 94043-ES guardado con ID 65092
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94044-ES (ID 65095)
+[2025-10-28 14:12:07] ✅ Bodegón 94044-ES guardado con ID 65095
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94045-ES (ID 65098)
+[2025-10-28 14:12:07] ✅ Bodegón 94045-ES guardado con ID 65098
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94046-ES (ID 74102)
+[2025-10-28 14:12:07] ✅ Bodegón 94046-ES guardado con ID 74102
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94047-ES (ID 65104)
+[2025-10-28 14:12:07] ✅ Bodegón 94047-ES guardado con ID 65104
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94048-ES (ID 65107)
+[2025-10-28 14:12:07] ✅ Bodegón 94048-ES guardado con ID 65107
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94049-ES (ID 65110)
+[2025-10-28 14:12:07] ✅ Bodegón 94049-ES guardado con ID 65110
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94050-ES (ID 74115)
+[2025-10-28 14:12:07] ✅ Bodegón 94050-ES guardado con ID 74115
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94031-ES (ID 74122)
+[2025-10-28 14:12:07] ✅ Bodegón 94031-ES guardado con ID 74122
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94051-ES (ID 74126)
+[2025-10-28 14:12:07] ✅ Bodegón 94051-ES guardado con ID 74126
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94052-ES (ID 74130)
+[2025-10-28 14:12:07] ✅ Bodegón 94052-ES guardado con ID 74130
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94053-ES (ID 74134)
+[2025-10-28 14:12:07] ✅ Bodegón 94053-ES guardado con ID 74134
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94054-ES (ID 74138)
+[2025-10-28 14:12:07] ✅ Bodegón 94054-ES guardado con ID 74138
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94055-ES (ID 74142)
+[2025-10-28 14:12:07] ✅ Bodegón 94055-ES guardado con ID 74142
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94056-ES (ID 74146)
+[2025-10-28 14:12:07] ✅ Bodegón 94056-ES guardado con ID 74146
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94057-ES (ID 74150)
+[2025-10-28 14:12:07] ✅ Bodegón 94057-ES guardado con ID 74150
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94058-ES (ID 74154)
+[2025-10-28 14:12:07] ✅ Bodegón 94058-ES guardado con ID 74154
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94059-ES (ID 74158)
+[2025-10-28 14:12:07] ✅ Bodegón 94059-ES guardado con ID 74158
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94060-ES (ID 74159)
+[2025-10-28 14:12:07] ✅ Bodegón 94060-ES guardado con ID 74159
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94061-ES (ID 64732)
+[2025-10-28 14:12:07] ✅ Bodegón 94061-ES guardado con ID 64732
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94062-ES (ID 74173)
+[2025-10-28 14:12:07] ✅ Bodegón 94062-ES guardado con ID 74173
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94063-ES (ID 74177)
+[2025-10-28 14:12:07] ✅ Bodegón 94063-ES guardado con ID 74177
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94064-ES (ID 74181)
+[2025-10-28 14:12:07] ✅ Bodegón 94064-ES guardado con ID 74181
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94065-ES (ID 74185)
+[2025-10-28 14:12:07] ✅ Bodegón 94065-ES guardado con ID 74185
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94066-ES (ID 74189)
+[2025-10-28 14:12:07] ✅ Bodegón 94066-ES guardado con ID 74189
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94067-ES (ID 74193)
+[2025-10-28 14:12:07] ✅ Bodegón 94067-ES guardado con ID 74193
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94068-ES (ID 74197)
+[2025-10-28 14:12:07] ✅ Bodegón 94068-ES guardado con ID 74197
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94069-ES (ID 74201)
+[2025-10-28 14:12:07] ✅ Bodegón 94069-ES guardado con ID 74201
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94070-ES (ID 74205)
+[2025-10-28 14:12:07] ✅ Bodegón 94070-ES guardado con ID 74205
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94071-ES (ID 74209)
+[2025-10-28 14:12:07] ✅ Bodegón 94071-ES guardado con ID 74209
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94072-ES (ID 74213)
+[2025-10-28 14:12:07] ✅ Bodegón 94072-ES guardado con ID 74213
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94073-ES (ID 74217)
+[2025-10-28 14:12:07] ✅ Bodegón 94073-ES guardado con ID 74217
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94074-ES (ID 60528)
+[2025-10-28 14:12:07] ✅ Bodegón 94074-ES guardado con ID 60528
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94075-ES (ID 74221)
+[2025-10-28 14:12:07] ✅ Bodegón 94075-ES guardado con ID 74221
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94076-ES (ID 74225)
+[2025-10-28 14:12:07] ✅ Bodegón 94076-ES guardado con ID 74225
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94077-ES (ID 74229)
+[2025-10-28 14:12:07] ✅ Bodegón 94077-ES guardado con ID 74229
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94078-ES (ID 74233)
+[2025-10-28 14:12:07] ✅ Bodegón 94078-ES guardado con ID 74233
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94079-ES (ID 74237)
+[2025-10-28 14:12:07] ✅ Bodegón 94079-ES guardado con ID 74237
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94080-ES (ID 60534)
+[2025-10-28 14:12:07] ✅ Bodegón 94080-ES guardado con ID 60534
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94081-ES (ID 74241)
+[2025-10-28 14:12:07] ✅ Bodegón 94081-ES guardado con ID 74241
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94082-ES (ID 74245)
+[2025-10-28 14:12:07] ✅ Bodegón 94082-ES guardado con ID 74245
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94083-ES (ID 74249)
+[2025-10-28 14:12:07] ✅ Bodegón 94083-ES guardado con ID 74249
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94084-ES (ID 74253)
+[2025-10-28 14:12:07] ✅ Bodegón 94084-ES guardado con ID 74253
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94085-ES (ID 74257)
+[2025-10-28 14:12:07] ✅ Bodegón 94085-ES guardado con ID 74257
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94086-ES (ID 74261)
+[2025-10-28 14:12:07] ✅ Bodegón 94086-ES guardado con ID 74261
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94087-ES (ID 74265)
+[2025-10-28 14:12:07] ✅ Bodegón 94087-ES guardado con ID 74265
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94088-ES (ID 74269)
+[2025-10-28 14:12:07] ✅ Bodegón 94088-ES guardado con ID 74269
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94089-ES (ID 74273)
+[2025-10-28 14:12:07] ✅ Bodegón 94089-ES guardado con ID 74273
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94090-ES (ID 74277)
+[2025-10-28 14:12:07] ✅ Bodegón 94090-ES guardado con ID 74277
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94091-ES (ID 74281)
+[2025-10-28 14:12:07] ✅ Bodegón 94091-ES guardado con ID 74281
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94092-ES (ID 74285)
+[2025-10-28 14:12:07] ✅ Bodegón 94092-ES guardado con ID 74285
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94093-ES (ID 60545)
+[2025-10-28 14:12:07] ✅ Bodegón 94093-ES guardado con ID 60545
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94094-ES (ID 74289)
+[2025-10-28 14:12:07] ✅ Bodegón 94094-ES guardado con ID 74289
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94095-ES (ID 74293)
+[2025-10-28 14:12:07] ✅ Bodegón 94095-ES guardado con ID 74293
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94096-ES (ID 74297)
+[2025-10-28 14:12:07] ✅ Bodegón 94096-ES guardado con ID 74297
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94097-ES (ID 74301)
+[2025-10-28 14:12:07] ✅ Bodegón 94097-ES guardado con ID 74301
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94098-ES (ID 74305)
+[2025-10-28 14:12:07] ✅ Bodegón 94098-ES guardado con ID 74305
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94099-ES (ID 74309)
+[2025-10-28 14:12:07] ✅ Bodegón 94099-ES guardado con ID 74309
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94100-ES (ID 74313)
+[2025-10-28 14:12:07] ✅ Bodegón 94100-ES guardado con ID 74313
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94101-ES (ID 74317)
+[2025-10-28 14:12:07] ✅ Bodegón 94101-ES guardado con ID 74317
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94102-ES (ID 74321)
+[2025-10-28 14:12:07] ✅ Bodegón 94102-ES guardado con ID 74321
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94103-ES (ID 74325)
+[2025-10-28 14:12:07] ✅ Bodegón 94103-ES guardado con ID 74325
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94104-ES (ID 74329)
+[2025-10-28 14:12:07] ✅ Bodegón 94104-ES guardado con ID 74329
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94105-ES (ID 74333)
+[2025-10-28 14:12:07] ✅ Bodegón 94105-ES guardado con ID 74333
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94106-ES (ID 74337)
+[2025-10-28 14:12:07] ✅ Bodegón 94106-ES guardado con ID 74337
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94107-ES (ID 74341)
+[2025-10-28 14:12:07] ✅ Bodegón 94107-ES guardado con ID 74341
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94108-ES (ID 74345)
+[2025-10-28 14:12:07] ✅ Bodegón 94108-ES guardado con ID 74345
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94109-ES (ID 74349)
+[2025-10-28 14:12:07] ✅ Bodegón 94109-ES guardado con ID 74349
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94110-ES (ID 74353)
+[2025-10-28 14:12:07] ✅ Bodegón 94110-ES guardado con ID 74353
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94111-ES (ID 74357)
+[2025-10-28 14:12:07] ✅ Bodegón 94111-ES guardado con ID 74357
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94112-ES (ID 74361)
+[2025-10-28 14:12:07] ✅ Bodegón 94112-ES guardado con ID 74361
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94113-ES (ID 74365)
+[2025-10-28 14:12:07] ✅ Bodegón 94113-ES guardado con ID 74365
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94114-ES (ID 74369)
+[2025-10-28 14:12:07] ✅ Bodegón 94114-ES guardado con ID 74369
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94115-ES (ID 74373)
+[2025-10-28 14:12:07] ✅ Bodegón 94115-ES guardado con ID 74373
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94116-ES (ID 74377)
+[2025-10-28 14:12:07] ✅ Bodegón 94116-ES guardado con ID 74377
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94117-ES (ID 74381)
+[2025-10-28 14:12:07] ✅ Bodegón 94117-ES guardado con ID 74381
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94118-ES (ID 74382)
+[2025-10-28 14:12:07] ✅ Bodegón 94118-ES guardado con ID 74382
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94119-ES (ID 74386)
+[2025-10-28 14:12:07] ✅ Bodegón 94119-ES guardado con ID 74386
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94120-ES (ID 74390)
+[2025-10-28 14:12:07] ✅ Bodegón 94120-ES guardado con ID 74390
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94121-ES (ID 74394)
+[2025-10-28 14:12:07] ✅ Bodegón 94121-ES guardado con ID 74394
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94122-ES (ID 74398)
+[2025-10-28 14:12:07] ✅ Bodegón 94122-ES guardado con ID 74398
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94123-ES (ID 74402)
+[2025-10-28 14:12:07] ✅ Bodegón 94123-ES guardado con ID 74402
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94125-ES (ID 74406)
+[2025-10-28 14:12:07] ✅ Bodegón 94125-ES guardado con ID 74406
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94126-ES (ID 74410)
+[2025-10-28 14:12:07] ✅ Bodegón 94126-ES guardado con ID 74410
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94127-ES (ID 74414)
+[2025-10-28 14:12:07] ✅ Bodegón 94127-ES guardado con ID 74414
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94128-ES (ID 74418)
+[2025-10-28 14:12:07] ✅ Bodegón 94128-ES guardado con ID 74418
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94129-ES (ID 74422)
+[2025-10-28 14:12:07] ✅ Bodegón 94129-ES guardado con ID 74422
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94132-ES (ID 74426)
+[2025-10-28 14:12:07] ✅ Bodegón 94132-ES guardado con ID 74426
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94133-ES (ID 74430)
+[2025-10-28 14:12:07] ✅ Bodegón 94133-ES guardado con ID 74430
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94134-ES (ID 74434)
+[2025-10-28 14:12:07] ✅ Bodegón 94134-ES guardado con ID 74434
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94136-ES (ID 74441)
+[2025-10-28 14:12:07] ✅ Bodegón 94136-ES guardado con ID 74441
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94137-ES (ID 74445)
+[2025-10-28 14:12:07] ✅ Bodegón 94137-ES guardado con ID 74445
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94138-ES (ID 74449)
+[2025-10-28 14:12:07] ✅ Bodegón 94138-ES guardado con ID 74449
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94139-ES (ID 74453)
+[2025-10-28 14:12:07] ✅ Bodegón 94139-ES guardado con ID 74453
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94140-ES (ID 74457)
+[2025-10-28 14:12:07] ✅ Bodegón 94140-ES guardado con ID 74457
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94142-ES (ID 74461)
+[2025-10-28 14:12:07] ✅ Bodegón 94142-ES guardado con ID 74461
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94141-ES (ID 74465)
+[2025-10-28 14:12:07] ✅ Bodegón 94141-ES guardado con ID 74465
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94143-ES (ID 74469)
+[2025-10-28 14:12:07] ✅ Bodegón 94143-ES guardado con ID 74469
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94144-ES (ID 74473)
+[2025-10-28 14:12:07] ✅ Bodegón 94144-ES guardado con ID 74473
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94145-ES (ID 74477)
+[2025-10-28 14:12:07] ✅ Bodegón 94145-ES guardado con ID 74477
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94147-ES (ID 74481)
+[2025-10-28 14:12:07] ✅ Bodegón 94147-ES guardado con ID 74481
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94148-ES (ID 74485)
+[2025-10-28 14:12:07] ✅ Bodegón 94148-ES guardado con ID 74485
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94149-ES (ID 74489)
+[2025-10-28 14:12:07] ✅ Bodegón 94149-ES guardado con ID 74489
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94130-ES (ID 74493)
+[2025-10-28 14:12:07] ✅ Bodegón 94130-ES guardado con ID 74493
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94146-ES (ID 74827)
+[2025-10-28 14:12:07] ✅ Bodegón 94146-ES guardado con ID 74827
+[2025-10-28 14:12:07] ♻️ Actualizando bodegón: 94150-ES (ID 75578)
+[2025-10-28 14:12:07] ✅ Bodegón 94150-ES guardado con ID 75578
+[2025-10-28 14:12:07] ✅ Finalizado idioma es
+
+[2025-10-28 14:12:21] ▶ Procesando bodegones idioma en
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94124-EN (ID 64931)
+[2025-10-28 14:12:21] ✅ Bodegón 94124-EN guardado con ID 64931
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94131-EN (ID 74501)
+[2025-10-28 14:12:21] ✅ Bodegón 94131-EN guardado con ID 74501
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94001-EN (ID 64970)
+[2025-10-28 14:12:21] ✅ Bodegón 94001-EN guardado con ID 64970
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94002-EN (ID 64973)
+[2025-10-28 14:12:21] ✅ Bodegón 94002-EN guardado con ID 64973
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94003-EN (ID 64976)
+[2025-10-28 14:12:21] ✅ Bodegón 94003-EN guardado con ID 64976
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94004-EN (ID 64979)
+[2025-10-28 14:12:21] ✅ Bodegón 94004-EN guardado con ID 64979
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94005-EN (ID 64982)
+[2025-10-28 14:12:21] ✅ Bodegón 94005-EN guardado con ID 64982
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94006-EN (ID 64985)
+[2025-10-28 14:12:21] ✅ Bodegón 94006-EN guardado con ID 64985
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94007-EN (ID 64988)
+[2025-10-28 14:12:21] ✅ Bodegón 94007-EN guardado con ID 64988
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94008-EN (ID 64991)
+[2025-10-28 14:12:21] ✅ Bodegón 94008-EN guardado con ID 64991
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94009-EN (ID 64994)
+[2025-10-28 14:12:21] ✅ Bodegón 94009-EN guardado con ID 64994
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94010-EN (ID 64997)
+[2025-10-28 14:12:21] ✅ Bodegón 94010-EN guardado con ID 64997
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94011-EN (ID 65000)
+[2025-10-28 14:12:21] ✅ Bodegón 94011-EN guardado con ID 65000
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94012-EN (ID 65003)
+[2025-10-28 14:12:21] ✅ Bodegón 94012-EN guardado con ID 65003
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94013-EN (ID 65006)
+[2025-10-28 14:12:21] ✅ Bodegón 94013-EN guardado con ID 65006
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94014-EN (ID 65009)
+[2025-10-28 14:12:21] ✅ Bodegón 94014-EN guardado con ID 65009
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94015-EN (ID 65012)
+[2025-10-28 14:12:21] ✅ Bodegón 94015-EN guardado con ID 65012
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94016-EN (ID 65015)
+[2025-10-28 14:12:21] ✅ Bodegón 94016-EN guardado con ID 65015
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94017-EN (ID 65018)
+[2025-10-28 14:12:21] ✅ Bodegón 94017-EN guardado con ID 65018
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94018-EN (ID 65021)
+[2025-10-28 14:12:21] ✅ Bodegón 94018-EN guardado con ID 65021
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94019-EN (ID 65024)
+[2025-10-28 14:12:21] ✅ Bodegón 94019-EN guardado con ID 65024
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94020-EN (ID 65027)
+[2025-10-28 14:12:21] ✅ Bodegón 94020-EN guardado con ID 65027
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94021-EN (ID 65030)
+[2025-10-28 14:12:21] ✅ Bodegón 94021-EN guardado con ID 65030
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94022-EN (ID 65033)
+[2025-10-28 14:12:21] ✅ Bodegón 94022-EN guardado con ID 65033
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94023-EN (ID 65036)
+[2025-10-28 14:12:21] ✅ Bodegón 94023-EN guardado con ID 65036
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94024-EN (ID 65039)
+[2025-10-28 14:12:21] ✅ Bodegón 94024-EN guardado con ID 65039
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94025-EN (ID 65042)
+[2025-10-28 14:12:21] ✅ Bodegón 94025-EN guardado con ID 65042
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94026-EN (ID 65045)
+[2025-10-28 14:12:21] ✅ Bodegón 94026-EN guardado con ID 65045
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94027-EN (ID 65048)
+[2025-10-28 14:12:21] ✅ Bodegón 94027-EN guardado con ID 65048
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94028-EN (ID 65051)
+[2025-10-28 14:12:21] ✅ Bodegón 94028-EN guardado con ID 65051
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94029-EN (ID 65054)
+[2025-10-28 14:12:21] ✅ Bodegón 94029-EN guardado con ID 65054
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94030-EN (ID 65057)
+[2025-10-28 14:12:21] ✅ Bodegón 94030-EN guardado con ID 65057
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94032-EN (ID 65060)
+[2025-10-28 14:12:21] ✅ Bodegón 94032-EN guardado con ID 65060
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94033-EN (ID 65063)
+[2025-10-28 14:12:21] ✅ Bodegón 94033-EN guardado con ID 65063
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94034-EN (ID 65066)
+[2025-10-28 14:12:21] ✅ Bodegón 94034-EN guardado con ID 65066
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94035-EN (ID 65069)
+[2025-10-28 14:12:21] ✅ Bodegón 94035-EN guardado con ID 65069
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94036-EN (ID 65072)
+[2025-10-28 14:12:21] ✅ Bodegón 94036-EN guardado con ID 65072
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94037-EN (ID 65075)
+[2025-10-28 14:12:21] ✅ Bodegón 94037-EN guardado con ID 65075
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94038-EN (ID 65078)
+[2025-10-28 14:12:21] ✅ Bodegón 94038-EN guardado con ID 65078
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94039-EN (ID 65081)
+[2025-10-28 14:12:21] ✅ Bodegón 94039-EN guardado con ID 65081
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94040-EN (ID 65084)
+[2025-10-28 14:12:21] ✅ Bodegón 94040-EN guardado con ID 65084
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94041-EN (ID 65087)
+[2025-10-28 14:12:21] ✅ Bodegón 94041-EN guardado con ID 65087
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94042-EN (ID 65090)
+[2025-10-28 14:12:21] ✅ Bodegón 94042-EN guardado con ID 65090
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94043-EN (ID 65093)
+[2025-10-28 14:12:21] ✅ Bodegón 94043-EN guardado con ID 65093
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94044-EN (ID 65096)
+[2025-10-28 14:12:21] ✅ Bodegón 94044-EN guardado con ID 65096
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94045-EN (ID 65099)
+[2025-10-28 14:12:21] ✅ Bodegón 94045-EN guardado con ID 65099
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94046-EN (ID 74502)
+[2025-10-28 14:12:21] ✅ Bodegón 94046-EN guardado con ID 74502
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94047-EN (ID 65105)
+[2025-10-28 14:12:21] ✅ Bodegón 94047-EN guardado con ID 65105
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94048-EN (ID 65108)
+[2025-10-28 14:12:21] ✅ Bodegón 94048-EN guardado con ID 65108
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94049-EN (ID 74503)
+[2025-10-28 14:12:21] ✅ Bodegón 94049-EN guardado con ID 74503
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94050-EN (ID 74504)
+[2025-10-28 14:12:21] ✅ Bodegón 94050-EN guardado con ID 74504
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94031-EN (ID 74505)
+[2025-10-28 14:12:21] ✅ Bodegón 94031-EN guardado con ID 74505
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94051-EN (ID 74506)
+[2025-10-28 14:12:21] ✅ Bodegón 94051-EN guardado con ID 74506
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94052-EN (ID 74507)
+[2025-10-28 14:12:21] ✅ Bodegón 94052-EN guardado con ID 74507
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94053-EN (ID 74508)
+[2025-10-28 14:12:21] ✅ Bodegón 94053-EN guardado con ID 74508
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94054-EN (ID 74509)
+[2025-10-28 14:12:21] ✅ Bodegón 94054-EN guardado con ID 74509
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94055-EN (ID 74510)
+[2025-10-28 14:12:21] ✅ Bodegón 94055-EN guardado con ID 74510
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94056-EN (ID 74511)
+[2025-10-28 14:12:21] ✅ Bodegón 94056-EN guardado con ID 74511
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94057-EN (ID 74512)
+[2025-10-28 14:12:21] ✅ Bodegón 94057-EN guardado con ID 74512
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94058-EN (ID 74513)
+[2025-10-28 14:12:21] ✅ Bodegón 94058-EN guardado con ID 74513
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94059-EN (ID 74514)
+[2025-10-28 14:12:21] ✅ Bodegón 94059-EN guardado con ID 74514
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94060-EN (ID 74515)
+[2025-10-28 14:12:21] ✅ Bodegón 94060-EN guardado con ID 74515
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94061-EN (ID 64733)
+[2025-10-28 14:12:21] ✅ Bodegón 94061-EN guardado con ID 64733
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94062-EN (ID 74517)
+[2025-10-28 14:12:21] ✅ Bodegón 94062-EN guardado con ID 74517
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94063-EN (ID 74518)
+[2025-10-28 14:12:21] ✅ Bodegón 94063-EN guardado con ID 74518
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94064-EN (ID 74519)
+[2025-10-28 14:12:21] ✅ Bodegón 94064-EN guardado con ID 74519
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94065-EN (ID 74520)
+[2025-10-28 14:12:21] ✅ Bodegón 94065-EN guardado con ID 74520
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94066-EN (ID 74521)
+[2025-10-28 14:12:21] ✅ Bodegón 94066-EN guardado con ID 74521
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94067-EN (ID 74522)
+[2025-10-28 14:12:21] ✅ Bodegón 94067-EN guardado con ID 74522
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94068-EN (ID 74523)
+[2025-10-28 14:12:21] ✅ Bodegón 94068-EN guardado con ID 74523
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94069-EN (ID 74524)
+[2025-10-28 14:12:21] ✅ Bodegón 94069-EN guardado con ID 74524
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94070-EN (ID 74525)
+[2025-10-28 14:12:21] ✅ Bodegón 94070-EN guardado con ID 74525
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94071-EN (ID 74526)
+[2025-10-28 14:12:21] ✅ Bodegón 94071-EN guardado con ID 74526
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94072-EN (ID 74527)
+[2025-10-28 14:12:21] ✅ Bodegón 94072-EN guardado con ID 74527
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94073-EN (ID 74528)
+[2025-10-28 14:12:21] ✅ Bodegón 94073-EN guardado con ID 74528
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94074-EN (ID 64735)
+[2025-10-28 14:12:21] ✅ Bodegón 94074-EN guardado con ID 64735
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94075-EN (ID 74529)
+[2025-10-28 14:12:21] ✅ Bodegón 94075-EN guardado con ID 74529
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94076-EN (ID 74530)
+[2025-10-28 14:12:21] ✅ Bodegón 94076-EN guardado con ID 74530
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94077-EN (ID 74531)
+[2025-10-28 14:12:21] ✅ Bodegón 94077-EN guardado con ID 74531
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94078-EN (ID 74532)
+[2025-10-28 14:12:21] ✅ Bodegón 94078-EN guardado con ID 74532
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94079-EN (ID 74533)
+[2025-10-28 14:12:21] ✅ Bodegón 94079-EN guardado con ID 74533
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94080-EN (ID 64737)
+[2025-10-28 14:12:21] ✅ Bodegón 94080-EN guardado con ID 64737
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94081-EN (ID 74534)
+[2025-10-28 14:12:21] ✅ Bodegón 94081-EN guardado con ID 74534
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94082-EN (ID 74535)
+[2025-10-28 14:12:21] ✅ Bodegón 94082-EN guardado con ID 74535
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94083-EN (ID 74536)
+[2025-10-28 14:12:21] ✅ Bodegón 94083-EN guardado con ID 74536
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94084-EN (ID 74537)
+[2025-10-28 14:12:21] ✅ Bodegón 94084-EN guardado con ID 74537
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94085-EN (ID 74538)
+[2025-10-28 14:12:21] ✅ Bodegón 94085-EN guardado con ID 74538
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94086-EN (ID 74539)
+[2025-10-28 14:12:21] ✅ Bodegón 94086-EN guardado con ID 74539
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94087-EN (ID 74540)
+[2025-10-28 14:12:21] ✅ Bodegón 94087-EN guardado con ID 74540
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94088-EN (ID 74541)
+[2025-10-28 14:12:21] ✅ Bodegón 94088-EN guardado con ID 74541
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94089-EN (ID 74542)
+[2025-10-28 14:12:21] ✅ Bodegón 94089-EN guardado con ID 74542
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94090-EN (ID 74543)
+[2025-10-28 14:12:21] ✅ Bodegón 94090-EN guardado con ID 74543
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94091-EN (ID 74544)
+[2025-10-28 14:12:21] ✅ Bodegón 94091-EN guardado con ID 74544
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94092-EN (ID 74545)
+[2025-10-28 14:12:21] ✅ Bodegón 94092-EN guardado con ID 74545
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94093-EN (ID 64739)
+[2025-10-28 14:12:21] ✅ Bodegón 94093-EN guardado con ID 64739
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94094-EN (ID 74546)
+[2025-10-28 14:12:21] ✅ Bodegón 94094-EN guardado con ID 74546
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94095-EN (ID 74547)
+[2025-10-28 14:12:21] ✅ Bodegón 94095-EN guardado con ID 74547
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94096-EN (ID 74548)
+[2025-10-28 14:12:21] ✅ Bodegón 94096-EN guardado con ID 74548
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94097-EN (ID 74549)
+[2025-10-28 14:12:21] ✅ Bodegón 94097-EN guardado con ID 74549
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94098-EN (ID 74550)
+[2025-10-28 14:12:21] ✅ Bodegón 94098-EN guardado con ID 74550
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94099-EN (ID 74551)
+[2025-10-28 14:12:21] ✅ Bodegón 94099-EN guardado con ID 74551
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94100-EN (ID 74552)
+[2025-10-28 14:12:21] ✅ Bodegón 94100-EN guardado con ID 74552
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94101-EN (ID 74553)
+[2025-10-28 14:12:21] ✅ Bodegón 94101-EN guardado con ID 74553
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94102-EN (ID 74554)
+[2025-10-28 14:12:21] ✅ Bodegón 94102-EN guardado con ID 74554
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94103-EN (ID 74555)
+[2025-10-28 14:12:21] ✅ Bodegón 94103-EN guardado con ID 74555
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94104-EN (ID 74556)
+[2025-10-28 14:12:21] ✅ Bodegón 94104-EN guardado con ID 74556
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94105-EN (ID 74557)
+[2025-10-28 14:12:21] ✅ Bodegón 94105-EN guardado con ID 74557
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94106-EN (ID 74558)
+[2025-10-28 14:12:21] ✅ Bodegón 94106-EN guardado con ID 74558
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94107-EN (ID 74559)
+[2025-10-28 14:12:21] ✅ Bodegón 94107-EN guardado con ID 74559
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94108-EN (ID 74560)
+[2025-10-28 14:12:21] ✅ Bodegón 94108-EN guardado con ID 74560
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94109-EN (ID 74561)
+[2025-10-28 14:12:21] ✅ Bodegón 94109-EN guardado con ID 74561
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94110-EN (ID 74562)
+[2025-10-28 14:12:21] ✅ Bodegón 94110-EN guardado con ID 74562
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94111-EN (ID 74563)
+[2025-10-28 14:12:21] ✅ Bodegón 94111-EN guardado con ID 74563
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94112-EN (ID 74564)
+[2025-10-28 14:12:21] ✅ Bodegón 94112-EN guardado con ID 74564
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94113-EN (ID 74565)
+[2025-10-28 14:12:21] ✅ Bodegón 94113-EN guardado con ID 74565
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94114-EN (ID 74566)
+[2025-10-28 14:12:21] ✅ Bodegón 94114-EN guardado con ID 74566
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94115-EN (ID 74567)
+[2025-10-28 14:12:21] ✅ Bodegón 94115-EN guardado con ID 74567
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94116-EN (ID 74568)
+[2025-10-28 14:12:21] ✅ Bodegón 94116-EN guardado con ID 74568
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94117-EN (ID 74569)
+[2025-10-28 14:12:21] ✅ Bodegón 94117-EN guardado con ID 74569
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94118-EN (ID 74570)
+[2025-10-28 14:12:21] ✅ Bodegón 94118-EN guardado con ID 74570
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94119-EN (ID 74571)
+[2025-10-28 14:12:21] ✅ Bodegón 94119-EN guardado con ID 74571
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94120-EN (ID 74572)
+[2025-10-28 14:12:21] ✅ Bodegón 94120-EN guardado con ID 74572
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94121-EN (ID 74573)
+[2025-10-28 14:12:21] ✅ Bodegón 94121-EN guardado con ID 74573
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94122-EN (ID 74574)
+[2025-10-28 14:12:21] ✅ Bodegón 94122-EN guardado con ID 74574
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94123-EN (ID 74575)
+[2025-10-28 14:12:21] ✅ Bodegón 94123-EN guardado con ID 74575
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94125-EN (ID 74576)
+[2025-10-28 14:12:21] ✅ Bodegón 94125-EN guardado con ID 74576
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94126-EN (ID 74577)
+[2025-10-28 14:12:21] ✅ Bodegón 94126-EN guardado con ID 74577
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94127-EN (ID 74578)
+[2025-10-28 14:12:21] ✅ Bodegón 94127-EN guardado con ID 74578
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94128-EN (ID 74579)
+[2025-10-28 14:12:21] ✅ Bodegón 94128-EN guardado con ID 74579
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94129-EN (ID 74580)
+[2025-10-28 14:12:21] ✅ Bodegón 94129-EN guardado con ID 74580
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94132-EN (ID 74581)
+[2025-10-28 14:12:21] ✅ Bodegón 94132-EN guardado con ID 74581
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94133-EN (ID 74582)
+[2025-10-28 14:12:21] ✅ Bodegón 94133-EN guardado con ID 74582
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94134-EN (ID 74583)
+[2025-10-28 14:12:21] ✅ Bodegón 94134-EN guardado con ID 74583
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94136-EN (ID 74584)
+[2025-10-28 14:12:21] ✅ Bodegón 94136-EN guardado con ID 74584
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94137-EN (ID 74585)
+[2025-10-28 14:12:21] ✅ Bodegón 94137-EN guardado con ID 74585
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94138-EN (ID 74586)
+[2025-10-28 14:12:21] ✅ Bodegón 94138-EN guardado con ID 74586
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94139-EN (ID 74587)
+[2025-10-28 14:12:21] ✅ Bodegón 94139-EN guardado con ID 74587
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94140-EN (ID 74588)
+[2025-10-28 14:12:21] ✅ Bodegón 94140-EN guardado con ID 74588
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94142-EN (ID 74589)
+[2025-10-28 14:12:21] ✅ Bodegón 94142-EN guardado con ID 74589
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94141-EN (ID 74590)
+[2025-10-28 14:12:21] ✅ Bodegón 94141-EN guardado con ID 74590
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94143-EN (ID 74591)
+[2025-10-28 14:12:21] ✅ Bodegón 94143-EN guardado con ID 74591
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94144-EN (ID 74592)
+[2025-10-28 14:12:21] ✅ Bodegón 94144-EN guardado con ID 74592
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94145-EN (ID 74593)
+[2025-10-28 14:12:21] ✅ Bodegón 94145-EN guardado con ID 74593
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94147-EN (ID 74594)
+[2025-10-28 14:12:21] ✅ Bodegón 94147-EN guardado con ID 74594
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94148-EN (ID 74595)
+[2025-10-28 14:12:21] ✅ Bodegón 94148-EN guardado con ID 74595
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94149-EN (ID 74596)
+[2025-10-28 14:12:21] ✅ Bodegón 94149-EN guardado con ID 74596
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94130-EN (ID 74597)
+[2025-10-28 14:12:21] ✅ Bodegón 94130-EN guardado con ID 74597
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94146-EN (ID 74598)
+[2025-10-28 14:12:21] ✅ Bodegón 94146-EN guardado con ID 74598
+[2025-10-28 14:12:21] ♻️ Actualizando bodegón: 94150-EN (ID 69092)
+[2025-10-28 14:12:21] ✅ Bodegón 94150-EN guardado con ID 69092
+[2025-10-28 14:12:21] ✅ Finalizado idioma en
+
+[2025-10-28 14:12:36] ▶ Procesando bodegones idioma fr
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94124-FR (ID 64932)
+[2025-10-28 14:12:36] ✅ Bodegón 94124-FR guardado con ID 64932
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94131-FR (ID 74599)
+[2025-10-28 14:12:36] ✅ Bodegón 94131-FR guardado con ID 74599
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94001-FR (ID 64971)
+[2025-10-28 14:12:36] ✅ Bodegón 94001-FR guardado con ID 64971
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94002-FR (ID 64974)
+[2025-10-28 14:12:36] ✅ Bodegón 94002-FR guardado con ID 64974
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94003-FR (ID 64977)
+[2025-10-28 14:12:36] ✅ Bodegón 94003-FR guardado con ID 64977
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94004-FR (ID 64980)
+[2025-10-28 14:12:36] ✅ Bodegón 94004-FR guardado con ID 64980
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94005-FR (ID 64983)
+[2025-10-28 14:12:36] ✅ Bodegón 94005-FR guardado con ID 64983
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94006-FR (ID 64986)
+[2025-10-28 14:12:36] ✅ Bodegón 94006-FR guardado con ID 64986
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94007-FR (ID 64989)
+[2025-10-28 14:12:36] ✅ Bodegón 94007-FR guardado con ID 64989
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94008-FR (ID 64992)
+[2025-10-28 14:12:36] ✅ Bodegón 94008-FR guardado con ID 64992
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94009-FR (ID 64995)
+[2025-10-28 14:12:36] ✅ Bodegón 94009-FR guardado con ID 64995
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94010-FR (ID 64998)
+[2025-10-28 14:12:36] ✅ Bodegón 94010-FR guardado con ID 64998
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94011-FR (ID 65001)
+[2025-10-28 14:12:36] ✅ Bodegón 94011-FR guardado con ID 65001
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94012-FR (ID 65004)
+[2025-10-28 14:12:36] ✅ Bodegón 94012-FR guardado con ID 65004
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94013-FR (ID 65007)
+[2025-10-28 14:12:36] ✅ Bodegón 94013-FR guardado con ID 65007
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94014-FR (ID 65010)
+[2025-10-28 14:12:36] ✅ Bodegón 94014-FR guardado con ID 65010
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94015-FR (ID 65013)
+[2025-10-28 14:12:36] ✅ Bodegón 94015-FR guardado con ID 65013
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94016-FR (ID 65016)
+[2025-10-28 14:12:36] ✅ Bodegón 94016-FR guardado con ID 65016
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94017-FR (ID 65019)
+[2025-10-28 14:12:36] ✅ Bodegón 94017-FR guardado con ID 65019
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94018-FR (ID 65022)
+[2025-10-28 14:12:36] ✅ Bodegón 94018-FR guardado con ID 65022
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94019-FR (ID 65025)
+[2025-10-28 14:12:36] ✅ Bodegón 94019-FR guardado con ID 65025
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94020-FR (ID 65028)
+[2025-10-28 14:12:36] ✅ Bodegón 94020-FR guardado con ID 65028
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94021-FR (ID 65031)
+[2025-10-28 14:12:36] ✅ Bodegón 94021-FR guardado con ID 65031
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94022-FR (ID 65034)
+[2025-10-28 14:12:36] ✅ Bodegón 94022-FR guardado con ID 65034
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94023-FR (ID 65037)
+[2025-10-28 14:12:36] ✅ Bodegón 94023-FR guardado con ID 65037
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94024-FR (ID 65040)
+[2025-10-28 14:12:36] ✅ Bodegón 94024-FR guardado con ID 65040
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94025-FR (ID 65043)
+[2025-10-28 14:12:36] ✅ Bodegón 94025-FR guardado con ID 65043
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94026-FR (ID 65046)
+[2025-10-28 14:12:36] ✅ Bodegón 94026-FR guardado con ID 65046
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94027-FR (ID 65049)
+[2025-10-28 14:12:36] ✅ Bodegón 94027-FR guardado con ID 65049
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94028-FR (ID 65052)
+[2025-10-28 14:12:36] ✅ Bodegón 94028-FR guardado con ID 65052
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94029-FR (ID 65055)
+[2025-10-28 14:12:36] ✅ Bodegón 94029-FR guardado con ID 65055
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94030-FR (ID 65058)
+[2025-10-28 14:12:36] ✅ Bodegón 94030-FR guardado con ID 65058
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94032-FR (ID 65061)
+[2025-10-28 14:12:36] ✅ Bodegón 94032-FR guardado con ID 65061
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94033-FR (ID 65064)
+[2025-10-28 14:12:36] ✅ Bodegón 94033-FR guardado con ID 65064
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94034-FR (ID 65067)
+[2025-10-28 14:12:36] ✅ Bodegón 94034-FR guardado con ID 65067
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94035-FR (ID 65070)
+[2025-10-28 14:12:36] ✅ Bodegón 94035-FR guardado con ID 65070
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94036-FR (ID 65073)
+[2025-10-28 14:12:36] ✅ Bodegón 94036-FR guardado con ID 65073
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94037-FR (ID 65076)
+[2025-10-28 14:12:36] ✅ Bodegón 94037-FR guardado con ID 65076
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94038-FR (ID 65079)
+[2025-10-28 14:12:36] ✅ Bodegón 94038-FR guardado con ID 65079
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94039-FR (ID 65082)
+[2025-10-28 14:12:36] ✅ Bodegón 94039-FR guardado con ID 65082
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94040-FR (ID 65085)
+[2025-10-28 14:12:36] ✅ Bodegón 94040-FR guardado con ID 65085
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94041-FR (ID 65088)
+[2025-10-28 14:12:36] ✅ Bodegón 94041-FR guardado con ID 65088
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94042-FR (ID 65091)
+[2025-10-28 14:12:36] ✅ Bodegón 94042-FR guardado con ID 65091
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94043-FR (ID 65094)
+[2025-10-28 14:12:36] ✅ Bodegón 94043-FR guardado con ID 65094
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94044-FR (ID 65097)
+[2025-10-28 14:12:36] ✅ Bodegón 94044-FR guardado con ID 65097
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94045-FR (ID 65100)
+[2025-10-28 14:12:36] ✅ Bodegón 94045-FR guardado con ID 65100
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94046-FR (ID 74600)
+[2025-10-28 14:12:36] ✅ Bodegón 94046-FR guardado con ID 74600
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94047-FR (ID 65106)
+[2025-10-28 14:12:36] ✅ Bodegón 94047-FR guardado con ID 65106
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94048-FR (ID 65109)
+[2025-10-28 14:12:36] ✅ Bodegón 94048-FR guardado con ID 65109
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94049-FR (ID 74601)
+[2025-10-28 14:12:36] ✅ Bodegón 94049-FR guardado con ID 74601
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94050-FR (ID 65115)
+[2025-10-28 14:12:36] ✅ Bodegón 94050-FR guardado con ID 65115
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94031-FR (ID 74602)
+[2025-10-28 14:12:36] ✅ Bodegón 94031-FR guardado con ID 74602
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94051-FR (ID 74603)
+[2025-10-28 14:12:36] ✅ Bodegón 94051-FR guardado con ID 74603
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94052-FR (ID 74604)
+[2025-10-28 14:12:36] ✅ Bodegón 94052-FR guardado con ID 74604
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94053-FR (ID 74605)
+[2025-10-28 14:12:36] ✅ Bodegón 94053-FR guardado con ID 74605
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94054-FR (ID 74606)
+[2025-10-28 14:12:36] ✅ Bodegón 94054-FR guardado con ID 74606
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94055-FR (ID 74607)
+[2025-10-28 14:12:36] ✅ Bodegón 94055-FR guardado con ID 74607
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94056-FR (ID 74608)
+[2025-10-28 14:12:36] ✅ Bodegón 94056-FR guardado con ID 74608
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94057-FR (ID 74609)
+[2025-10-28 14:12:36] ✅ Bodegón 94057-FR guardado con ID 74609
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94058-FR (ID 74610)
+[2025-10-28 14:12:36] ✅ Bodegón 94058-FR guardado con ID 74610
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94059-FR (ID 74611)
+[2025-10-28 14:12:36] ✅ Bodegón 94059-FR guardado con ID 74611
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94060-FR (ID 74612)
+[2025-10-28 14:12:36] ✅ Bodegón 94060-FR guardado con ID 74612
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94061-FR (ID 64734)
+[2025-10-28 14:12:36] ✅ Bodegón 94061-FR guardado con ID 64734
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94062-FR (ID 74614)
+[2025-10-28 14:12:36] ✅ Bodegón 94062-FR guardado con ID 74614
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94063-FR (ID 74615)
+[2025-10-28 14:12:36] ✅ Bodegón 94063-FR guardado con ID 74615
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94064-FR (ID 74616)
+[2025-10-28 14:12:36] ✅ Bodegón 94064-FR guardado con ID 74616
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94065-FR (ID 74617)
+[2025-10-28 14:12:36] ✅ Bodegón 94065-FR guardado con ID 74617
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94066-FR (ID 74618)
+[2025-10-28 14:12:36] ✅ Bodegón 94066-FR guardado con ID 74618
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94067-FR (ID 74619)
+[2025-10-28 14:12:36] ✅ Bodegón 94067-FR guardado con ID 74619
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94068-FR (ID 74620)
+[2025-10-28 14:12:36] ✅ Bodegón 94068-FR guardado con ID 74620
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94069-FR (ID 74621)
+[2025-10-28 14:12:36] ✅ Bodegón 94069-FR guardado con ID 74621
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94070-FR (ID 74622)
+[2025-10-28 14:12:36] ✅ Bodegón 94070-FR guardado con ID 74622
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94071-FR (ID 74623)
+[2025-10-28 14:12:36] ✅ Bodegón 94071-FR guardado con ID 74623
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94072-FR (ID 74624)
+[2025-10-28 14:12:36] ✅ Bodegón 94072-FR guardado con ID 74624
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94073-FR (ID 74625)
+[2025-10-28 14:12:36] ✅ Bodegón 94073-FR guardado con ID 74625
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94074-FR (ID 64736)
+[2025-10-28 14:12:36] ✅ Bodegón 94074-FR guardado con ID 64736
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94075-FR (ID 74626)
+[2025-10-28 14:12:36] ✅ Bodegón 94075-FR guardado con ID 74626
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94076-FR (ID 74627)
+[2025-10-28 14:12:36] ✅ Bodegón 94076-FR guardado con ID 74627
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94077-FR (ID 74628)
+[2025-10-28 14:12:36] ✅ Bodegón 94077-FR guardado con ID 74628
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94078-FR (ID 74629)
+[2025-10-28 14:12:36] ✅ Bodegón 94078-FR guardado con ID 74629
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94079-FR (ID 74630)
+[2025-10-28 14:12:36] ✅ Bodegón 94079-FR guardado con ID 74630
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94080-FR (ID 64738)
+[2025-10-28 14:12:36] ✅ Bodegón 94080-FR guardado con ID 64738
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94081-FR (ID 74631)
+[2025-10-28 14:12:36] ✅ Bodegón 94081-FR guardado con ID 74631
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94082-FR (ID 74632)
+[2025-10-28 14:12:36] ✅ Bodegón 94082-FR guardado con ID 74632
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94083-FR (ID 74633)
+[2025-10-28 14:12:36] ✅ Bodegón 94083-FR guardado con ID 74633
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94084-FR (ID 74634)
+[2025-10-28 14:12:36] ✅ Bodegón 94084-FR guardado con ID 74634
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94085-FR (ID 74635)
+[2025-10-28 14:12:36] ✅ Bodegón 94085-FR guardado con ID 74635
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94086-FR (ID 74636)
+[2025-10-28 14:12:36] ✅ Bodegón 94086-FR guardado con ID 74636
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94087-FR (ID 74637)
+[2025-10-28 14:12:36] ✅ Bodegón 94087-FR guardado con ID 74637
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94088-FR (ID 74638)
+[2025-10-28 14:12:36] ✅ Bodegón 94088-FR guardado con ID 74638
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94089-FR (ID 74639)
+[2025-10-28 14:12:36] ✅ Bodegón 94089-FR guardado con ID 74639
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94090-FR (ID 74640)
+[2025-10-28 14:12:36] ✅ Bodegón 94090-FR guardado con ID 74640
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94091-FR (ID 74641)
+[2025-10-28 14:12:36] ✅ Bodegón 94091-FR guardado con ID 74641
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94092-FR (ID 74642)
+[2025-10-28 14:12:36] ✅ Bodegón 94092-FR guardado con ID 74642
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94093-FR (ID 64740)
+[2025-10-28 14:12:36] ✅ Bodegón 94093-FR guardado con ID 64740
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94094-FR (ID 74643)
+[2025-10-28 14:12:36] ✅ Bodegón 94094-FR guardado con ID 74643
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94095-FR (ID 74644)
+[2025-10-28 14:12:36] ✅ Bodegón 94095-FR guardado con ID 74644
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94096-FR (ID 74645)
+[2025-10-28 14:12:36] ✅ Bodegón 94096-FR guardado con ID 74645
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94097-FR (ID 74646)
+[2025-10-28 14:12:36] ✅ Bodegón 94097-FR guardado con ID 74646
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94098-FR (ID 74647)
+[2025-10-28 14:12:36] ✅ Bodegón 94098-FR guardado con ID 74647
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94099-FR (ID 74648)
+[2025-10-28 14:12:36] ✅ Bodegón 94099-FR guardado con ID 74648
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94100-FR (ID 74649)
+[2025-10-28 14:12:36] ✅ Bodegón 94100-FR guardado con ID 74649
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94101-FR (ID 74650)
+[2025-10-28 14:12:36] ✅ Bodegón 94101-FR guardado con ID 74650
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94102-FR (ID 74651)
+[2025-10-28 14:12:36] ✅ Bodegón 94102-FR guardado con ID 74651
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94103-FR (ID 74652)
+[2025-10-28 14:12:36] ✅ Bodegón 94103-FR guardado con ID 74652
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94104-FR (ID 74653)
+[2025-10-28 14:12:36] ✅ Bodegón 94104-FR guardado con ID 74653
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94105-FR (ID 74654)
+[2025-10-28 14:12:36] ✅ Bodegón 94105-FR guardado con ID 74654
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94106-FR (ID 74655)
+[2025-10-28 14:12:36] ✅ Bodegón 94106-FR guardado con ID 74655
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94107-FR (ID 74656)
+[2025-10-28 14:12:36] ✅ Bodegón 94107-FR guardado con ID 74656
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94108-FR (ID 74657)
+[2025-10-28 14:12:36] ✅ Bodegón 94108-FR guardado con ID 74657
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94109-FR (ID 74658)
+[2025-10-28 14:12:36] ✅ Bodegón 94109-FR guardado con ID 74658
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94110-FR (ID 74659)
+[2025-10-28 14:12:36] ✅ Bodegón 94110-FR guardado con ID 74659
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94111-FR (ID 74660)
+[2025-10-28 14:12:36] ✅ Bodegón 94111-FR guardado con ID 74660
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94112-FR (ID 74661)
+[2025-10-28 14:12:36] ✅ Bodegón 94112-FR guardado con ID 74661
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94113-FR (ID 74662)
+[2025-10-28 14:12:36] ✅ Bodegón 94113-FR guardado con ID 74662
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94114-FR (ID 74663)
+[2025-10-28 14:12:36] ✅ Bodegón 94114-FR guardado con ID 74663
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94115-FR (ID 74664)
+[2025-10-28 14:12:36] ✅ Bodegón 94115-FR guardado con ID 74664
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94116-FR (ID 74665)
+[2025-10-28 14:12:36] ✅ Bodegón 94116-FR guardado con ID 74665
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94117-FR (ID 74666)
+[2025-10-28 14:12:36] ✅ Bodegón 94117-FR guardado con ID 74666
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94118-FR (ID 74667)
+[2025-10-28 14:12:36] ✅ Bodegón 94118-FR guardado con ID 74667
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94119-FR (ID 74668)
+[2025-10-28 14:12:36] ✅ Bodegón 94119-FR guardado con ID 74668
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94120-FR (ID 74669)
+[2025-10-28 14:12:36] ✅ Bodegón 94120-FR guardado con ID 74669
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94121-FR (ID 74670)
+[2025-10-28 14:12:36] ✅ Bodegón 94121-FR guardado con ID 74670
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94122-FR (ID 74671)
+[2025-10-28 14:12:36] ✅ Bodegón 94122-FR guardado con ID 74671
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94123-FR (ID 74672)
+[2025-10-28 14:12:36] ✅ Bodegón 94123-FR guardado con ID 74672
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94125-FR (ID 74673)
+[2025-10-28 14:12:36] ✅ Bodegón 94125-FR guardado con ID 74673
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94126-FR (ID 74674)
+[2025-10-28 14:12:36] ✅ Bodegón 94126-FR guardado con ID 74674
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94127-FR (ID 74675)
+[2025-10-28 14:12:36] ✅ Bodegón 94127-FR guardado con ID 74675
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94128-FR (ID 74676)
+[2025-10-28 14:12:36] ✅ Bodegón 94128-FR guardado con ID 74676
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94129-FR (ID 74677)
+[2025-10-28 14:12:36] ✅ Bodegón 94129-FR guardado con ID 74677
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94132-FR (ID 74678)
+[2025-10-28 14:12:36] ✅ Bodegón 94132-FR guardado con ID 74678
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94133-FR (ID 74679)
+[2025-10-28 14:12:36] ✅ Bodegón 94133-FR guardado con ID 74679
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94134-FR (ID 74680)
+[2025-10-28 14:12:36] ✅ Bodegón 94134-FR guardado con ID 74680
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94136-FR (ID 74681)
+[2025-10-28 14:12:36] ✅ Bodegón 94136-FR guardado con ID 74681
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94137-FR (ID 74682)
+[2025-10-28 14:12:36] ✅ Bodegón 94137-FR guardado con ID 74682
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94138-FR (ID 74683)
+[2025-10-28 14:12:36] ✅ Bodegón 94138-FR guardado con ID 74683
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94139-FR (ID 74684)
+[2025-10-28 14:12:36] ✅ Bodegón 94139-FR guardado con ID 74684
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94140-FR (ID 74685)
+[2025-10-28 14:12:36] ✅ Bodegón 94140-FR guardado con ID 74685
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94142-FR (ID 74686)
+[2025-10-28 14:12:36] ✅ Bodegón 94142-FR guardado con ID 74686
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94141-FR (ID 74687)
+[2025-10-28 14:12:36] ✅ Bodegón 94141-FR guardado con ID 74687
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94143-FR (ID 74688)
+[2025-10-28 14:12:36] ✅ Bodegón 94143-FR guardado con ID 74688
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94144-FR (ID 74689)
+[2025-10-28 14:12:36] ✅ Bodegón 94144-FR guardado con ID 74689
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94145-FR (ID 74690)
+[2025-10-28 14:12:36] ✅ Bodegón 94145-FR guardado con ID 74690
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94147-FR (ID 74691)
+[2025-10-28 14:12:36] ✅ Bodegón 94147-FR guardado con ID 74691
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94148-FR (ID 74692)
+[2025-10-28 14:12:36] ✅ Bodegón 94148-FR guardado con ID 74692
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94149-FR (ID 74693)
+[2025-10-28 14:12:36] ✅ Bodegón 94149-FR guardado con ID 74693
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94130-FR (ID 74694)
+[2025-10-28 14:12:36] ✅ Bodegón 94130-FR guardado con ID 74694
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94146-FR (ID 74695)
+[2025-10-28 14:12:36] ✅ Bodegón 94146-FR guardado con ID 74695
+[2025-10-28 14:12:36] ♻️ Actualizando bodegón: 94150-FR (ID 69093)
+[2025-10-28 14:12:36] ✅ Bodegón 94150-FR guardado con ID 69093
+[2025-10-28 14:12:36] ✅ Finalizado idioma fr
+

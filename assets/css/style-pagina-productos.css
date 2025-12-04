@@ -1,0 +1,32 @@
+/* --- MOVER FLECHAS DEL LIGHTBOX A LOS BORDES DE LA IMAGEN --- */
+.elementor-lightbox .elementor-swiper-button-prev,
+.elementor-lightbox .elementor-swiper-button-next {
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+    z-index: 9999;
+    opacity: 0.9;
+}
+
+/* Flecha izquierda pegada al borde interno de la imagen */
+.elementor-lightbox .elementor-swiper-button-prev {
+    left: 10px !important; /* Ajusta este valor */
+}
+
+/* Flecha derecha pegada al borde interno de la imagen */
+.elementor-lightbox .elementor-swiper-button-next {
+    right: 10px !important; /* Ajusta este valor */
+}
+
+/* Asegurar que no se salgan de la caja de la imagen */
+.elementor-lightbox .swiper-slide {
+    overflow: visible !important;
+}
+
+/* Opcional: hacer las flechas más discretas */
+.elementor-lightbox .elementor-swiper-button-prev svg,
+.elementor-lightbox .elementor-swiper-button-next svg {
+    width: 32px;
+    height: 32px;
+    filter: drop-shadow(0 0 4px rgba(0,0,0,0.5));
+}

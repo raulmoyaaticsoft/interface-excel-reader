@@ -1,0 +1,97 @@
+💥 [GLOBAL CATCH] 2025-11-06 14:23:32
+Mensaje: Call to a member function getMessage() on null
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-variables-desde-excel.php
+Línea: 128
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1077): procesar_productos_variables_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(192): do_action()
+#7 {main}
+
+💥 [GLOBAL CATCH] 2025-11-10 17:17:26
+Mensaje: Call to undefined function normalizar_valor_excel()
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-variaciones-de-producto-desde-excel.php
+Línea: 295
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1083): procesar_variaciones_de_producto_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(192): do_action()
+#7 {main}
+
+💥 [GLOBAL CATCH] 2025-11-19 13:19:48
+Mensaje: procesar_productos_desde_excel(): Argument #1 ($productos) must be of type array, null given, called in /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php on line 1101
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-desde-excel.php
+Línea: 2
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1101): procesar_productos_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(192): do_action()
+#7 {main}
+
+💥 [GLOBAL CATCH] 2025-12-02 09:13:28
+Mensaje: procesar_productos_desde_excel(): Argument #1 ($productos) must be of type array, null given, called in /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php on line 1110
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-desde-excel.php
+Línea: 2
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1110): procesar_productos_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(207): do_action()
+#7 {main}
+
+💥 [GLOBAL CATCH] 2025-12-02 09:16:14
+Mensaje: procesar_productos_desde_excel(): Argument #1 ($productos) must be of type array, null given, called in /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php on line 1110
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-desde-excel.php
+Línea: 2
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1110): procesar_productos_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(207): do_action()
+#7 {main}
+
+💥 [GLOBAL CATCH] 2025-12-02 08:16:42
+Mensaje: procesar_productos_desde_excel(): Argument #1 ($productos) must be of type array, null given, called in /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php on line 1110
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-desde-excel.php
+Línea: 2
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1110): procesar_productos_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(71): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#4 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(207): do_action()
+#6 {main}
+
+💥 [GLOBAL CATCH] 2025-12-02 09:18:11
+Mensaje: procesar_productos_desde_excel(): Argument #1 ($productos) must be of type array, null given, called in /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php on line 1110
+Archivo: /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/funciones/procesar-productos-desde-excel.php
+Línea: 2
+Traza:
+#0 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/process-sync.php(1110): procesar_productos_desde_excel()
+#1 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(211): read_excel_to_array_interface()
+#2 /home/copelepruebas/public_html/wp-content/plugins/interface-excel-reader/sync-interface.php(149): interface_excel_reader_ejecutar_sincro()
+#3 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(324): interface_excel_reader_submit_handler()
+#4 /home/copelepruebas/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/copelepruebas/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/copelepruebas/public_html/wp-admin/admin-ajax.php(207): do_action()
+#7 {main}
+
