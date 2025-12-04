@@ -9,7 +9,7 @@
  * License: GPL2
  *
  * GitHub Plugin URI: raulmoyaaticsoft/interface-excel-reader
- * GitHub Branch: master
+ * GitHub Branch: main
  */
 
 
